@@ -1,0 +1,8 @@
+Title ===Neil Armstrong===
+Author ===Montrew Dunham===
+PublicationDate ===1996-08-01===
+Description ===Presents the childhood of the astronaut who became the first man to walk on the moon.===
+PageCount ===192===
+Type ===BOOK===
+LCSH ===Biography & Autobiography===
+AvgRate ===3.5===

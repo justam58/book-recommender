@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:03:10Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="george_washington_spymaster_a01" isbn="1426300417" isbn13="9781426300417">
+<Title>George Washington, Spymaster</Title>
+<TitleLong>George Washington, Spymaster: How the Americans Outspied the British and Won the Revolutionary War</TitleLong>
+<AuthorsText>Thomas B. Allen, </AuthorsText>
+<PublisherText publisher_id="national_geographic_childrens_">National Geographic Children's Books</PublisherText>
+<Details change_time="2007-10-11T14:11:25Z" price_time="2010-12-08T22:38:52Z" edition_info="Paperback; 2007-01-09" language="" physical_description_text="192 pages" lcc_number="" dewey_decimal_normalized="973.385092" dewey_decimal="973.385092" />
+</BookData>
+</BookList>
+</ISBNdb>

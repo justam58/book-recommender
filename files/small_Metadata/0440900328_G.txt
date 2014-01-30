@@ -1,0 +1,6 @@
+Title ===The Chocolate War===
+Author ===Robert Cormier===
+PublicationDate ===1993-05===
+Description ==="With a new introduction by the author"--Jacket.===
+Type ===BOOK===
+AvgRate ===2.5===

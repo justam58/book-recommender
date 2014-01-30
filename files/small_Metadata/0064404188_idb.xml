@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:54:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="scary_stories_3_a02" isbn="0064404188" isbn13="9780064404181">
+<Title>Scary stories 3</Title>
+<TitleLong>Scary stories 3: more tales to chill your bones</TitleLong>
+<AuthorsText>collected from folklore and retold by Alvin Schwartz; drawings by Stephen Gammell</AuthorsText>
+<PublisherText publisher_id="harpercollinspublishers">New York, N.Y. : HarperCollinsPublishers, c1991.</PublisherText>
+<Details change_time="2004-09-11T19:39:09Z" price_time="2012-12-24T18:54:15Z" edition_info="(pbk)" language="eng" physical_description_text="115 p. : ill. ; 24 cm." lcc_number="PZ8.1" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

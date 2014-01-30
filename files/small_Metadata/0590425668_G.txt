@@ -1,0 +1,7 @@
+Title ===The Tiny Seed===
+Author ===Eric Carle===
+PublicationDate ===1987-01-01===
+Description ===A simple description of a flowering plant's life cycle through the seasons.===
+PageCount ===30===
+Type ===BOOK===
+AvgRate ===4.0===

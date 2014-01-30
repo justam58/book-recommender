@@ -1,0 +1,7 @@
+frame:|hard-edged*9|,|heart-warming*2|,|small-town*1|,|evocative*4|,|humorous*3|,|historical*7|,
+pptone:|realistic*2|,|happy*1|,
+storyline:|linear*2|,|complex*2|,|gentle*3|,|racy*1|,|humorous*6|,|tragic*2|,|inspirational*1|,
+pptopic:|death*1|,|illustration*9|,|addiction*1|,|violent*1|,
+characterization:|quirky*1|,|linear*1|,|well-developed*3|,|dramatic*2|,|believable*6|,|sympathetic*2|,
+lang_style:|complex*1|,|simple*2|,|poetic*3|,|unusual*2|,|thoughtful*1|,
+pacing:|engrossing*1|,|fast*1|,

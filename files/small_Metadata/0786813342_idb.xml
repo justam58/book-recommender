@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:54:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="sasquatch_a03" isbn="0786813342" isbn13="9780786813346">
+<Title>Sasquatch</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Roland Smith</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York : Hyperion Books for Children, c1998.</PublisherText>
+<Details change_time="2004-07-28T05:29:12Z" price_time="2012-06-13T19:30:26Z" edition_info="" language="eng" physical_description_text="188 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

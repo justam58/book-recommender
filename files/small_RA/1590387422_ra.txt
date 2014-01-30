@@ -1,0 +1,6 @@
+frame:|popular*1|,
+pptone:|serious*1|,
+pptopic:|war*1|,
+characterization:|believable*1|,
+lang_style:|complex*1|,|passionate*1|,|simple*2|,|unusual*2|,|thoughtful*1|,
+pacing:|slow*1|,|fast*1|,

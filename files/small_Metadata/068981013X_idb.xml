@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:31:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="henry_and_mudge_and_the_happy_cat_a02" isbn="068981013X" isbn13="9780689810138">
+<Title>Henry and Mudge and the happy cat</Title>
+<TitleLong>Henry and Mudge and the happy cat: the eighth book of their adventures</TitleLong>
+<AuthorsText>story by Cynthia Rylant; pictures by Suçie Stevenson</AuthorsText>
+<PublisherText publisher_id="aladdin_books">New York : Aladdin Books ; 1994.</PublisherText>
+<Details change_time="2009-05-10T22:47:01Z" price_time="2012-04-07T07:09:53Z" edition_info="(pbk.)" language="eng" physical_description_text="47 p. : col. ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

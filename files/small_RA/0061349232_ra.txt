@@ -1,0 +1,6 @@
+frame:|evocative*1|,
+pptone:|dark*3|,
+storyline:|linear*1|,
+pptopic:|death*1|,
+characterization:|well-developed*3|,
+pacing:|fast*2|,

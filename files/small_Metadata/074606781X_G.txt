@@ -1,0 +1,8 @@
+Title ===Alice in Wonderland===
+Author ===Lewis Carroll===
+Author ===Mauro Evangelista===
+PublicationDate ===2006-01===
+Description ==="An ordinary day becomes extraordinary when Alice follows the White Rabbit down a rabbit hole, and finds herself in Wonderland ..."--Cover back.===
+PageCount ===64===
+Type ===BOOK===
+AvgRate ===4.0===

@@ -1,0 +1,5 @@
+frame:|hard-edged*7|,|school*1|,|contemporary*1|,|popular*2|,|romantic*2|,|exotic*1|,
+storyline:|thought-provoking*1|,|linear*2|,|open-ended*1|,|complex*13|,|gentle*2|,|racy*5|,|violent*3|,|tragic*1|,
+pptopic:|religion*8|,|politics*1|,|sex*2|,|death*7|,|illustration*1|,|war*4|,
+characterization:|recognizable*1|,|linear*1|,|stereotypes*1|,|well-developed*12|,|distant*2|,|believable*10|,|sympathetic*2|,
+lang_style:|complex*6|,|passionate*3|,|simple*1|,|poetic*1|,|dramatic*1|,|unusual*10|,|thoughtful*2|,|natural*1|,|classic*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:49:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="curious_george_plants_a_seed" isbn="0618777105" isbn13="9780618777105">
+<Title>Curious George plants a seed</Title>
+<TitleLong></TitleLong>
+<AuthorsText>adaptation by Erica Zappy; based on the TV series teleplay written by Sandra Willard</AuthorsText>
+<PublisherText publisher_id="houghton_mifflin">Boston : Houghton Mifflin, 2007.</PublisherText>
+<Details change_time="2010-02-16T03:40:32Z" price_time="2010-07-12T12:20:47Z" edition_info="(pbk. : alk. paper)" language="eng" physical_description_text="22 p. : col. ill. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

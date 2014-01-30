@@ -1,0 +1,6 @@
+frame:|romantic*1|,|evocative*1|,|exotic*1|,
+pptone:|dark*1|,
+storyline:|linear*4|,|open-ended*1|,|gentle*1|,|racy*1|,|humorous*45|,|mythic*3|,|tragic*2|,
+pptopic:|drinking*2|,|death*3|,|illustration*45|,|violent*1|,
+characterization:|quirky*1|,|believable*2|,
+lang_style:|complex*2|,|passionate*1|,|unusual*4|,

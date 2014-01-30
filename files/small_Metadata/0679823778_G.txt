@@ -1,0 +1,8 @@
+Title ===The Random House Book of Greek Myths===
+Author ===Joan D. Vinge===
+Author ===Oren Sherman===
+PublicationDate ===1999-10-01===
+Description ===Retells some of the most famous Greek myths about gods, goddesses, humans, heroes, and monsters, explaining the background of the tales and how they have survived.===
+PageCount ===152===
+Type ===BOOK===
+AvgRate ===2.0===

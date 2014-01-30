@@ -1,0 +1,6 @@
+frame:|hard-edged*7|,|school*1|,|suspenseful*1|,|popular*2|,|evocative*1|,|gritty*5|,|humorous*1|,|descriptive*1|,
+pptone:|happy*1|,|serious*1|,
+storyline:|open-ended*2|,|complex*5|,|folksy*1|,|mythic*2|,
+pptopic:|sex*1|,|death*5|,|illustration*2|,|divorce*1|,|war*1|,
+characterization:|quirky*2|,|well-developed*5|,|evocative*1|,|believable*4|,|sympathetic*2|,
+lang_style:|complex*3|,|passionate*2|,|simple*2|,|poetic*1|,|unusual*2|,|natural*1|,

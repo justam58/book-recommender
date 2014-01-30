@@ -1,0 +1,4 @@
+storyline:|issue-oriented*1|,|gentle*1|,|conclusive*1|,|racy*1|,|humorous*1|,|action-oriented*1|,
+pptopic:|illustration*1|,
+characterization:|believable*1|,|sympathetic*1|,
+lang_style:|thoughtful*1|,

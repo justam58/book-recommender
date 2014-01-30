@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:12:32Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="room_one_a_mystery_or_two" isbn="0689866860" isbn13="9780689866869">
+<Title>Room one</Title>
+<TitleLong>Room one: a mystery or two</TitleLong>
+<AuthorsText>Andrew Clements; illustrations by Chris Blair</AuthorsText>
+<PublisherText publisher_id="simon_schuster_books_for_young">New York : Simon &amp; Schuster Books for Young Readers, 2006.</PublisherText>
+<Details change_time="2010-10-24T23:07:52Z" price_time="2012-09-28T20:19:29Z" edition_info="(hardcover)" language="eng" physical_description_text="162, [6] p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

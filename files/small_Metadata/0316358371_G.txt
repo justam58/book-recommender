@@ -1,0 +1,7 @@
+Title ===Flight 714 to Sydney===
+Author ===Hergé===
+PublicationDate ===1975-04-30===
+Description ===The classic graphic novel. On their way to Sydney, Tintin and Captain Haddock run into an old friend, a pilot who offers them a ride on a private jet. But when the plane gets hijacked, Tintin and the Captain find themselves prisoners on a deserted volcanic island!===
+PageCount ===62===
+Type ===BOOK===
+AvgRate ===3.5===

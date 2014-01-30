@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:36:51Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="chicken_soup_for_the_teenage_soul" isbn="1558744630" isbn13="9781558744639">
+<Title>Chicken soup for the teenage soul</Title>
+<TitleLong>Chicken soup for the teenage soul: 101 stories of life, love, and learning</TitleLong>
+<AuthorsText>Jack Canfield, Mark Victor Hansen, Kimberly Kirberger</AuthorsText>
+<PublisherText publisher_id="health_communications">Deerfield Beach, Fla. : Health Communications, c1997.</PublisherText>
+<Details change_time="2012-05-10T03:38:23Z" price_time="2012-10-08T07:09:29Z" edition_info="" language="eng" physical_description_text="xvii, 354 p. : ill. ; 23 cm." lcc_number="" dewey_decimal_normalized="158.1280835" dewey_decimal="158.1/28/0835" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:21:49Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="carnival_at_candlelight" isbn="0375830332" isbn13="9780375830334">
+<Title>Carnival at candlelight</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Mary Pope Osborne; illustrated by Sal Murdocca</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2005.</PublisherText>
+<Details change_time="2008-05-31T05:58:28Z" price_time="2013-01-04T00:45:24Z" edition_info="(trade)" language="eng" physical_description_text="105 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

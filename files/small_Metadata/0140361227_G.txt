@@ -1,0 +1,8 @@
+Title ===The House at Pooh Corner===
+Author ===A. A. Milne===
+Author ===Ernest H. Shepard===
+PublicationDate ===1992===
+Description ===Ten adventures of Pooh, Eeyore, Tigger, Piglet, Owl, and other friends of Christopher Robin.===
+PageCount ===180===
+Type ===BOOK===
+AvgRate ===4.5===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:30:35Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_truth_about_forever" isbn="0670036390" isbn13="9780670036394">
+<Title>The truth about forever</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Sarah Dessen</AuthorsText>
+<PublisherText publisher_id="viking">New York : Viking, 2004.</PublisherText>
+<Details change_time="2006-10-11T04:04:47Z" price_time="2012-05-17T06:23:23Z" edition_info="(hardcover)" language="eng" physical_description_text="374 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

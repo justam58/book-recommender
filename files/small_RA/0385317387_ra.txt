@@ -1,0 +1,4 @@
+frame:|melodramatic*1|,
+pptopic:|illustration*2|,
+characterization:|evocative*5|,
+lang_style:|passionate*1|,|unusual*1|,|classic*1|,

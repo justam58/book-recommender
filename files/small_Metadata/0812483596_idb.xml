@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:54:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="scorpions_a25" isbn="0812483596" isbn13="9780812483598">
+<Title>Scorpions</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Walter Dean Myers, </AuthorsText>
+<PublisherText publisher_id="perfection_learning">Perfection Learning</PublisherText>
+<Details change_time="2012-03-13T16:10:31Z" price_time="2013-10-16T00:54:16Z" edition_info="Hardcover; 1996-01" language="" physical_description_text="6.0&quot;x9.0&quot;x1.0&quot;; 0.5 lb; 216 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

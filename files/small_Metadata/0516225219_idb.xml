@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:42:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harriet_tubman_a25" isbn="0516225219" isbn13="9780516225210">
+<Title>Harriet Tubman</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Wil Mara</AuthorsText>
+<PublisherText publisher_id="childrens_press_a01">New York : Children's Press, c2002.</PublisherText>
+<Details change_time="2005-12-27T15:59:09Z" price_time="2012-09-20T06:06:56Z" edition_info="" language="eng" physical_description_text="31 p. : ill. (some col.), col. maps ; 19 cm." lcc_number="E444" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

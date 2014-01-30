@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:04:37Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="shades_of_gray_a15" isbn="0380712326" isbn13="9780380712328">
+<Title>Shades of Gray</Title>
+<TitleLong>Shades of Gray (Avon Camelot Books (Paperback))</TitleLong>
+<AuthorsText>Carolyn Reeder, </AuthorsText>
+<PublisherText publisher_id="camelot">Camelot</PublisherText>
+<Details change_time="2006-05-20T02:41:43Z" price_time="2013-01-30T22:52:52Z" edition_info="Paperback; 1992-07" language="" physical_description_text="165 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

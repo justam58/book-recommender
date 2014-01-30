@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:41:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="tuck_everlasting" isbn="0374480125" isbn13="9780374480127">
+<Title>Tuck everlasting</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Natalie Babbitt</AuthorsText>
+<PublisherText publisher_id="farrar_straus_giroux">New York [N.Y.] : Farrar, Straus, Giroux, 2000.</PublisherText>
+<Details change_time="2009-09-21T06:06:56Z" price_time="2012-07-31T17:42:57Z" edition_info="(pbk.)" language="eng" physical_description_text="171 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="813.54" dewey_decimal="813/.54" />
+</BookData>
+</BookList>
+</ISBNdb>

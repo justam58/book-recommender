@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:17:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_london_eye_mystery" isbn="0375849769" isbn13="9780375849763">
+<Title>The London Eye mystery</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Siobhan Dowd</AuthorsText>
+<PublisherText publisher_id="david_fickling_books">New York : David Fickling Books, 2008, c2007.</PublisherText>
+<Details change_time="2008-10-05T22:27:57Z" price_time="2012-01-23T04:54:57Z" edition_info="(trade) :$15.99" language="eng" physical_description_text="322 p. ; 19 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

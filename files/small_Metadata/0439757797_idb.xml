@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:48:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="notes_from_the_midnight_driver" isbn="0439757797" isbn13="9780439757799">
+<Title>Notes from the midnight driver</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Jordan Sonnenblick</AuthorsText>
+<PublisherText publisher_id="scholastic_press">New York : Scholastic Press, 2006.</PublisherText>
+<Details change_time="2009-04-19T01:19:51Z" price_time="2012-01-26T12:32:01Z" edition_info="(hdbk. : alk. paper)" language="eng" physical_description_text="265 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

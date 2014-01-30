@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:52:53Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="sweet_clara_and_the_freedom_quilt" isbn="0679874720" isbn13="9780679874720">
+<Title>Sweet Clara and the freedom quilt</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Deborah Hopkinson; paintings by James Ransome</AuthorsText>
+<PublisherText publisher_id="knopf">New York : Knopf, 1993.</PublisherText>
+<Details change_time="2011-07-29T19:44:09Z" price_time="2011-07-29T19:45:38Z" edition_info="(pbk)" language="eng" physical_description_text="[30] p. : col. ill. ; 28 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

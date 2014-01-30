@@ -1,0 +1,6 @@
+frame:|contemporary*1|,|popular*1|,
+storyline:|gentle*1|,|humorous*2|,|mythic*2|,|episodic*1|,
+pptopic:|illustration*2|,|addiction*2|,|curse*3|,|war*2|,
+characterization:|linear*1|,|well-developed*2|,|believable*1|,|sympathetic*1|,
+lang_style:|passionate*1|,|unusual*4|,|thoughtful*1|,
+pacing:|fast*4|,

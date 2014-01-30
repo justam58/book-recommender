@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:41:37Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="when_you_reach_me" isbn="0385737424" isbn13="9780385737425">
+<Title>When you reach me</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Rebecca Stead</AuthorsText>
+<PublisherText publisher_id="wendy_lamb_books">New York : Wendy Lamb Books, c2009.</PublisherText>
+<Details change_time="2012-01-06T11:56:39Z" price_time="2012-09-24T19:02:18Z" edition_info="(hardcover)" language="eng" physical_description_text="199 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:51:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="old_yeller_a09" isbn="0590023101" isbn13="9780590023108">
+<Title>Old Yeller</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Fred Gipson, </AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2007-01-01T07:25:47Z" price_time="2012-08-18T05:16:42Z" edition_info="Paperback; 1988-06" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

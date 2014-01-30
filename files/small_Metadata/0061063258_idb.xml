@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:39:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="thoroughbred_14_cindys_glory" isbn="0061063258" isbn13="9780061063251">
+<Title>Cindy's glory</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Joanna Campbell</AuthorsText>
+<PublisherText publisher_id="harperpaperbacks">New York : HarperPaperbacks, c1995.</PublisherText>
+<Details change_time="2011-05-04T10:53:23Z" price_time="2011-12-23T22:24:49Z" edition_info="" language="eng" physical_description_text="185 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,3 @@
+frame:|hard-edged*1|,|humorous*7|,
+storyline:|character-centered*7|,|family-centered*7|,|plot-centered*7|,|humorous*1|,
+pptopic:|illustration*1|,|baby*10|,

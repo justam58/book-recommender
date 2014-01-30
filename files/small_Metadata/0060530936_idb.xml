@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:11:55Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_graveyard_book_a02" isbn="0060530936" isbn13="9780060530938">
+<Title>The graveyard book</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Neil Gaiman; with illustrations by Dave McKean</AuthorsText>
+<PublisherText publisher_id="harpercollins_pub">New York : HarperCollins Pub., c2008.</PublisherText>
+<Details change_time="2009-07-05T03:46:35Z" price_time="2012-03-15T23:20:14Z" edition_info="(lib bdg.)" language="eng" physical_description_text="312 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

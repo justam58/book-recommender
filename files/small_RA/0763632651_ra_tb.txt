@@ -1,0 +1,2 @@
+pptopic:|illustration*1|,
+lang_style:|complex*1|,|simple*1|,

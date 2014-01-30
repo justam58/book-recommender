@@ -1,0 +1,5 @@
+pptone:|realistic*1|,|happy*1|,
+storyline:|linear*1|,|open-ended*2|,|gentle*3|,|racy*2|,|humorous*5|,|tragic*15|,|inspirational*10|,
+pptopic:|sex*1|,|drinking*1|,|death*3|,|illustration*2|,|divorce*2|,
+characterization:|well-developed*2|,|evocative*1|,
+lang_style:|passionate*2|,|simple*2|,|unusual*4|,

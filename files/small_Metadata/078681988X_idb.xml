@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:27:54Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dont_let_the_pigeon_drive_the_bus" isbn="078681988X" isbn13="9780786819881">
+<Title>Don't let the pigeon drive the bus!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>words and pictures by Mo Willems</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York : Hyperion Books for Children, c2003.</PublisherText>
+<Details change_time="2006-01-21T15:38:27Z" price_time="2013-01-12T19:06:47Z" edition_info="$12.99" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

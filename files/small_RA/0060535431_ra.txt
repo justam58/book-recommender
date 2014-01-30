@@ -1,0 +1,7 @@
+frame:|heart-warming*7|,|small-town*1|,|evocative*1|,|romantic*2|,|historical*1|,|bittersweet*1|,|literary*1|,
+pptone:|serious*2|,
+storyline:|issue-oriented*1|,|linear*1|,|complex*1|,|conclusive*1|,|action-oriented*1|,|tragic*2|,
+pptopic:|sex*2|,|death*11|,|illustration*1|,|curse*1|,
+characterization:|well-developed*1|,|believable*1|,
+lang_style:|simple*1|,|dramatic*2|,|unusual*1|,|thoughtful*1|,|conversational*1|,
+pacing:|fast*1|,

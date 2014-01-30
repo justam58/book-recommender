@@ -1,0 +1,6 @@
+frame:|heart-warming*1|,|romantic*1|,|historical*2|,
+storyline:|humorous*13|,
+pptopic:|illustration*9|,
+characterization:|recognizable*1|,|evocative*1|,|believable*9|,
+lang_style:|passionate*1|,|unusual*15|,|seemly*1|,
+pacing:|fast*3|,

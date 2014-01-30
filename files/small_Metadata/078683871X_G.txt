@@ -1,0 +1,8 @@
+Title ===The Talented Clementine===
+Author ===Sara Pennypacker===
+Author ===Marla Frazee===
+PublicationDate ===2008-04-01===
+Description ===Includes a sneak peek from "Clementine's letter."===
+PageCount ===160===
+Type ===BOOK===
+AvgRate ===4.0===

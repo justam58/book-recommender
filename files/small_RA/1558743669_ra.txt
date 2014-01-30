@@ -1,0 +1,6 @@
+frame:|heart-warming*1|,|romantic*1|,|gritty*1|,|bittersweet*1|,
+pptone:|old-fashioned*1|,
+storyline:|thought-provoking*1|,|issue-oriented*1|,|complex*1|,|open-ended*2|,|gentle*4|,|conclusive*2|,|racy*2|,|humorous*1|,|action-oriented*1|,|tragic*10|,|inspirational*12|,
+pptopic:|drinking*3|,|death*1|,|illustration*1|,|violent*1|,
+characterization:|well-developed*1|,
+lang_style:|complex*1|,|passionate*2|,|unusual*2|,|candid*1|,|thoughtful*2|,|seemly*1|,

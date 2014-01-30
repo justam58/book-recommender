@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:14:32Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="nancy_drew_mystery_stories" isbn="044809570X" isbn13="9780448095707">
+<Title>Nancy Drew Mystery Stories </Title>
+<TitleLong>Nancy Drew Mystery Stories : The Secret of The Old Clock</TitleLong>
+<AuthorsText>Carolyn Keene, </AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">Grosset &amp; Dunlap</PublisherText>
+<Details change_time="2007-08-20T00:35:00Z" price_time="2012-02-01T05:54:06Z" edition_info="Hardcover; 1987-09-02" language="" physical_description_text="368 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,8 @@
+Title ===A Series of Unfortunate Events #4: The Miserable Mill===
+Author ===Lemony Snicket===
+PublicationDate ===2000-04-05===
+Description ===Accidents, evil plots, and general misfortune abound when, in their continuing search for a home, the Beaudelaire orphans are sent to live and work in a sinister lumber mill.===
+PageCount ===194===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===5.0===

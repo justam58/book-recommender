@@ -1,0 +1,8 @@
+Title ===Ranger's Apprentice===
+Author ===John F. Flanagan===
+PublicationDate ===2005===
+Description ===When fifteen-year-old Will is rejected by battle school, he becomes the reluctant apprentice to the mysterious Ranger Halt, and winds up protecting the kingdom from danger.===
+PageCount ===249===
+Type ===BOOK===
+LCSH ===Heroes===
+AvgRate ===4.0===

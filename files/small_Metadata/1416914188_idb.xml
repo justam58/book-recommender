@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:33:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="raven_rise" isbn="1416914188" isbn13="9781416914181">
+<Title>Raven Rise</Title>
+<TitleLong>Raven Rise (Pendragon)</TitleLong>
+<AuthorsText>D. J. MacHale, </AuthorsText>
+<PublisherText publisher_id="simon_schuster_childrens_publi">Simon &amp; Schuster Children's Publishing</PublisherText>
+<Details change_time="2008-01-19T12:54:22Z" price_time="2012-03-16T02:28:49Z" edition_info="Hardcover; 2008-05-20" language="" physical_description_text="544 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

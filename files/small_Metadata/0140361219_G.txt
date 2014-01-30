@@ -1,0 +1,8 @@
+Title ===Winnie the Pooh===
+Author ===A. A. Milne===
+PublicationDate ===1992-08-01===
+Description ===Edward Bear acquires a new name, Winnie-the-Pooh, and a new life with the inhabitants of the Hundred Acre Woods.===
+PageCount ===161===
+Type ===BOOK===
+LCSH ===Drama===
+AvgRate ===4.5===

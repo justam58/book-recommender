@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:19:56Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="little_house_in_the_big_woods_book_and_charm" isbn="0060797509" isbn13="9780060797508">
+<Title>Little House in the Big Woods Book and Charm</Title>
+<TitleLong>Little House in the Big Woods Book and Charm (Charming Classics)</TitleLong>
+<AuthorsText>Laura Ingalls Wilder, Garth Williams (Illustrator)</AuthorsText>
+<PublisherText publisher_id="harperfestival">HarperFestival</PublisherText>
+<Details change_time="2007-07-09T12:04:09Z" price_time="2010-08-20T02:50:18Z" edition_info="Paperback; 2005-10-01" language="" physical_description_text="256 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

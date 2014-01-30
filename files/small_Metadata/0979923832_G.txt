@@ -1,0 +1,7 @@
+Title ===Jack and the Box===
+PublicationDate ===2008===
+Description ===Jack, a bunny, receives a Jack-in-the-box as a present and, as they play together, the toy performs antics and gives Jack some unexpected surprises.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===2.5===

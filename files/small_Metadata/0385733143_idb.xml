@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:57:05Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="small_steps_a02" isbn="0385733143" isbn13="9780385733144">
+<Title>Small steps</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Louis Sachar</AuthorsText>
+<PublisherText publisher_id="delacorte_press">New York : Delacorte Press, 2006.</PublisherText>
+<Details change_time="2008-08-04T15:55:48Z" price_time="2012-12-17T16:35:13Z" edition_info="(trade)" language="eng" physical_description_text="257 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

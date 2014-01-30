@@ -1,0 +1,7 @@
+Title ===Stormbreaker===
+Author ===Anthony Horowitz===
+PublicationDate ===2001-05-01===
+Description ===After the death of the uncle who had been his guardian, fourteen-year-old Alex Rider is coerced to continue his uncle's dangerous work for Britain's intelligence agency, MI6.===
+PageCount ===192===
+Type ===BOOK===
+AvgRate ===4.0===

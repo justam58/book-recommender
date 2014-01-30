@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:12:10Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_savage_a02" isbn="076363932X" isbn13="9780763639327">
+<Title>The savage</Title>
+<TitleLong></TitleLong>
+<AuthorsText>David Almond; illustrated by Dave McKean</AuthorsText>
+<PublisherText publisher_id="candlewick">Cambridge, Massachusetts : Candlewick, 2008.</PublisherText>
+<Details change_time="2009-09-23T22:00:42Z" price_time="2011-07-20T09:32:00Z" edition_info="(hbk)" language="eng" physical_description_text="79 p. : col. ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="823.92" dewey_decimal="823.92" />
+</BookData>
+</BookList>
+</ISBNdb>

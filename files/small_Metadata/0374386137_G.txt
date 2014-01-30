@@ -1,0 +1,8 @@
+Title ===A Wrinkle in Time===
+Author ===Madeleine L'Engle===
+PublicationDate ===1962===
+Description ===Three extra-terrestrial beings take Meg and her friends to another world.===
+PageCount ===211===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

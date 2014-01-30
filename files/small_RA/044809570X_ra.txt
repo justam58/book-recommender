@@ -1,0 +1,5 @@
+frame:|historical*1|,
+storyline:|issue-oriented*1|,|linear*1|,|gentle*1|,|action-oriented*1|,
+characterization:|well-developed*3|,
+lang_style:|unusual*2|,
+pacing:|engrossing*1|,|fast*1|,

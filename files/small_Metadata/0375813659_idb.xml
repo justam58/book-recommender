@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:57:56Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="magic_tree_house_boxed_set" isbn="0375813659" isbn13="9780375813658">
+<Title>Magic Tree House Boxed Set</Title>
+<TitleLong>Magic Tree House Boxed Set (Volumes 1-4)</TitleLong>
+<AuthorsText>MARY POPE OSBORNE</AuthorsText>
+<PublisherText publisher_id="random_house_books_for_young_r">Random House Books for Young Readers</PublisherText>
+<Details change_time="2004-12-21T21:53:52Z" price_time="2012-04-21T09:05:43Z" edition_info="Paperback; 2001-05-29" language="" physical_description_text="5.3&quot;x7.9&quot;x1.1&quot;; 0.6 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

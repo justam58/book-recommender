@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:10:30Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_magic_of_the_little_people_a01" isbn="0671326384" isbn13="9780671326388">
+<Title>The magic of the little people</Title>
+<TitleLong></TitleLong>
+<AuthorsText>illustrated by Dale Payson</AuthorsText>
+<PublisherText publisher_id="j_messner">New York : J. Messner, 1974.</PublisherText>
+<Details change_time="2011-01-07T22:05:30Z" price_time="2011-01-19T05:25:01Z" edition_info="(lib. bdg.)" language="eng" physical_description_text="96 p. : ill. ; 22 cm." lcc_number="GR550" dewey_decimal_normalized="398.45" dewey_decimal="398/.45" />
+</BookData>
+</BookList>
+</ISBNdb>

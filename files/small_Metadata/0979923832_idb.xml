@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:08:28Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="jack_and_the_box" isbn="0979923832" isbn13="9780979923838">
+<Title>Jack and the box</Title>
+<TitleLong>Jack and the box: a toon book</TitleLong>
+<AuthorsText>by Art Spiegelman</AuthorsText>
+<PublisherText publisher_id="little_lit_library_raw_junior">New York : Little Lit Library, Raw Junior, c2008.</PublisherText>
+<Details change_time="2008-09-28T03:29:37Z" price_time="2012-03-24T19:56:41Z" edition_info="" language="eng" physical_description_text="32 p. : col. ill." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,8 @@
+Title ===The Name of this Book Is Secret===
+Author ===Pseudonymous Bosch===
+PublicationDate ===2007-10-01===
+Description ===Two eleven-year-old misfits try to solve the mystery of a dead magician and stop the evil Dr. L and Ms. Mauvais, who are searching for the secret of immortality.===
+PageCount ===360===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

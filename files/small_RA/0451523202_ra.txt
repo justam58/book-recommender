@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|popular*1|,|descriptive*1|,|exotic*1|,
+storyline:|issue-oriented*1|,|complex*1|,|linear*3|,|gentle*2|,|humorous*8|,|racy*2|,|action-oriented*1|,|mythic*2|,|episodic*1|,
+pptopic:|drinking*1|,|illustration*58|,|baby*2|,
+characterization:|well-developed*2|,|believable*1|,
+lang_style:|complex*4|,|passionate*1|,|unusual*7|,|thoughtful*1|,|classic*1|,|conversational*1|,

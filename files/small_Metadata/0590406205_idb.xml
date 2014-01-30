@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:21:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="stuart_little" isbn="0590406205" isbn13="9780590406208">
+<Title>Stuart Little</Title>
+<TitleLong></TitleLong>
+<AuthorsText>E. B. White; pictures by Garth Williams</AuthorsText>
+<PublisherText publisher_id="harper_row">New York : Harper &amp; Row, 1945.</PublisherText>
+<Details change_time="2008-08-07T14:25:41Z" price_time="2012-09-21T16:41:59Z" edition_info="" language="eng" physical_description_text="131 p. : ill." lcc_number="PZ10" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:56:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mary_poppins_a06" isbn="0152058109" isbn13="9780152058104">
+<Title>Mary Poppins</Title>
+<TitleLong></TitleLong>
+<AuthorsText>P. L. Travers; illustrated by Mary Shepard</AuthorsText>
+<PublisherText publisher_id="harcourt">Orlando : Harcourt, 1997.</PublisherText>
+<Details change_time="2009-10-27T19:32:46Z" price_time="2010-09-27T19:21:51Z" edition_info="" language="eng" physical_description_text="209 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="lcac" />
+</BookData>
+</BookList>
+</ISBNdb>

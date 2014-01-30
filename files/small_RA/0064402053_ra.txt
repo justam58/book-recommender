@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|small-town*1|,|suspenseful*1|,
+pptone:|sentimental*1|,
+storyline:|linear*1|,|gentle*6|,|racy*2|,|inspirational*1|,
+pptopic:|technology*1|,|death*4|,|illustration*6|,
+characterization:|believable*3|,
+lang_style:|simple*20|,|poetic*15|,|unusual*2|,

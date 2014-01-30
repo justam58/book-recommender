@@ -1,0 +1,29 @@
+small-town:small town,
+philosophical:
+melodramatic:
+evangelistic:
+foreboding:nightmare,
+hard-edged:
+exotic:magical,mystical, 
+heart-warming:heartwarming,
+timeless:
+descriptive:detailed,detailed setting,
+upbeat
+literary:
+political:
+romantic:
+light-hearted
+evocative:
+gritty:bleak,darker,menacing
+psychological:
+humorous:fun
+rural:
+sensual:
+urban:
+school:scholarly,
+suspenseful:edgy,
+contemporary:
+popular:comfortable,lush,
+historical:
+bittersweet:bitter-sweet,
+journalistic:

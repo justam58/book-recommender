@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:58:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harry_potter_and_the_deathly_hallows" isbn="0545010225" isbn13="9780545010221">
+<Title>Harry Potter and the deathly hallows</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by J. K. Rowling; illustrations by Mary GrandPr?e</AuthorsText>
+<PublisherText publisher_id="arthur_a_levine_books">New York, NY : Arthur A. Levine Books, 2007.</PublisherText>
+<Details change_time="2008-11-05T05:19:37Z" price_time="2013-02-09T00:09:56Z" edition_info="" language="eng" physical_description_text="759 p. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

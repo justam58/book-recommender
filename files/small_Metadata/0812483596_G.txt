@@ -1,0 +1,7 @@
+Title ===Scorpions===
+Author ===Walter Dean Myers===
+PublicationDate ===1996-01-01===
+Description ===Award-winning author Walter Dean Myers (Brown Angels; The Righteous Revenge of Artemis Bonner) tells the story of 12-year-old Jamal, whose life changes drastically when he acquires a gun. Though he survives the experience, it's not without sacrificing his innocence and possibly his friendship with his best friend.===
+PageCount ===216===
+Type ===BOOK===
+AvgRate ===3.5===

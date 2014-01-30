@@ -1,0 +1,17 @@
+sex:obscene,
+technology:
+illustration:picture,
+disease:
+war:
+religion:
+politics:
+drinking:
+addiction:addict,
+divorce:
+baby:
+adoption:adopted
+death:die
+bullying:bully,bullys,
+cynical:
+curse:cursing,
+violent:violence,

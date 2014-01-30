@@ -1,0 +1,8 @@
+Title ===The School Mouse===
+Author ===Dick King-Smith===
+PublicationDate ===1999===
+Description ===Flora, the world's most educated mouse, saves her family during a crisis.===
+PageCount ===124===
+Type ===BOOK===
+LCSH ===Language Arts & Disciplines===
+AvgRate ===3.5===

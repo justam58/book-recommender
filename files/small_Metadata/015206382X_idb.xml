@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:03:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="twice_upon_a_marigold" isbn="015206382X" isbn13="9780152063825">
+<Title>Twice Upon a Marigold</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jean Ferris, </AuthorsText>
+<PublisherText publisher_id="harcourt_childrens_books">Harcourt Children's Books</PublisherText>
+<Details change_time="2008-07-22T12:53:23Z" price_time="2010-09-05T03:05:14Z" edition_info="Hardcover; 2008-05-01" language="" physical_description_text="5.6&quot;x8.4&quot;x1.1&quot;; 0.9 lb; 304 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

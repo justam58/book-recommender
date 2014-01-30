@@ -1,0 +1,9 @@
+Title ===Old hat, new hat===
+Author ===Stan Berenstain===
+Author ===Jan Berenstain===
+PublicationDate ===1970-08-12===
+Description ===Can the perfect old hat really be replaced by a new one?===
+PageCount ===29===
+Type ===BOOK===
+LCSH ===Art===
+AvgRate ===4.0===

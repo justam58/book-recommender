@@ -1,0 +1,25 @@
+complex:multiple,multiple storylines,strong language,layered,
+conclusive:
+philosophical:
+investigative:
+cinematic:
+action-oriented:
+gentle:
+family-centered:domestic,
+mystical:
+plot-centered:
+tragic:
+literary:
+issue-oriented:
+linear:
+plot twists:
+humorous:
+episodic:
+thought-provoking:
+open-ended:
+character-centered:
+racy:steamy,rich,strong language,sexually explicit,romp,
+folksy:
+violent:
+mythic:
+inspirational:

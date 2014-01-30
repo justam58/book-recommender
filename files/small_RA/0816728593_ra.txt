@@ -1,0 +1,5 @@
+frame:|hard-edged*2|,
+storyline:|issue-oriented*1|,|gentle*1|,|racy*1|,|humorous*2|,|action-oriented*1|,
+pptopic:|death*1|,|illustration*7|,|violent*1|,|war*1|,
+characterization:|believable*2|,
+lang_style:|complex*2|,|unusual*5|,

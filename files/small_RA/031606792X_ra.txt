@@ -1,0 +1,7 @@
+frame:|hard-edged*3|,|small-town*6|,|romantic*1|,|humorous*2|,|historical*2|,
+pptone:|dark*5|,
+storyline:|complex*4|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|humorous*3|,
+pptopic:|sex*13|,|death*1|,|illustration*3|,|addiction*2|,|violent*1|,|baby*22|,
+characterization:|recognizable*1|,|well-developed*17|,|distant*2|,|evocative*1|,|dramatic*1|,|believable*1|,|sympathetic*1|,
+lang_style:|passionate*1|,|simple*3|,|unusual*8|,|thoughtful*3|,
+pacing:|fast*1|,

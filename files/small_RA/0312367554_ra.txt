@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|heart-warming*1|,|small-town*4|,|humorous*2|,|historical*1|,|exotic*1|,|sensual*1|,
+pptone:|serious*1|,
+storyline:|complex*3|,|linear*3|,|issue-oriented*1|,|conclusive*1|,|humorous*1|,|action-oriented*1|,|family-centered*1|,|character-centered*1|,|gentle*2|,|plot-centered*1|,|racy*3|,|mythic*1|,|tragic*2|,
+pptopic:|religion*1|,|illustration*2|,|baby*2|,|war*1|,
+characterization:|recognizable*1|,|linear*1|,|well-developed*2|,|dramatic*1|,|believable*8|,|sympathetic*2|,
+lang_style:|complex*4|,|passionate*3|,|simple*2|,|unusual*4|,|thoughtful*2|,|natural*1|,|classic*1|,
+pacing:|easy*1|,|slow*1|,|fast*1|,

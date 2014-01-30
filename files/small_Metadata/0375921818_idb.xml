@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:20:04Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="hoot" isbn="0375921818" isbn13="9780375921810">
+<Title>Hoot</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Carl Hiaasen</AuthorsText>
+<PublisherText publisher_id="alfred_a_knopf">New York : Alfred A. Knopf, c2002.</PublisherText>
+<Details change_time="2003-11-18T12:33:21Z" price_time="2012-09-22T12:47:28Z" edition_info="(lib. bdg.)" language="eng" physical_description_text="292 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

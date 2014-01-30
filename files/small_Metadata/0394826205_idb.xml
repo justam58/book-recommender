@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:29:13Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="swimmy_a03" isbn="0394826205" isbn13="9780394826202">
+<Title>Swimmy</Title>
+<TitleLong></TitleLong>
+<AuthorsText></AuthorsText>
+<PublisherText publisher_id="random_house">[New York, Random House, 1973, c1963]</PublisherText>
+<Details change_time="2009-08-25T19:27:09Z" price_time="2013-01-13T20:19:46Z" edition_info="" language="eng" physical_description_text="[32] p. col. illus. 23 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

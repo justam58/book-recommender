@@ -1,0 +1,4 @@
+frame:|hard-edged*2|,|suspenseful*1|,|descriptive*1|,
+storyline:|gentle*1|,
+characterization:|well-developed*10|,
+lang_style:|passionate*1|,|simple*1|,|poetic*1|,|unusual*2|,

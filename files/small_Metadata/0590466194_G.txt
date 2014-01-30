@@ -1,0 +1,7 @@
+Title ===Welcome to Camp Nightmare===
+Author ===R. L. Stine===
+PublicationDate ===1997-09-01===
+Description ===Baffled at the series of strange, unexplained events taking place at summer camp in the desert wilderness, twelve-year-old Billy considers escaping the horrors forever.===
+PageCount ===136===
+Type ===BOOK===
+AvgRate ===3.5===

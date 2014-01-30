@@ -1,0 +1,5 @@
+frame:|gritty*3|,|historical*3|,
+pptone:|realistic*3|,
+pptopic:|war*3|,
+characterization:|believable*6|,
+lang_style:|complex*1|,|conversational*1|,

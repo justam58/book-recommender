@@ -1,0 +1,3 @@
+frame:|hard-edged*1|,|historical*1|,
+storyline:|open-ended*1|,|humorous*1|,|tragic*2|,|inspirational*4|,
+pptopic:|death*1|,|divorce*2|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:34:21Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dragon_ball_z_vol_2_a01" isbn="1421520656" isbn13="9781421520650">
+<Title>Dragon Ball Z, Vol. 2</Title>
+<TitleLong>Dragon Ball Z, Vol. 2 (VIZBIG Edition)</TitleLong>
+<AuthorsText>Akira Toriyama (Illustrator)</AuthorsText>
+<PublisherText publisher_id="viz_media_llc">VIZ Media LLC</PublisherText>
+<Details change_time="2008-08-29T22:09:20Z" price_time="2012-05-09T18:34:42Z" edition_info="Paperback; 2008-08-19" language="" physical_description_text="5.8&quot;x8.5&quot;x1.7&quot;; 2.0 lb; 559 pages" lcc_number="" dewey_decimal_normalized="741" dewey_decimal="741" />
+</BookData>
+</BookList>
+</ISBNdb>

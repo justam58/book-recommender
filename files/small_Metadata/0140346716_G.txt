@@ -1,0 +1,7 @@
+Title ===Outside Shooter===
+Author ===Thomas J. Dygard===
+PublicationDate ===1991-01-01===
+Description ===A high school basketball star's personality problems threaten not only his own career but the success of the whole team.===
+PageCount ===192===
+Type ===BOOK===
+AvgRate ===4.5===

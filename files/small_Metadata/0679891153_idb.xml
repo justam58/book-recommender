@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:07:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="theres_no_place_like_space_a01" isbn="0679891153" isbn13="9780679891154">
+<Title>There's no place like space</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Tish Rabe; illustrated by Aristides Ruiz</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, 1999.</PublisherText>
+<Details change_time="2006-09-21T06:59:40Z" price_time="2013-01-06T20:40:18Z" edition_info="(trade)" language="eng" physical_description_text="44 p. : col. ill. ; 24 cm." lcc_number="QB46" dewey_decimal_normalized="520" dewey_decimal="520" />
+</BookData>
+</BookList>
+</ISBNdb>

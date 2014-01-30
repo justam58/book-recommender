@@ -1,0 +1,4 @@
+frame:|small-town*1|,|historical*1|,
+pptone:|serious*1|,
+storyline:|issue-oriented*2|,|action-oriented*2|,
+lang_style:|complex*1|,|passionate*2|,

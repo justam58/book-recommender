@@ -1,0 +1,9 @@
+Title ===Big Book of the Berenstain Bears===
+Author ===Stan Berenstain===
+Author ===Jan Berenstain===
+PublicationDate ===2007===
+Description ===Collects five stories in which the Berenstain Bears await the arrival of a new baby, leave the cubs with a babysitter for an evening, help Sister Bear overcome her fear of the dark, visit the doctor's office, and clean up the cubs' messy room.===
+PageCount ===160===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

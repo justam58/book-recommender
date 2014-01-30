@@ -1,0 +1,7 @@
+frame:|hard-edged*9|,|heart-warming*2|,
+pptone:|realistic*1|,
+storyline:|complex*1|,|linear*1|,|humorous*1|,
+pptopic:|politics*1|,|technology*1|,
+characterization:|well-developed*2|,|believable*3|,
+lang_style:|complex*1|,|passionate*1|,|dramatic*1|,|unusual*2|,
+pacing:|slow*1|,|fast*3|,

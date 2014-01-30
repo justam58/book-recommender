@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:04:19Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="hatchet_a13" isbn="0689840926" isbn13="9780689840920">
+<Title>Hatchet</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gary Paulsen, </AuthorsText>
+<PublisherText publisher_id="atheneum_richard_jackson_books">Atheneum/Richard Jackson Books</PublisherText>
+<Details change_time="2006-02-27T05:28:04Z" price_time="2012-05-08T04:18:20Z" edition_info="Hardcover; 2000-04-01" language="" physical_description_text="208 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

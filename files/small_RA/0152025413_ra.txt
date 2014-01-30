@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,
+storyline:|gentle*1|,|humorous*8|,
+pptopic:|illustration*1|,
+lang_style:|passionate*1|,|unusual*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:12:57Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="island_of_the_aunts" isbn="0525464840" isbn13="9780525464846">
+<Title>Island of the aunts</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Eva Ibbotson; illustrated by Kevin Hawkes</AuthorsText>
+<PublisherText publisher_id="dutton_childrens_books">New York : Dutton Children's Books, 2000.</PublisherText>
+<Details change_time="2003-11-05T18:32:53Z" price_time="2012-08-11T10:21:13Z" edition_info="" language="eng" physical_description_text="281 p. : ill.  ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

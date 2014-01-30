@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:32:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="a_taste_for_red" isbn="0547144628" isbn13="9780547144627">
+<Title>A Taste for Red</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Lewis Harris, </AuthorsText>
+<PublisherText publisher_id="clarion_books">Clarion Books</PublisherText>
+<Details change_time="2009-01-26T01:42:33Z" price_time="2011-01-12T21:08:13Z" edition_info="Hardcover; 2009-06-15" language="" physical_description_text="176 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

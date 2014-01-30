@@ -1,0 +1,5 @@
+frame:|romantic*1|,
+storyline:|racy*1|,
+pptopic:|illustration*4|,
+characterization:|well-developed*1|,
+lang_style:|thoughtful*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:24:05Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="theres_a_wocket_in_my_pocket" isbn="0394829204" isbn13="9780394829203">
+<Title>There's a wocket in my pocket!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Dr. Seuss</AuthorsText>
+<PublisherText publisher_id="beginner_books">New York ; Beginner Books, c1974.</PublisherText>
+<Details change_time="2006-04-17T16:48:54Z" price_time="2013-01-14T18:16:31Z" edition_info="" language="eng" physical_description_text="[28] p. : col. ill. ; 24 cm." lcc_number="PZ8.3" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

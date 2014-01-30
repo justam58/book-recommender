@@ -1,0 +1,4 @@
+storyline:|linear*8|,|gentle*4|,|philosophical*1|,|humorous*5|,
+pptopic:|illustration*7|,
+characterization:|quirky*1|,|sympathetic*1|,
+lang_style:|complex*1|,|simple*13|,

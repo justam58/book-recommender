@@ -1,0 +1,4 @@
+frame:|humorous*12|,
+storyline:|issue-oriented*12|,|humorous*3|,|action-oriented*12|,
+pptopic:|illustration*4|,
+lang_style:|complex*1|,|simple*12|,|candid*12|,

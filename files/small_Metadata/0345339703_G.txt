@@ -1,0 +1,8 @@
+Title ===The Fellowship of the Ring===
+Author ===John Ronald Reuel Tolkien===
+PublicationDate ===1994===
+Description ===THE GREATEST FANTASY EPIC OF OUR TIME The dark, fearsome Ringwraiths were searching for a hobbit. Frodo Baggins knew they were seeking him and the Ring he bore -- the Ring of Power that would enable evil Sauron to destroy all that was good in Middle-earth. Now it is up to Frodo and his faithful servant, Sam, with a small band of companions, to carry the Ring to the one place it could be destroyed -- Mount Doom, in the very center of Sauron's dark kingdom. THUS BEGINS J.R.R. TOLKIEN'S CLASSIC THE LORD OF THE RINGS, WHICH CONTINUES IN THE TWO TOWERS AND THE RETURN OF THE KING.===
+PageCount ===480===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.0===

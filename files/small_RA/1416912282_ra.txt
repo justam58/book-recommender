@@ -1,0 +1,7 @@
+frame:|small-town*1|,|historical*1|,|literary*1|,
+pptone:|realistic*1|,
+storyline:|character-centered*1|,|family-centered*1|,|plot-centered*1|,|humorous*1|,
+pptopic:|illustration*6|,
+characterization:|well-developed*5|,|believable*3|,
+lang_style:|passionate*1|,|simple*1|,|unusual*4|,|classic*1|,
+pacing:|engrossing*1|,

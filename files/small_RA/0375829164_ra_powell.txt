@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|suspenseful*1|,
+pptopic:|illustration*1|,
+characterization:|quirky*2|,
+lang_style:|complex*1|,|unusual*1|,

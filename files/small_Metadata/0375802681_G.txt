@@ -1,0 +1,9 @@
+Title ===The Missing Mummy===
+Author ===Ron Roy===
+Author ===John Steven Gurney===
+PublicationDate ===2001-02-27===
+Description ===Dink, Josh, and Ruth Rose help catch the thieves who have stolen the treasure from the museum's mummy exhibit.===
+PageCount ===96===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.5===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:51:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="outside_shooter" isbn="0140346716" isbn13="9780140346718">
+<Title>Outside shooter</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Thomas J. Dygard</AuthorsText>
+<PublisherText publisher_id="penguin">New York : Penguin, 1991, c1979.</PublisherText>
+<Details change_time="2011-05-26T11:40:36Z" price_time="2011-05-26T11:41:16Z" edition_info="(pbk.) :$3.95 ($4.95 Can.)" language="eng" physical_description_text="189 p. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

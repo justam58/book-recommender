@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:08:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="fluffys_happy_halloween_a01" isbn="0590512226" isbn13="9780590512220">
+<Title>Fluffy's happy Halloween</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Kate McMullan; illustrated by Mavis Smith</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, c1998.</PublisherText>
+<Details change_time="2007-04-28T22:25:08Z" price_time="2010-11-11T16:10:43Z" edition_info="(pbk.) :$3.99" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

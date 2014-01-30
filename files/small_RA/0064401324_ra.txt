@@ -1,0 +1,6 @@
+frame:|heart-warming*2|,|romantic*1|,|bittersweet*2|,
+storyline:|issue-oriented*1|,|linear*2|,|conclusive*1|,|humorous*1|,|action-oriented*1|,|tragic*6|,
+pptopic:|death*2|,|illustration*3|,|violent*1|,
+characterization:|linear*2|,|well-developed*11|,|believable*1|,|sympathetic*5|,
+lang_style:|simple*1|,|poetic*1|,
+pacing:|fast*2|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:39:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="diary_of_a_wimpy_kid_a03" isbn="0810970686" isbn13="9780810970687">
+<Title>Diary of a wimpy kid</Title>
+<TitleLong>Diary of a wimpy kid: the last straw</TitleLong>
+<AuthorsText>by Jeff Kinney</AuthorsText>
+<PublisherText publisher_id="amulet_books">New York : Amulet Books, 2009.</PublisherText>
+<Details change_time="2009-10-01T18:30:47Z" price_time="2013-02-04T06:32:18Z" edition_info="(hardcover)" language="eng" physical_description_text="217 p. : ill. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

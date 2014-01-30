@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:03:56Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="tintin_in_tibet_a02" isbn="1405206314" isbn13="9781405206310">
+<Title>Tintin in Tibet</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Herge, </AuthorsText>
+<PublisherText publisher_id="mammoth">Mammoth</PublisherText>
+<Details change_time="2007-10-01T00:11:01Z" price_time="2012-04-25T09:28:23Z" edition_info="Paperback; 2002-11-04" language="" physical_description_text="64 pages" lcc_number="" dewey_decimal_normalized="371" dewey_decimal="371" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,4 @@
+storyline:|complex*1|,
+pptopic:|war*3|,
+characterization:|well-developed*1|,|distant*1|,
+lang_style:|passionate*1|,

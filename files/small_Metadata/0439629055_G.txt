@@ -1,0 +1,7 @@
+Title ===My Pants Are Haunted!===
+Author ===Jim Benton===
+PublicationDate ===2004-10-01===
+Description ===Dear Dumb Diary.===
+PageCount ===127===
+Type ===BOOK===
+AvgRate ===3.5===

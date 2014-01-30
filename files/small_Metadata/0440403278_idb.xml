@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:10:44Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="number_the_stars" isbn="0440403278" isbn13="9780440403272">
+<Title>Number the stars</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Lois Lowry</AuthorsText>
+<PublisherText publisher_id="houghton_mifflin">Boston, Mass. : Houghton Mifflin, 1989.</PublisherText>
+<Details change_time="2003-11-01T00:00:15Z" price_time="2013-01-17T17:39:07Z" edition_info="(Dell; pbk.)" language="eng" physical_description_text="137 p. : 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

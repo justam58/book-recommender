@@ -1,0 +1,4 @@
+frame:|popular*1|,
+pptone:|realistic*1|,
+storyline:|gentle*1|,
+characterization:|believable*1|,

@@ -1,0 +1,4 @@
+pptone:|quirky*2|,
+storyline:|humorous*1|,
+pptopic:|illustration*4|,
+lang_style:|passionate*1|,

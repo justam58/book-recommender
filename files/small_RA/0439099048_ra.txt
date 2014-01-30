@@ -1,0 +1,3 @@
+storyline:|tragic*1|,
+pptopic:|religion*1|,|war*3|,
+characterization:|evocative*2|,

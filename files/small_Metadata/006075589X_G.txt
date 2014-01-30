@@ -1,0 +1,9 @@
+Title ===The Bad Beginning===
+Author ===Lemony Snicket===
+Author ===Brett Helquist===
+PublicationDate ===2004-10-26===
+Description ===After the sudden death of their parents, the three Baudelaire children must depend on each other and their wits when it turns out that the distant relative who is appointed their guardian is determined to use any means necessary to get their fortune. Violet, Klaus, and Sunny Baudelaire are intelligent children. They are charming, and resourceful, and have pleasant facial features. Unfortunately, they are exceptionally unlucky.===
+PageCount ===176===
+Type ===BOOK===
+LCSH ===Family & Relationships===
+AvgRate ===3.5===

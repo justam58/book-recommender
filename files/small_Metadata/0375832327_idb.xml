@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:36:52Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="babymouse_rock_star" isbn="0375832327" isbn13="9780375832321">
+<Title>Babymouse</Title>
+<TitleLong>Babymouse: rock star</TitleLong>
+<AuthorsText>by Jennifer L. Holm &amp; Matthew Holm</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2006.</PublisherText>
+<Details change_time="2010-07-12T22:18:32Z" price_time="2012-08-11T07:40:33Z" edition_info="" language="eng" physical_description_text="91 p. : ill. (some col.) ; 19 cm." lcc_number="PN6727" dewey_decimal_normalized="741.5973" dewey_decimal="741.5/973" />
+</BookData>
+</BookList>
+</ISBNdb>

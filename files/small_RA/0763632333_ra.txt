@@ -1,0 +1,2 @@
+frame:|hard-edged*1|,|small-town*1|,
+pptopic:|illustration*2|,

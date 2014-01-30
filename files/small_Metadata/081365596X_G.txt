@@ -1,0 +1,6 @@
+Title ===Up, Up, and Away===
+Author ===Margaret Hillert===
+PublicationDate ===1950-01-01===
+Description ===Two children travel to the moon in a spaceship, do some exploring, and come back home again.===
+PageCount ===31===
+Type ===BOOK===

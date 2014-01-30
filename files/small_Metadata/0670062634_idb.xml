@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:13:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="jane_goodall_a18" isbn="0670062634" isbn13="9780670062638">
+<Title>Jane Goodall</Title>
+<TitleLong>Jane Goodall: a twentieth-century life</TitleLong>
+<AuthorsText>by Sudipta Bardhan</AuthorsText>
+<PublisherText publisher_id="penguin_group">New York : Penguin Group, 2008.</PublisherText>
+<Details change_time="2010-09-21T20:08:37Z" price_time="2012-06-23T09:13:41Z" edition_info="" language="eng" physical_description_text="218 p. : ill. ; 19 cm." lcc_number="QL31" dewey_decimal_normalized="590.92" dewey_decimal="590.92" />
+</BookData>
+</BookList>
+</ISBNdb>

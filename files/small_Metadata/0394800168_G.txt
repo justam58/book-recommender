@@ -1,0 +1,7 @@
+Title ===Green eggs and ham===
+Author ===Dr. Seuss===
+PublicationDate ===1960===
+Description ===Sam-I-Am tries to persuade his friend to try green eggs and ham.===
+PageCount ===62===
+Type ===BOOK===
+AvgRate ===4.5===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:29:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="shiloh_a06" isbn="0689835825" isbn13="9780689835827">
+<Title>Shiloh</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Phyllis Reynolds Naylor</AuthorsText>
+<PublisherText publisher_id="atheneum">New York : Atheneum, 1991.</PublisherText>
+<Details change_time="2007-11-16T19:45:29Z" price_time="2013-01-25T21:49:20Z" edition_info="" language="eng" physical_description_text="144 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

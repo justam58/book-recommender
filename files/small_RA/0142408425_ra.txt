@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,
+storyline:|violent*2|,
+pptopic:|illustration*4|,|addiction*1|,|violent*1|,|war*4|,
+characterization:|well-developed*4|,|believable*3|,|sympathetic*4|,
+lang_style:|passionate*3|,|simple*1|,|unusual*1|,
+pacing:|engrossing*1|,|fast*2|,

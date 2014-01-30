@@ -1,0 +1,6 @@
+frame:|hard-edged*3|,|urban*1|,|small-town*3|,|popular*2|,|romantic*2|,|historical*1|,|descriptive*1|,|exotic*1|,
+pptone:|realistic*1|,
+storyline:|thought-provoking*2|,|complex*8|,|gentle*3|,|philosophical*1|,|humorous*1|,|racy*2|,|tragic*1|,|episodic*1|,
+pptopic:|death*2|,|illustration*1|,
+characterization:|layered*2|,|quirky*1|,|well-developed*4|,|believable*10|,|sympathetic*3|,
+lang_style:|complex*2|,|simple*2|,|unusual*2|,|classic*1|,

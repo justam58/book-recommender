@@ -1,0 +1,9 @@
+Title ===Fox and his friends===
+Author ===Edward Marshall===
+Author ===James Marshall===
+PublicationDate ===1994-05-01===
+Description ===In three separate episodes Fox wants to play with his friends, but duty in one form or another interferes.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Foxes===
+AvgRate ===3.0===

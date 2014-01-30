@@ -1,0 +1,7 @@
+Title ===Peak===
+Author ===Roland Smith===
+PublicationDate ===2008-08-01===
+Description ===The emotional, tension-filled story of a 14-year-old boy's attempt to be the youngest person to reach the top of Mount Everest is an action-packed adventure about friendship, sacrifice, family and the drive to take on Everest, despite the incredible risk.===
+PageCount ===246===
+Type ===BOOK===
+AvgRate ===3.0===

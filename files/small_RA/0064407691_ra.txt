@@ -1,0 +1,7 @@
+frame:|humorous*1|,
+pptone:|dark*2|,
+storyline:|complex*2|,|racy*2|,|humorous*10|,|tragic*2|,|episodic*1|,
+pptopic:|illustration*6|,|curse*1|,|baby*2|,|violent*1|,
+characterization:|quirky*1|,
+lang_style:|complex*3|,|passionate*2|,|unusual*3|,
+pacing:|fast*1|,

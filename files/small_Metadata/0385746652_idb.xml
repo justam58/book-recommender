@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:43:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="one_night_in_doom_house" isbn="0385746652" isbn13="9780385746656">
+<Title>One night in Doom House</Title>
+<TitleLong></TitleLong>
+<AuthorsText>R. L. Stine</AuthorsText>
+<PublisherText publisher_id="delacorte_press">New York : Delacorte Press, 2005.</PublisherText>
+<Details change_time="2007-04-02T14:36:31Z" price_time="2011-04-09T02:59:16Z" edition_info="(trade)" language="eng" physical_description_text="126 p. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

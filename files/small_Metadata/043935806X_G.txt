@@ -1,0 +1,8 @@
+Title ===Harry Potter and the Order of the Phoenix===
+Author ===Joanne K. Rowling===
+PublicationDate ===2003===
+Description ===When the government of the magic world and authorities at Hogwarts School of Witchcraft and Wizardry refuse to believe in the growing threat of a freshly revived Lord Voldemort, fifteen-year-old Harry Potter finds support from his loyal friends in facingthe evil wizard and other new terrors.===
+PageCount ===870===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

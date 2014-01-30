@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:53:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_nixies_song" isbn="0689871317" isbn13="9780689871313">
+<Title>The Nixie's Song</Title>
+<TitleLong>The Nixie's Song (Spiderwick Chronicles)</TitleLong>
+<AuthorsText>Holly Black, Tony DiTerlizzi (Illustrator)</AuthorsText>
+<PublisherText publisher_id="simon_schuster_childrens_publi">Simon &amp; Schuster Children's Publishing</PublisherText>
+<Details change_time="2007-06-18T00:45:00Z" price_time="2012-12-28T08:32:47Z" edition_info="Hardcover; 2007-09-18" language="" physical_description_text="192 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

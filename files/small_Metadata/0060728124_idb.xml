@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:43:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="happy_birthday_mrs_piggle_wiggle" isbn="0060728124" isbn13="9780060728120">
+<Title>Happy birthday Mrs. Piggle-Wiggle</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Betty MacDonald &amp; Anne MacDonald Canham; illustrations by Alexandra Boiger</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, c2007.</PublisherText>
+<Details change_time="2009-06-22T00:57:44Z" price_time="2012-09-20T23:48:05Z" edition_info="" language="eng" physical_description_text="193 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

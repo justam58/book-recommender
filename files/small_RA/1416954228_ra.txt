@@ -1,0 +1,4 @@
+storyline:|complex*1|,|issue-oriented*1|,|action-oriented*1|,
+pptopic:|technology*1|,
+lang_style:|passionate*2|,|simple*1|,
+pacing:|fast*1|,

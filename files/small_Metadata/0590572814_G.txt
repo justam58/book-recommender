@@ -1,0 +1,7 @@
+Title ===The Story of Ruby Bridges===
+Author ===Robert Coles, M.D.===
+PublicationDate ===1995===
+Description ===For months six-year-old Ruby Bridges must confront the hostility of white parents when she becomes the first African American girl to integrate Frantz Elementary School in New Orleans in 1960.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===4.5===

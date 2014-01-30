@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:49:24Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_first_grader_a12" isbn="0375823018" isbn13="9780375823015">
+<Title>Junie B., first grader</Title>
+<TitleLong>Junie B., first grader: cheater pants</TitleLong>
+<AuthorsText>Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2003.</PublisherText>
+<Details change_time="2005-10-24T05:00:06Z" price_time="2012-08-08T08:06:31Z" edition_info="(trade)" language="eng" physical_description_text="86 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

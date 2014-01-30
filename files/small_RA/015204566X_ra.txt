@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|popular*1|,|evocative*1|,|romantic*1|,
+pptone:|old-fashioned*1|,
+storyline:|open-ended*1|,|issue-oriented*1|,|linear*1|,|complex*3|,|gentle*1|,|humorous*12|,|action-oriented*1|,|mythic*1|,
+pptopic:|politics*2|,|illustration*4|,
+characterization:|linear*1|,|well-developed*5|,|distant*1|,|believable*5|,|sympathetic*2|,
+lang_style:|complex*2|,|simple*2|,|unusual*3|,
+pacing:|fast*2|,

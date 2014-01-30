@@ -1,0 +1,3 @@
+pptopic:|curse*2|,
+characterization:|well-developed*1|,
+lang_style:|complex*1|,

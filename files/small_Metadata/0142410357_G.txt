@@ -1,0 +1,8 @@
+Title ===George's Marvelous Medicine===
+Author ===Roald Dahl===
+PublicationDate ===2007-08===
+Description ===George decides that his grumpy, selfish old grandmother must be a witch and concocts some marvelous medicine to take care of her.===
+PageCount ===88===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

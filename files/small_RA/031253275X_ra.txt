@@ -1,0 +1,7 @@
+frame:|hard-edged*3|,|school*1|,|small-town*5|,|evocative*1|,|romantic*4|,|humorous*4|,|exotic*1|,|sensual*1|,
+pptone:|dark*1|,|surreal*1|,|serious*3|,
+storyline:|open-ended*1|,|mystical*1|,|gentle*1|,|humorous*1|,|tragic*2|,
+pptopic:|sex*4|,|death*2|,|illustration*3|,|addiction*3|,|baby*1|,
+characterization:|layered*1|,|stereotypes*1|,|well-developed*14|,|distant*2|,|believable*4|,|sympathetic*5|,
+lang_style:|complex*2|,|passionate*1|,|simple*1|,|poetic*1|,|unusual*4|,|thoughtful*2|,
+pacing:|engrossing*1|,|fast*2|,

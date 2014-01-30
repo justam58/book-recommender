@@ -1,0 +1,8 @@
+Title ===Matilda===
+Author ===Roald Dahl===
+PublicationDate ===1988===
+Description ===For most kids, aThe Trunchbulla is pure terror, but for Matilda, sheas a sitting duck.===
+PageCount ===240===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.0===

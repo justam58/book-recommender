@@ -1,0 +1,13 @@
+sentimental:emotional,
+uplifting:
+old-fashioned:traditional,
+relaxing:
+realistic:safe,
+quirky:bizarre,funny,humorous,ironic,light,
+suspenseful:tense,
+happy:light,
+contemporary:modern,
+dark:
+surreal:
+wordplay:
+serious:stark,

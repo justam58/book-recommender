@@ -1,0 +1,4 @@
+pptone:|realistic*1|,
+pptopic:|illustration*2|,
+characterization:|well-developed*1|,|believable*1|,
+lang_style:|unusual*2|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:22:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="football_fugitive" isbn="0316140643" isbn13="9780316140645">
+<Title>Football fugitive</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Matt Christopher; illustrated by Larry Johnson</AuthorsText>
+<PublisherText publisher_id="little_brown">Boston : Little, Brown, c1976.</PublisherText>
+<Details change_time="2009-01-18T01:29:24Z" price_time="2010-09-11T16:12:43Z" edition_info="(pbk)" language="eng" physical_description_text="119 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

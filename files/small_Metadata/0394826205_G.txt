@@ -1,0 +1,8 @@
+Title ===Swimmy===
+Author ===Leo Lionni===
+PublicationDate ===1973===
+Description ===A little black fish in a school of red fish figures out a way of protecting them all from their natural enemies.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

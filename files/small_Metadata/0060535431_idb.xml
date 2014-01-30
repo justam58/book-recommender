@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:58:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="olives_ocean_a01" isbn="0060535431" isbn13="9780060535438">
+<Title>Olive's ocean</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Kevin Henkes</AuthorsText>
+<PublisherText publisher_id="greenwillow_books">New York : Greenwillow Books, c2003.</PublisherText>
+<Details change_time="2004-07-20T05:46:44Z" price_time="2012-05-15T17:20:01Z" edition_info="" language="eng" physical_description_text="217 p. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

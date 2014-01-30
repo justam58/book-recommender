@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:33:20Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="emilys_runaway_imagination_a05" isbn="0439356407" isbn13="9780439356404">
+<Title>Emily's Runaway Imagination</Title>
+<TitleLong></TitleLong>
+<AuthorsText></AuthorsText>
+<PublisherText publisher_id="scholastic_inc_a01">Scholastic, Inc.</PublisherText>
+<Details change_time="2007-09-07T02:35:45Z" price_time="2012-01-18T00:38:48Z" edition_info="Paperback; 2001" language="" physical_description_text="221 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

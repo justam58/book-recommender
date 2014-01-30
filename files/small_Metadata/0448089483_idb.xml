@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:35:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="hardy_boys_48_the_arctic_patrol_mystery" isbn="0448089483" isbn13="9780448089485">
+<Title>The arctic patrol mystery</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Franklin W. Dixon</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">New York, Grosset &amp; Dunlap c1997.</PublisherText>
+<Details change_time="2011-04-21T13:42:21Z" price_time="2012-07-05T05:48:59Z" edition_info="ADDED ISBN" language="eng" physical_description_text="176 p. illus. 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,8 @@
+Title ===The Secret Garden===
+Author ===Deborah Hautzig===
+Author ===Natalie Carabetta===
+PublicationDate ===1995===
+Description ===Ten-year-old Mary comes to live in a lonely house on the Yorkshire moors and discovers an invalid cousin and the mysteries of a locked garden.===
+PageCount ===48===
+Type ===BOOK===
+AvgRate ===5.0===

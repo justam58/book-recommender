@@ -1,0 +1,3 @@
+storyline:|complex*1|,
+characterization:|well-developed*2|,
+lang_style:|passionate*1|,

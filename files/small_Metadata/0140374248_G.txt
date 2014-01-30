@@ -1,0 +1,8 @@
+Title ===James and the Giant Peach===
+Author ===Roald Dahl===
+Author ===Lane Smith===
+PublicationDate ===1996-04-01===
+Description ===A young boy escapes from two wicked aunts and embarks on a series of adventures with six giant insects he meets inside a giant peach.===
+PageCount ===126===
+Type ===BOOK===
+AvgRate ===4.0===

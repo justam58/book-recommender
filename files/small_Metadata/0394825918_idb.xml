@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:17:59Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="almost_starring_skinnybones" isbn="0394825918" isbn13="9780394825915">
+<Title>Almost Starring Skinnybones</Title>
+<TitleLong></TitleLong>
+<AuthorsText>BARBARA PARK</AuthorsText>
+<PublisherText publisher_id="random_house_books_for_young_r">Random House Books for Young Readers</PublisherText>
+<Details change_time="2004-12-24T16:06:32Z" price_time="2010-11-30T18:59:22Z" edition_info="Paperback; 1989-10-17" language="" physical_description_text="5.2&quot;x7.7&quot;x0.3&quot;; 112 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

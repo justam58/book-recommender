@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:35:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="cam_jansen_and_the_birthday_mystery" isbn="067088877X" isbn13="9780670888771">
+<Title>Cam Jansen and the birthday mystery</Title>
+<TitleLong></TitleLong>
+<AuthorsText>David Adler; illustrated by Susanna Natti</AuthorsText>
+<PublisherText publisher_id="viking">New York : Viking, 2000.</PublisherText>
+<Details change_time="2007-08-18T13:49:59Z" price_time="2011-11-17T00:50:57Z" edition_info="" language="eng" physical_description_text="58 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

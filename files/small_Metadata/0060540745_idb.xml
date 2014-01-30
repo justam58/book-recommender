@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:45:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="loser_a02" isbn="0060540745" isbn13="9780060540746">
+<Title>Loser</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jerry Spinelli</AuthorsText>
+<PublisherText publisher_id="joanna_cotler_books">New York : Joanna Cotler Books, c2002.</PublisherText>
+<Details change_time="2008-12-16T04:54:00Z" price_time="2012-08-28T02:05:57Z" edition_info="(pbk.)" language="eng" physical_description_text="218 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

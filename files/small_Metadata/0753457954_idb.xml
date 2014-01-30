@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:23:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_brothers_war_a03" isbn="0753457954" isbn13="9780753457955">
+<Title>The brothers' war</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Patricia Hermes</AuthorsText>
+<PublisherText publisher_id="kingfisher">Boston : Kingfisher, 2005.</PublisherText>
+<Details change_time="2009-12-13T21:35:17Z" price_time="2012-07-23T09:49:03Z" edition_info="" language="eng" physical_description_text="90, 92 p. ; 19 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,7 @@
+Title ===Dogsong===
+Author ===Gary Paulsen===
+PublicationDate ===1990===
+Description ===It is the story of an Eskimo boy & his team of dogs & how they survive a rigorous journey across the north country.===
+PageCount ===177===
+Type ===BOOK===
+AvgRate ===3.0===

@@ -1,0 +1,14 @@
+extravagant:
+passionate:fervent,
+simple:unembellished,concise,stark,unpretentious,direct,dry,austere,graceful,homespun,prosaic,unaffected,
+jargon:
+complex:elaborate,passionate,showy,flamboyant,polished,colourful,sophisticated,
+dramatic:
+unusual:
+seemly:
+classic:unaffected,
+poetic:ornate,metaphorical,
+candid:frank,unaffected,stark,direct,
+conversational:
+thoughtful:
+natural:unaffected,

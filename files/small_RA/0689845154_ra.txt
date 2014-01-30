@@ -1,0 +1,5 @@
+frame:|suspenseful*1|,|romantic*1|,
+pptone:|serious*1|,
+storyline:|humorous*3|,
+pptopic:|illustration*1|,
+lang_style:|poetic*2|,

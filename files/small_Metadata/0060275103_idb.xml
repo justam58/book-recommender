@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:20:30Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="ella_enchanted" isbn="0060275103" isbn13="9780060275105">
+<Title>Ella enchanted</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gail Carson Levine</AuthorsText>
+<PublisherText publisher_id="harpercollinspublishers">New York : HarperCollinsPublishers, c1997.</PublisherText>
+<Details change_time="2003-11-06T10:39:55Z" price_time="2012-05-08T12:21:00Z" edition_info="" language="eng" physical_description_text="232 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

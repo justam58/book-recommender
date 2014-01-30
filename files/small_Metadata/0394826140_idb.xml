@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:29:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="frederick_a01" isbn="0394826140" isbn13="9780394826141">
+<Title>Frederick</Title>
+<TitleLong></TitleLong>
+<AuthorsText></AuthorsText>
+<PublisherText publisher_id="">New York : Pantheon Books, c1967.</PublisherText>
+<Details change_time="2008-09-14T01:55:50Z" price_time="2012-09-28T15:05:12Z" edition_info="" language="eng" physical_description_text="[27] p. col. illus. 28 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

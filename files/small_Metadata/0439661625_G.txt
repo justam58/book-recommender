@@ -1,0 +1,7 @@
+Title ===Geronimo Stilton #13===
+Author ===Geronimo Stilton===
+PublicationDate ===2004-11-01===
+Description ===When he hears reports of a ghost haunting New Mouse City's subway tunnels, Geronimo sets out to investigate the story.===
+PageCount ===112===
+Type ===BOOK===
+AvgRate ===4.0===

@@ -1,0 +1,8 @@
+Title ===The Hunger Games===
+Author ===Suzanne Collins===
+PublicationDate ===2008===
+Description ===In a future North America, where the rulers of Panem maintain control through an annual televised survival competition pitting young people from each of the twelve districts against one another, sixteen-year-old Katniss's skills are put to the test when she voluntarily takes her younger sister's place.===
+PageCount ===374===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

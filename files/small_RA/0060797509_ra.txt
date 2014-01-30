@@ -1,0 +1,3 @@
+frame:|descriptive*1|,
+pptopic:|illustration*3|,
+lang_style:|complex*1|,|simple*1|,

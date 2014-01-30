@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:04:43Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="when_hitler_stole_pink_rabbit_a07" isbn="0142414085" isbn13="9780142414088">
+<Title>When Hitler Stole Pink Rabbit</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Judith Kerr, </AuthorsText>
+<PublisherText publisher_id="puffin">Puffin</PublisherText>
+<Details change_time="2009-09-11T01:53:50Z" price_time="2012-10-26T06:20:07Z" edition_info="Paperback; 2009-01-22" language="" physical_description_text="5.0&quot;x7.6&quot;x0.6&quot;; 0.3 lb; 192 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

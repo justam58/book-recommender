@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:58:35Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_evolution_of_calpurnia_tate" isbn="0805088415" isbn13="9780805088410">
+<Title>The evolution of Calpurnia Tate</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jacqueline Kelly</AuthorsText>
+<PublisherText publisher_id="henry_holt_and_co">New York : Henry Holt and Co., 2009.</PublisherText>
+<Details change_time="2010-03-16T23:34:02Z" price_time="2012-02-22T23:36:02Z" edition_info="(hc : alk. paper) :$16.99" language="eng" physical_description_text="340 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

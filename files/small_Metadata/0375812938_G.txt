@@ -1,0 +1,7 @@
+Title ===Jurassic Park Institute Dinosaur Field Guide===
+Author ===Thomas R. Holtz===
+Author ===M. K. Brett-Surman===
+PublicationDate ===2001-06-01===
+Description ===Discusses dinosaur research and what can be learned from it, providing information about the age of the dinosaurs, what plant life was like, different dinosaurs, non-dinosaur animals, and what the Earth looked during their time.===
+PageCount ===160===
+Type ===BOOK===

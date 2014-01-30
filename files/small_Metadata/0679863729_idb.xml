@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:46:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="afternoon_on_the_amazon_a01" isbn="0679863729" isbn13="9780679863724">
+<Title>Afternoon on the Amazon</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Mary Pope Osborne; illustrated by Sal Murdocca</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1995.</PublisherText>
+<Details change_time="2004-02-28T06:22:59Z" price_time="2013-01-18T17:39:13Z" edition_info="$8.50" language="eng" physical_description_text="67 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

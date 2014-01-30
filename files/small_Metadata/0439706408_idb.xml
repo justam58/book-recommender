@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:07:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="bone_1_out_from_boneville" isbn="0439706408" isbn13="9780439706407">
+<Title>Bone</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Jeff Smith with color by Steve Hamaker</AuthorsText>
+<PublisherText publisher_id="graphix">New York : Graphix, &lt;2005&gt;-</PublisherText>
+<Details change_time="2008-11-07T06:47:12Z" price_time="2012-12-18T01:52:02Z" edition_info="(pbk. : 1)" language="eng" physical_description_text="v. : chiefly ill., maps ; 24 cm." lcc_number="PN6728" dewey_decimal_normalized="741.5973" dewey_decimal="741.5/973" />
+</BookData>
+</BookList>
+</ISBNdb>

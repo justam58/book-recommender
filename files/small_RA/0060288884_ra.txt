@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,
+pptone:|quirky*1|,|sentimental*1|,|happy*2|,|dark*1|,
+storyline:|complex*1|,|conclusive*1|,|humorous*2|,|tragic*4|,
+pptopic:|illustration*2|,|baby*15|,
+characterization:|well-developed*4|,|believable*1|,
+lang_style:|complex*2|,|unusual*5|,

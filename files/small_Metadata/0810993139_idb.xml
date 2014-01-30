@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:41:41Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="diary_of_a_wimpy_kid" isbn="0810993139" isbn13="9780810993136">
+<Title>Diary of a wimpy kid</Title>
+<TitleLong>Diary of a wimpy kid: Greg Heffley's journal</TitleLong>
+<AuthorsText>by Jeff Kinney</AuthorsText>
+<PublisherText publisher_id="amulet_books">New York : Amulet Books, 2007.</PublisherText>
+<Details change_time="2008-11-22T06:18:50Z" price_time="2012-12-27T03:14:47Z" edition_info="(paper over board)" language="eng" physical_description_text="217 p. : ill. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

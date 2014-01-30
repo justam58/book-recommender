@@ -1,0 +1,6 @@
+frame:|popular*1|,|evocative*1|,
+pptone:|quirky*1|,|happy*1|,
+storyline:|complex*1|,|linear*2|,|gentle*2|,|racy*1|,|humorous*5|,
+pptopic:|technology*1|,|death*1|,|illustration*14|,|addiction*1|,|baby*1|,
+lang_style:|complex*1|,|extravagant*1|,|passionate*2|,|simple*10|,|unusual*2|,|natural*2|,
+pacing:|fast*2|,

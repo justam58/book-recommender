@@ -1,0 +1,4 @@
+storyline:|linear*1|,|humorous*1|,
+pptopic:|illustration*3|,|baby*1|,
+characterization:|sympathetic*1|,
+lang_style:|simple*3|,

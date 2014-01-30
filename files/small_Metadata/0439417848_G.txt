@@ -1,0 +1,7 @@
+Title ===The New Captain Underpants Collection===
+PublicationDate ===2002-08-01===
+Description ===The first five books of the popular Captain Underpants series are collected here in a boxed set of heroic adventures and dastardly bad guys.===
+PageCount ===738===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.5===

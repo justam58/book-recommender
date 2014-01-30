@@ -1,0 +1,3 @@
+frame:|popular*1|,|historical*1|,
+pptopic:|death*1|,|war*8|,
+lang_style:|complex*1|,|unusual*2|,

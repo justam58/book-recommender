@@ -1,0 +1,8 @@
+Title ===The Boxcar Children===
+Author ===Gertrude Chandler Warner===
+PublicationDate ===2002-01===
+Description ===Four orphaned children run away and live in a boxcar, until they are found by their grandfather. Includes a biography and photographs of the author.===
+PageCount ===163===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

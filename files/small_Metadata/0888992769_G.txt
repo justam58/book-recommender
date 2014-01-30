@@ -1,0 +1,7 @@
+Title ===A Salmon for Simon===
+Author ===Betty Waterton===
+PublicationDate ===1998-04-10===
+Description ===Simon, who wants to catch a salmon, finally realizes his wish; but the creature is in need of help and, Simon thinks, too beautiful to die.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===2.0===

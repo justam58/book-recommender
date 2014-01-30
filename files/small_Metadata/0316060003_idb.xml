@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:33:58Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_year_of_the_dog" isbn="0316060003" isbn13="9780316060004">
+<Title>The year of the dog</Title>
+<TitleLong>The year of the dog: a novel</TitleLong>
+<AuthorsText>by Grace Lin</AuthorsText>
+<PublisherText publisher_id="little_brown">New York : Little, Brown, 2006.</PublisherText>
+<Details change_time="2009-01-16T15:09:20Z" price_time="2012-11-30T11:23:32Z" edition_info="" language="eng" physical_description_text="134 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

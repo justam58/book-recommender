@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,
+pptopic:|baby*1|,
+characterization:|stereotypes*2|,
+lang_style:|complex*1|,
+pacing:|slow*1|,

@@ -1,0 +1,6 @@
+frame:|gritty*1|,
+pptone:|serious*1|,
+storyline:|mystical*1|,|violent*1|,
+pptopic:|death*1|,|addiction*1|,
+characterization:|quirky*1|,
+lang_style:|simple*1|,

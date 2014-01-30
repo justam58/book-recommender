@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|popular*1|,|evocative*1|,|romantic*1|,|rural*2|,
+storyline:|linear*6|,|folksy*2|,|racy*2|,|tragic*1|,
+pptopic:|illustration*11|,|baby*2|,|disease*1|,
+characterization:|linear*2|,|well-developed*1|,|believable*1|,
+lang_style:|unusual*1|,

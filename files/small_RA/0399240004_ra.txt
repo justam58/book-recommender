@@ -1,0 +1,3 @@
+frame:|gritty*1|,
+storyline:|humorous*3|,
+pptopic:|technology*2|,|illustration*3|,

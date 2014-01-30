@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:33:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="when_charlie_mcbutton_lost_power" isbn="0399240004" isbn13="9780399240003">
+<Title>When Charlie McButton lost power</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Suzanne Collins; illustrated by Mike Lester</AuthorsText>
+<PublisherText publisher_id="g_p_putnams_sons_a01">New York : G.P. Putnam's Sons, c2005.</PublisherText>
+<Details change_time="2008-02-12T14:24:42Z" price_time="2010-12-02T22:55:44Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 23 x 26 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

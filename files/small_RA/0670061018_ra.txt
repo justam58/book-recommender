@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|small-town*4|,
+pptone:|dark*1|,|serious*1|,
+storyline:|violent*1|,
+pptopic:|bullying*1|,|sex*1|,|illustration*1|,
+characterization:|stereotypes*1|,|believable*2|,|sympathetic*1|,
+lang_style:|poetic*1|,|dramatic*1|,|unusual*1|,
+pacing:|engrossing*6|,

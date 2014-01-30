@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|small-town*3|,|popular*1|,|gritty*1|,|evocative*1|,|humorous*3|,|descriptive*1|,|historical*2|,
+pptone:|serious*3|,
+storyline:|issue-oriented*1|,|complex*1|,|humorous*1|,|racy*1|,|violent*1|,|action-oriented*1|,
+pptopic:|illustration*2|,|violent*1|,
+characterization:|multiple points of view*1|,|well-developed*19|,|evocative*1|,|believable*1|,|sympathetic*4|,
+lang_style:|passionate*3|,|simple*3|,|unusual*2|,
+pacing:|easy*1|,|slow*2|,|fast*12|,

@@ -1,0 +1,7 @@
+Title ===Big Egg===
+Author ===Molly Coxe===
+PublicationDate ===1997-03-11===
+Description ===One morning Hen wakes up and finds a gigantic egg in her nest. Whose ege can it be? Here's a hint, Hen--it doesn't belong to that wily Fox!===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===3.5===

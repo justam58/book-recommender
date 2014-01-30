@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|small-town*1|,|romantic*1|,|historical*4|,
+pptone:|serious*1|,
+storyline:|linear*1|,|gentle*1|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|humorous*1|,|mythic*1|,|tragic*8|,|inspirational*1|,
+pptopic:|death*2|,|illustration*4|,|curse*1|,|war*3|,
+characterization:|well-developed*2|,|believable*2|,
+lang_style:|complex*1|,|simple*1|,|poetic*1|,|thoughtful*1|,|classic*1|,

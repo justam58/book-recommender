@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:48:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="love_that_dog_a01" isbn="006029289X" isbn13="9780060292898">
+<Title>Love that dog</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Sharon Creech</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, 2001.</PublisherText>
+<Details change_time="2004-07-08T20:42:03Z" price_time="2011-12-12T16:02:57Z" edition_info="(lib. bdg.)" language="eng" physical_description_text="86 p. ; cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

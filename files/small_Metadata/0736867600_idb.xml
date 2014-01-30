@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:10:54Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="nostradamus_a40" isbn="0736867600" isbn13="9780736867603">
+<Title>Nostradamus</Title>
+<TitleLong>Nostradamus (Edge Books)</TitleLong>
+<AuthorsText>Doeden, Matt, </AuthorsText>
+<PublisherText publisher_id="capstone_press">Capstone Press</PublisherText>
+<Details change_time="2008-09-15T13:04:07Z" price_time="2013-10-16T02:10:54Z" edition_info="Library Binding; 2007-01-01" language="" physical_description_text="7.2&quot;x9.1&quot;x0.3&quot;; 0.5 lb; 32 pages" lcc_number="" dewey_decimal_normalized="133.3092" dewey_decimal="133.3092" />
+</BookData>
+</BookList>
+</ISBNdb>

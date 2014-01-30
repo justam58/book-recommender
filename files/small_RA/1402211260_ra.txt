@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|historical*3|,
+storyline:|inspirational*2|,
+pptopic:|baby*1|,
+lang_style:|passionate*1|,|simple*1|,

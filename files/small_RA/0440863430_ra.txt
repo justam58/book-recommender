@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|small-town*3|,|descriptive*2|,
+storyline:|linear*10|,|complex*5|,|gentle*1|,|mystical*1|,|racy*1|,
+pptopic:|illustration*10|,
+characterization:|well-developed*3|,
+lang_style:|unusual*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:05:46Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="old_hat_new_hat_a02" isbn="0394806697" isbn13="9780394806693">
+<Title>Old hat, new hat</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Stan and Jan Berenstain</AuthorsText>
+<PublisherText publisher_id="random_house">New York, Random House [1970]</PublisherText>
+<Details change_time="2005-12-09T18:59:33Z" price_time="2012-01-13T05:25:40Z" edition_info="" language="eng" physical_description_text="[29] p. col. illus. 24 cm." lcc_number="PZ8.3" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

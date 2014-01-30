@@ -1,0 +1,4 @@
+frame:|small-town*1|,
+storyline:|humorous*1|,|episodic*1|,
+pptopic:|death*2|,
+characterization:|quirky*1|,|well-developed*1|,|believable*1|,

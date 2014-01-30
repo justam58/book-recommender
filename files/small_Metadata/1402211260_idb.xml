@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:08:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="i_love_you_more_a03" isbn="1402211260" isbn13="9781402211263">
+<Title>I Love You More</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Laura Duksta, Karen Keesler (Illustrator)</AuthorsText>
+<PublisherText publisher_id="sourcebooks_trade">Sourcebooks Trade</PublisherText>
+<Details change_time="2008-09-25T19:39:08Z" price_time="2010-10-10T22:49:46Z" edition_info="Hardcover; 2007-10-17" language="" physical_description_text="9.5&quot;x10.5&quot;x0.3&quot;; 1.0 lb; 34 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

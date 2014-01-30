@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:57:38Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="now_we_are_six_a05" isbn="0140361243" isbn13="9780140361247">
+<Title>Now we are six</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by A. A. Milne; with decorations by Ernest H. Shepard</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York : Puffin Books, 1992.</PublisherText>
+<Details change_time="2010-03-20T21:46:44Z" price_time="2010-11-27T13:37:46Z" edition_info="" language="eng" physical_description_text="101 p. : ill. ; 20 cm." lcc_number="PR6025" dewey_decimal_normalized="821.912" dewey_decimal="821/.912" />
+</BookData>
+</BookList>
+</ISBNdb>

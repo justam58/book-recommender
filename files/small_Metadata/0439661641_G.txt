@@ -1,0 +1,8 @@
+Title ===The Mona Mousa Code===
+Author ===Geronimo Stilton===
+Author ===Matt Wolf===
+PublicationDate ===2005-01-01===
+Description ===Geronimo investigates the rumors of a secret hidden in Mouse City's most famous painting, the Mona Mousa, and follows a trail of clues which lead below the streets of New Mouse City.===
+PageCount ===112===
+Type ===BOOK===
+AvgRate ===4.0===

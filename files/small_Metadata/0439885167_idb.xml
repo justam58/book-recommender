@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:23:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_baby_sitters_club_mary_anne_saves_the_day" isbn="0439885167" isbn13="9780439885164">
+<Title>Mary Anne saves the day</Title>
+<TitleLong>Mary Anne saves the day: a graphic novel</TitleLong>
+<AuthorsText>by Raina Telgemeier; [lettering by John Green; edited by David Levithan]</AuthorsText>
+<PublisherText publisher_id="graphix_scholastic_a01">New York : Graphix, Scholastic 2007.</PublisherText>
+<Details change_time="2010-12-28T22:46:37Z" price_time="2012-04-04T03:58:13Z" edition_info="" language="eng" physical_description_text="158 p. : chiefly ill. ; 23 cm." lcc_number="PN6727" dewey_decimal_normalized="741.5973" dewey_decimal="741.5/973" />
+</BookData>
+</BookList>
+</ISBNdb>

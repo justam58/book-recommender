@@ -1,0 +1,7 @@
+Title ===It's Probably Penny===
+PublicationDate ===2007-04-17===
+Description ===Lisa and her class learn about probability.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Juvenile Nonfiction===
+AvgRate ===3.5===

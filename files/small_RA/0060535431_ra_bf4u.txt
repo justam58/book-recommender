@@ -1,0 +1,2 @@
+frame:|romantic*1|,|historical*1|,
+pptopic:|sex*1|,

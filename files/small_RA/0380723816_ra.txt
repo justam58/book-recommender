@@ -1,0 +1,5 @@
+pptone:|quirky*8|,|serious*8|,
+storyline:|character-centered*1|,|family-centered*1|,|plot-centered*1|,
+pptopic:|illustration*1|,|curse*1|,|baby*3|,
+characterization:|well-developed*1|,|believable*1|,
+lang_style:|unusual*1|,

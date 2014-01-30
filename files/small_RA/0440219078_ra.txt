@@ -1,0 +1,7 @@
+frame:|hard-edged*6|,|school*1|,|small-town*3|,|suspenseful*1|,|evocative*1|,|gritty*1|,|historical*2|,|exotic*1|,|bittersweet*2|,|literary*1|,
+pptone:|realistic*1|,|suspenseful*1|,|happy*1|,|dark*1|,|serious*3|,
+storyline:|thought-provoking*2|,|issue-oriented*1|,|linear*2|,|complex*2|,|conclusive*1|,|gentle*2|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|racy*2|,|action-oriented*1|,
+pptopic:|sex*1|,|technology*1|,|death*2|,|illustration*2|,|addiction*1|,|violent*3|,|baby*6|,|war*13|,
+characterization:|well-developed*2|,|dramatic*1|,|believable*4|,
+lang_style:|complex*2|,|passionate*2|,|simple*8|,|poetic*1|,|unusual*8|,|seemly*1|,|thoughtful*3|,|candid*1|,
+pacing:|fast*2|,

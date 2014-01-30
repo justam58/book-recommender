@@ -1,0 +1,5 @@
+frame:|small-town*2|,
+storyline:|linear*1|,|gentle*2|,|humorous*1|,|mythic*2|,
+pptopic:|religion*1|,|illustration*19|,
+characterization:|believable*1|,
+lang_style:|passionate*2|,|simple*2|,|poetic*1|,|unusual*3|,

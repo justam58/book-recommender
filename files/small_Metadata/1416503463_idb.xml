@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:11:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="soul_surfer_a01" isbn="1416503463" isbn13="9781416503460">
+<Title>Soul Surfer</Title>
+<TitleLong>Soul Surfer: A True Story of Faith, Family, and Fighting to Get Back on the Board</TitleLong>
+<AuthorsText>Bethany Hamilton, Sheryl Berk, Rick Bundschuh, </AuthorsText>
+<PublisherText publisher_id="mtv">MTV</PublisherText>
+<Details change_time="2007-08-21T18:41:07Z" price_time="2012-10-25T17:44:16Z" edition_info="Paperback; 2006-06-06" language="" physical_description_text="240 pages" lcc_number="" dewey_decimal_normalized="797.32092" dewey_decimal="797.32092" />
+</BookData>
+</BookList>
+</ISBNdb>

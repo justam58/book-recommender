@@ -1,0 +1,2 @@
+frame:|hard-edged*1|,
+storyline:|humorous*2|,

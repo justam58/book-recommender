@@ -1,0 +1,3 @@
+storyline:|folksy*6|,
+pptopic:|illustration*2|,|baby*5|,|violent*1|,
+characterization:|believable*6|,

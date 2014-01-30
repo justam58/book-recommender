@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:25:30Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="p_j_funnybunny_camps_out" isbn="0679832696" isbn13="9780679832690">
+<Title>P. J. Funnybunny camps out</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Marilyn Sadler; illustrated by Roger Bollen</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1993.</PublisherText>
+<Details change_time="2004-07-31T10:48:38Z" price_time="2012-07-04T04:45:05Z" edition_info="" language="eng" physical_description_text="32 p. : col. ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:06:44Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="planting_a_rainbow_a03" isbn="0152626107" isbn13="9780152626105">
+<Title>Planting a rainbow</Title>
+<TitleLong></TitleLong>
+<AuthorsText>written and illustrated by Lois Ehlert</AuthorsText>
+<PublisherText publisher_id="harcourt_brace_jovanovich">San Diego : Harcourt Brace Jovanovich, c1988.</PublisherText>
+<Details change_time="2008-08-29T02:31:30Z" price_time="2012-04-01T13:55:54Z" edition_info="" language="ENG" physical_description_text="[22] p. : col. ill. ; 23 X 29 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

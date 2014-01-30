@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:26:46Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_lightning_thief_a08" isbn="0141381485" isbn13="9780141381480">
+<Title>The Lightning Thief</Title>
+<TitleLong>The Lightning Thief: Percy Jackson and the Olympians - Advanced Readers Copy</TitleLong>
+<AuthorsText>Rick Riordan, </AuthorsText>
+<PublisherText publisher_id="miramax">Miramax</PublisherText>
+<Details change_time="2011-03-06T12:29:42Z" price_time="2012-05-14T15:10:21Z" edition_info="Paperback; 2005" language="" physical_description_text="5.3&quot;x8.3&quot;x1.3&quot;; 0.9 lb; 384 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

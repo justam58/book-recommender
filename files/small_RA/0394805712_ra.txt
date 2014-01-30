@@ -1,0 +1,3 @@
+frame:|humorous*6|,
+storyline:|humorous*1|,
+pptopic:|baby*1|,

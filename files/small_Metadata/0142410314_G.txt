@@ -1,0 +1,8 @@
+Title ===Charlie and the Chocolate Factory===
+Author ===Roald Dahl===
+PublicationDate ===1964===
+Description ===Each of five children lucky enough to discover an entry ticket into Mr. Willy Wonka's mysterious chocolate factory takes advantage of the situation in his own way.===
+PageCount ===161===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

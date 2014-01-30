@@ -1,0 +1,7 @@
+Title ===Scorpia===
+Author ===Anthony Horowitz===
+PublicationDate ===2005-03-17===
+Description ===After being told that his father was an assassin for a criminal organization, fourteen-year-old Alex goes to Italy to find out more and becomes involved in a plan to kill thousands of English schoolchildren.===
+PageCount ===312===
+Type ===BOOK===
+AvgRate ===4.0===

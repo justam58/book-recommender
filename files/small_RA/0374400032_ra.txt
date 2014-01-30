@@ -1,0 +1,4 @@
+frame:|hard-edged*3|,|romantic*1|,
+storyline:|linear*1|,|gentle*1|,
+pptopic:|death*3|,
+characterization:|sympathetic*3|,

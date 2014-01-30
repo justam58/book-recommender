@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:56:52Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_recruit_a01" isbn="068987779X" isbn13="9780689877797">
+<Title>The recruit</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Robert Muchamore</AuthorsText>
+<PublisherText publisher_id="simon_pulse">New York, NY : Simon Pulse, 2005.</PublisherText>
+<Details change_time="2008-01-03T01:51:53Z" price_time="2012-03-16T02:20:45Z" edition_info="" language="eng" physical_description_text="p. cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

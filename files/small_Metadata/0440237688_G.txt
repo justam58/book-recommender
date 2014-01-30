@@ -1,0 +1,8 @@
+Title ===The Giver===
+Author ===Lois Lowry===
+PublicationDate ===2002-09-10===
+Description ===Given his lifetime assignment at the Ceremony of Twelve, Jonas becomes the receiver of memories shared by only one other in his community and discovers the terrible truth about the society in which he lives.===
+PageCount ===179===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

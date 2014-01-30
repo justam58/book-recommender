@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:32:21Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_school_mouse_a02" isbn="0786811560" isbn13="9780786811564">
+<Title>The School Mouse</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Dick King-Smith, </AuthorsText>
+<PublisherText publisher_id="hyperion">Hyperion</PublisherText>
+<Details change_time="2004-12-31T23:11:23Z" price_time="2010-05-14T19:02:25Z" edition_info="Paperback; 1997-01" language="" physical_description_text="5.2&quot;x7.6&quot;x0.3&quot;; 124 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

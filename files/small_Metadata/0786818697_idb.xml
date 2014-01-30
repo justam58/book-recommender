@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:27:42Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_pigeon_finds_a_hot_dog_a01" isbn="0786818697" isbn13="9780786818693">
+<Title>The Pigeon finds a hot dog!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>words and pictures by Mo Willems</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York : Hyperion Books for Children, c2004.</PublisherText>
+<Details change_time="2004-11-20T16:30:47Z" price_time="2013-02-09T03:41:43Z" edition_info="(reinforced)" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

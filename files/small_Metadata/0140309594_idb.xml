@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-18T19:37:09Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="pippi_goes_on_board" isbn="0140309594" isbn13="9780140309591">
+<Title>Pippi goes on board</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Astrid Lindgren; translated by Florence Lamborn; illustrated by Louis Glanzman</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York : Puffin Books, 1977, c1957.</PublisherText>
+<Details change_time="2009-06-25T13:52:52Z" price_time="2012-11-30T11:34:07Z" edition_info="" language="eng" physical_description_text="140 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

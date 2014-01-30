@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:26:14Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_name_of_this_book_is_secret" isbn="0316113662" isbn13="9780316113663">
+<Title>The name of this book is secret</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Pseudonymous Bosch; illustrations by Gilbert Ford</AuthorsText>
+<PublisherText publisher_id="little_brown">New York : Little, Brown, 2007.</PublisherText>
+<Details change_time="2008-06-02T13:32:45Z" price_time="2012-10-12T21:02:59Z" edition_info="" language="eng" physical_description_text="360 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

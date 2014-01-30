@@ -1,0 +1,3 @@
+pptopic:|war*1|,
+characterization:|sympathetic*1|,
+lang_style:|thoughtful*1|,

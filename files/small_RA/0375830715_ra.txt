@@ -1,0 +1,7 @@
+frame:|hard-edged*7|,
+pptone:|realistic*6|,
+storyline:|linear*1|,
+pptopic:|violent*1|,
+characterization:|sympathetic*1|,
+lang_style:|simple*1|,|unusual*3|,
+pacing:|fast*1|,

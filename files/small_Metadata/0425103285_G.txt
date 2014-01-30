@@ -1,0 +1,9 @@
+Title ===Mrs. Mike===
+Author ===Benedict Freedman===
+Author ===Nancy Freedman===
+PublicationDate ===1987-01-01===
+Description ===Young Kathy, a city girl, marries a Canadian Mountie and begins a new life in the wilderness of the North Woods===
+PageCount ===284===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.0===

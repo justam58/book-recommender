@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:07:35Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="wemberly_worried_a01" isbn="0688170277" isbn13="9780688170271">
+<Title>Wemberly worried</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Kevin Henkes</AuthorsText>
+<PublisherText publisher_id="greenwillow_books">New York : Greenwillow Books, 2000.</PublisherText>
+<Details change_time="2004-02-25T04:21:02Z" price_time="2011-05-06T17:23:59Z" edition_info="(trade : alk. paper)" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 26 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

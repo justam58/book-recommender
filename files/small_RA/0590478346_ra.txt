@@ -1,0 +1,5 @@
+frame:|hard-edged*2|,|heart-warming*1|,|evocative*1|,|bittersweet*1|,
+storyline:|issue-oriented*1|,|linear*3|,|gentle*1|,|conclusive*1|,|action-oriented*1|,|tragic*10|,|inspirational*1|,
+pptopic:|illustration*1|,
+characterization:|sympathetic*1|,
+lang_style:|passionate*2|,|unusual*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:09:09Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="stars_and_stripes" isbn="0439521041" isbn13="9780439521048">
+<Title>Stars and stripes</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jenny Dale; illustrations by Mick Reid</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, 2003, c2001.</PublisherText>
+<Details change_time="2004-07-11T12:02:36Z" price_time="2011-05-20T14:26:24Z" edition_info="" language="eng" physical_description_text="108 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

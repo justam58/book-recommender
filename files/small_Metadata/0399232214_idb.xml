@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:56:21Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="welcome_to_the_river_of_grass" isbn="0399232214" isbn13="9780399232213">
+<Title>Welcome to the river of grass</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jane Yolen; illustrated by Laura Regan</AuthorsText>
+<PublisherText publisher_id="putnams">New York : Putnam's , c2001.</PublisherText>
+<Details change_time="2005-11-16T07:18:00Z" price_time="2010-10-27T10:06:50Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 29 cm." lcc_number="QH105" dewey_decimal_normalized="577.6840975939" dewey_decimal="577.68/4/0975939" />
+</BookData>
+</BookList>
+</ISBNdb>

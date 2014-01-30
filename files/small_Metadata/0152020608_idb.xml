@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:40:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="bubba_and_beau_best_friends" isbn="0152020608" isbn13="9780152020606">
+<Title>Bubba and Beau, best friends</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Kathi Appelt; [illustrated by] Arthur Howard</AuthorsText>
+<PublisherText publisher_id="harcourt">San Diego : Harcourt, 2002.</PublisherText>
+<Details change_time="2003-10-20T06:58:24Z" price_time="2010-12-14T19:31:38Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 28 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

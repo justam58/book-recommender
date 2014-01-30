@@ -1,0 +1,9 @@
+Title ===The Landry News===
+Author ===Andrew Clements===
+Author ===Brian Selznick===
+PublicationDate ===2000-09-01===
+Description ===A fifth-grader starts a newspaper with an editorial that prompts her burnt-out classroom teacher to really begin teaching again, but he is later threatened with disciplinary action as a result.===
+PageCount ===144===
+Type ===BOOK===
+LCSH ===Family & Relationships===
+AvgRate ===3.5===

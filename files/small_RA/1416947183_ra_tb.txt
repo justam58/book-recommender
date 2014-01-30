@@ -1,0 +1,2 @@
+storyline:|episodic*1|,
+pacing:|fast*1|,

@@ -1,0 +1,7 @@
+Title ===Eggs===
+Author ===Jerry Spinelli===
+PublicationDate ===2008-04-01===
+Description ===Eggs is a quirky and moving novel about two very complicated, damaged children. David has recently lost his mother to a freak accident, his salesman father is constantly on the road, and he is letting his anger out on his grandmother. Primrose lives with her unstable, childlike, fortuneteller mother, and the only evidence of the father she never knew is a framed picture. Despite their age difference (David is 9, Primrose is 13), they forge a tight yet tumultuous friendship, eventually helping each other deal with what is missing in their lives.===
+PageCount ===240===
+Type ===BOOK===
+AvgRate ===3.5===

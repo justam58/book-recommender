@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:30:35Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="tales_of_a_fourth_grade_nothing_a11" isbn="0142408816" isbn13="9780142408810">
+<Title>Tales of a Fourth Grade Nothing</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Judy Blume, </AuthorsText>
+<PublisherText publisher_id="puffin">Puffin</PublisherText>
+<Details change_time="2007-04-04T18:28:11Z" price_time="2012-11-16T15:35:20Z" edition_info="Paperback; 2007-04-05" language="" physical_description_text="128 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

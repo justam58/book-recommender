@@ -1,0 +1,6 @@
+frame:|gritty*1|,
+storyline:|humorous*7|,
+pptopic:|illustration*6|,
+characterization:|well-developed*1|,
+lang_style:|complex*27|,|passionate*1|,|simple*1|,|unusual*4|,|candid*1|,
+pacing:|fast*1|,

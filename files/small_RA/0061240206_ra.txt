@@ -1,0 +1,5 @@
+frame:|popular*2|,
+pptone:|realistic*3|,
+storyline:|linear*1|,
+pptopic:|illustration*2|,
+lang_style:|classic*1|,

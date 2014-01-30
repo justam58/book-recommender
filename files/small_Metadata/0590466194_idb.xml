@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:31:43Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="welcome_to_camp_nightmare" isbn="0590466194" isbn13="9780590466196">
+<Title>Welcome to Camp Nightmare</Title>
+<TitleLong></TitleLong>
+<AuthorsText></AuthorsText>
+<PublisherText publisher_id="new_york_scholastic">New York : Scholastic 1993.</PublisherText>
+<Details change_time="2009-10-07T18:42:06Z" price_time="2012-12-19T22:14:44Z" edition_info="" language="eng" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,9 @@
+Title ===The Return of the King===
+Author ===J. R. R. Tolkien===
+Author ===John Ronald Reuel Tolkien===
+PublicationDate ===1983===
+Description ===Sauron and Gandalf the Grey battle for possession of the One Ring and its evil powers, while Frodo approaches the end of his epic quest, in the conclusion of The Lord of the Rings trilogy. Reissue.===
+PageCount ===544===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.5===

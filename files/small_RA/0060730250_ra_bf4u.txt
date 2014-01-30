@@ -1,0 +1,2 @@
+frame:|heart-warming*1|,|humorous*1|,
+lang_style:|poetic*1|,

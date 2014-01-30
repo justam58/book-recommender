@@ -1,0 +1,9 @@
+Title ===The merry adventures of Robin Hood===
+Author ===Joanne Mattern===
+Author ===Pyle===
+PublicationDate ===1996-10-01===
+Description ===Recounts the legend of Robin Hood, who plundered the king's purse and poached his deer and whose generosity endeared him to the poor.===
+PageCount ===46===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.5===

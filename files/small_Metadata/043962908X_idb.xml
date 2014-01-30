@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:44:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dear_dumb_diary_4_never_do_anything_ever" isbn="043962908X" isbn13="9780439629089">
+<Title>Never do anything ever</Title>
+<TitleLong>Never do anything ever: by Jamie Kelly</TitleLong>
+<AuthorsText></AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, c2005.</PublisherText>
+<Details change_time="2008-08-12T03:59:40Z" price_time="2012-05-20T05:32:35Z" edition_info="(pbk.)" language="eng" physical_description_text="132 p. : ill. (some col.) ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

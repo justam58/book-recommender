@@ -1,0 +1,5 @@
+frame:|hard-edged*3|,|historical*1|,
+storyline:|gentle*1|,
+pptopic:|illustration*6|,|baby*4|,|violent*1|,
+characterization:|believable*3|,
+lang_style:|unusual*1|,

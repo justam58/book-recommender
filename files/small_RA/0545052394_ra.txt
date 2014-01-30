@@ -1,0 +1,7 @@
+frame:|romantic*2|,
+pptone:|serious*1|,
+storyline:|inspirational*1|,
+pptopic:|illustration*1|,|curse*2|,
+characterization:|sympathetic*1|,
+lang_style:|passionate*1|,|unusual*1|,|thoughtful*1|,
+pacing:|fast*1|,

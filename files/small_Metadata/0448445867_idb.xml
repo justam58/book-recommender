@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:14:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="nancy_drew_complete_series_set_books_1_64" isbn="0448445867" isbn13="9780448445861">
+<Title>Nancy Drew Complete Series Set, Books 1-64</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Carolyn Keene, </AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">Grosset &amp; Dunlap</PublisherText>
+<Details change_time="2009-02-11T01:03:16Z" price_time="2012-12-20T17:33:20Z" edition_info="Hardcover; 2006-10-11" language="" physical_description_text="13.2&quot;x19.4&quot;x9.0&quot;; 34.4 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

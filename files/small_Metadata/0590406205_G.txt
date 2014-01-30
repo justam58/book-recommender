@@ -1,0 +1,9 @@
+Title ===Stuart Little===
+Author ===E. B. White===
+Author ===Garth Williams===
+PublicationDate ===1987===
+Description ===The adventures of the debonair mouse Stuart Little as he sets out in the world to seek out his dearest friend, a little bird who stayed a few days in his family's garden.===
+PageCount ===132===
+Type ===BOOK===
+LCSH ===Drama===
+AvgRate ===3.0===

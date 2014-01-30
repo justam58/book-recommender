@@ -1,0 +1,7 @@
+Title ===Dk First Dinosaur Encyclopedia===
+Author ===Caroline Bingham===
+PublicationDate ===2006-12-18===
+Description ===Covers the physical characteristics and possible behaviors of dinosaurs, categorized by when they lived, and also provides information on the prehistoric animals that lived with the dinosaurs, how fossils are formed and excavated, and why they may have beome extinct.===
+PageCount ===128===
+Type ===BOOK===
+AvgRate ===5.0===

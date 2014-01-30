@@ -1,0 +1,6 @@
+frame:|romantic*1|,|descriptive*1|,
+storyline:|complex*1|,|open-ended*1|,
+pptopic:|sex*1|,|death*5|,|illustration*3|,|violent*5|,|war*2|,
+characterization:|well-developed*2|,|believable*1|,|sympathetic*1|,
+lang_style:|simple*1|,|classic*1|,
+pacing:|engrossing*1|,|fast*3|,

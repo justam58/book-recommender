@@ -1,0 +1,2 @@
+pptopic:|religion*1|,|illustration*5|,
+lang_style:|simple*2|,

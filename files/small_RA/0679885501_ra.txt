@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|heart-warming*2|,|small-town*1|,
+pptone:|happy*1|,|serious*2|,
+storyline:|linear*1|,|open-ended*1|,|gentle*1|,|racy*1|,|humorous*10|,|tragic*1|,
+pptopic:|bullying*9|,|illustration*2|,|baby*1|,
+characterization:|recognizable*1|,|stereotypes*1|,|well-developed*2|,|believable*1|,
+lang_style:|simple*1|,|unusual*2|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:39:41Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="from_the_mixed_up_files_of_mrs_basil_e_frankweiler_35th_anni" isbn="0689853548" isbn13="9780689853548">
+<Title>From the Mixed-Up Files of Mrs. Basil E. Frankweiler:35th Anniversary Edition</Title>
+<TitleLong></TitleLong>
+<AuthorsText>E.L. Konigsburg, </AuthorsText>
+<PublisherText publisher_id="simon_pulse">Simon Pulse</PublisherText>
+<Details change_time="2007-01-20T01:37:34Z" price_time="2012-10-26T06:41:09Z" edition_info="Mass Market Paperback; 2002-10-01" language="" physical_description_text="208 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

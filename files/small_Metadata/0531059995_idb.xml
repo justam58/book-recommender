@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:47:40Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="charlie_parker_played_be_bop_a01" isbn="0531059995" isbn13="9780531059999">
+<Title>Charlie Parker played be bop</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Chris Raschka</AuthorsText>
+<PublisherText publisher_id="orchard_books">New York : Orchard Books, c1992.</PublisherText>
+<Details change_time="2004-07-14T02:29:55Z" price_time="2012-03-16T00:11:51Z" edition_info="" language="eng" physical_description_text="[32] p. : ill. ; 25 cm." lcc_number="ML3930" dewey_decimal_normalized="788.73165092" dewey_decimal="788.7/3165/092" />
+</BookData>
+</BookList>
+</ISBNdb>

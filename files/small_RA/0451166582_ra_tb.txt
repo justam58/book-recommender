@@ -1,0 +1,4 @@
+frame:|heart-warming*1|,|popular*1|,
+storyline:|complex*1|,
+characterization:|well-developed*1|,|distant*1|,|believable*1|,
+lang_style:|simple*1|,|classic*1|,

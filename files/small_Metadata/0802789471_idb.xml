@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:28:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="once_upon_a_cool_motorcycle_dude" isbn="0802789471" isbn13="9780802789471">
+<Title>Once upon a cool motorcycle dude</Title>
+<TitleLong></TitleLong>
+<AuthorsText>written and illustrated by Kevin O'Malley; illustrated by Carol Heyer; illustrated by Scott Goto</AuthorsText>
+<PublisherText publisher_id="walker_company">New York : Walker &amp; Company, 2005.</PublisherText>
+<Details change_time="2008-05-06T16:54:07Z" price_time="2012-08-13T04:47:57Z" edition_info="(HC)" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 29 cm." lcc_number="PZ8" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

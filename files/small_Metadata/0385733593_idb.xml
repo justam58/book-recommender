@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:34:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="a_dog_called_grk" isbn="0385733593" isbn13="9780385733595">
+<Title>A dog called Grk</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Joshua Doder</AuthorsText>
+<PublisherText publisher_id="delacorte_press">New York : Delacorte Press, 2006.</PublisherText>
+<Details change_time="2008-05-03T22:06:41Z" price_time="2012-10-17T21:34:02Z" edition_info="" language="eng" physical_description_text="249 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

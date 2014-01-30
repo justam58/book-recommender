@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:53:18Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="no_david" isbn="0590930028" isbn13="9780590930024">
+<Title>No, David!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by David Shannon</AuthorsText>
+<PublisherText publisher_id="blue_sky_press">New York : Blue Sky Press, c1998.</PublisherText>
+<Details change_time="2003-11-13T00:59:59Z" price_time="2013-01-31T16:41:49Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 29 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

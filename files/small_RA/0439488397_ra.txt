@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|popular*1|,|exotic*1|,
+pptone:|realistic*1|,|serious*1|,
+storyline:|issue-oriented*1|,|gentle*2|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|action-oriented*1|,
+pptopic:|illustration*10|,|baby*4|,|violent*1|,
+characterization:|well-developed*7|,|believable*2|,|sympathetic*1|,
+lang_style:|simple*1|,|unusual*2|,|candid*1|,|thoughtful*1|,|conversational*1|,
+pacing:|slow*1|,

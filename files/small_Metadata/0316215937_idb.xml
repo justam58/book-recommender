@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:55:43Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="return_to_hawks_hill" isbn="0316215937" isbn13="9780316215930">
+<Title>Return to Hawk's Hill</Title>
+<TitleLong>Return to Hawk's Hill: a novel</TitleLong>
+<AuthorsText>Allan W. Eckert</AuthorsText>
+<PublisherText publisher_id="little_brown">Boston : Little, Brown, c1998.</PublisherText>
+<Details change_time="2004-07-30T18:19:49Z" price_time="2011-12-25T19:48:22Z" edition_info="" language="eng" physical_description_text="192 p. : map ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

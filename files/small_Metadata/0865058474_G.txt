@@ -1,0 +1,6 @@
+Title ===Rocks & Minerals===
+Author ===Neil Morris===
+PublicationDate ===1998===
+Description ===An introduction to rocks and minerals, their types, origins, and uses.===
+PageCount ===32===
+Type ===BOOK===

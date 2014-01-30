@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|humorous*1|,
+pptone:|realistic*1|,
+storyline:|humorous*1|,
+lang_style:|simple*1|,

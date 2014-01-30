@@ -1,0 +1,2 @@
+pptopic:|death*1|,
+lang_style:|simple*1|,

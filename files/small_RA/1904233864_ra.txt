@@ -1,0 +1,7 @@
+frame:|hard-edged*7|,|small-town*1|,|contemporary*1|,|popular*2|,|evocative*1|,|romantic*3|,|humorous*1|,|historical*3|,
+pptone:|quirky*1|,|happy*1|,|dark*2|,|serious*2|,
+storyline:|linear*2|,|gentle*2|,|humorous*1|,|tragic*3|,|episodic*2|,
+pptopic:|religion*1|,|sex*1|,|death*1|,|addiction*4|,|baby*1|,
+characterization:|quirky*1|,|well-developed*7|,|dramatic*1|,|believable*8|,|sympathetic*5|,|literary*1|,
+lang_style:|passionate*4|,|simple*1|,|unusual*6|,|thoughtful*2|,|classic*1|,
+pacing:|fast*2|,

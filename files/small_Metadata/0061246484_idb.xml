@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-18T19:25:59Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_ramona_collection_vol_2" isbn="0061246484" isbn13="9780061246487">
+<Title>The Ramona Collection, Vol. 2</Title>
+<TitleLong>The Ramona Collection, Vol. 2: Ramona Quimby, Age 8 / Ramona and Her Mother / Ramona Forever / Ramona's World</TitleLong>
+<AuthorsText>Beverly Cleary, Tracy Dockray (Illustrator)</AuthorsText>
+<PublisherText publisher_id="harpertrophy">HarperTrophy</PublisherText>
+<Details change_time="2007-10-22T11:34:47Z" price_time="2010-12-04T17:30:27Z" edition_info="Paperback; 2006-08-01" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

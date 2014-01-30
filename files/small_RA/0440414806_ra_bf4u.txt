@@ -1,0 +1,4 @@
+storyline:|humorous*1|,
+pptopic:|curse*1|,
+lang_style:|dramatic*1|,|thoughtful*1|,
+pacing:|engrossing*1|,

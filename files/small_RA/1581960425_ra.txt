@@ -1,0 +1,3 @@
+storyline:|humorous*1|,
+characterization:|linear*1|,|well-developed*1|,
+lang_style:|poetic*2|,

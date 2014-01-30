@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:36:40Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_ghost_and_mrs_hobbs" isbn="0374380465" isbn13="9780374380465">
+<Title>The ghost and Mrs. Hobbs</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Cynthia DeFelice</AuthorsText>
+<PublisherText publisher_id="farrar_straus_and_giroux">New York : Farrar, Straus and Giroux, 2001.</PublisherText>
+<Details change_time="2004-07-15T05:50:55Z" price_time="2011-07-20T10:07:56Z" edition_info="$16.00 :$16.00" language="eng" physical_description_text="180 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

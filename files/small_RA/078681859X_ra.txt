@@ -1,0 +1,7 @@
+frame:|hard-edged*4|,|small-town*1|,|melodramatic*1|,|contemporary*1|,|timeless*1|,|exotic*4|,
+pptone:|realistic*1|,|quirky*1|,|serious*1|,
+storyline:|linear*1|,|complex*4|,|character-centered*1|,|family-centered*1|,|gentle*1|,|mystical*1|,|plot-centered*1|,|humorous*5|,|racy*2|,|folksy*1|,
+pptopic:|death*3|,|illustration*3|,|curse*1|,|violent*2|,|war*1|,
+characterization:|stereotypes*1|,|well-developed*10|,|distant*2|,|evocative*1|,|dramatic*1|,|believable*4|,|sympathetic*4|,|literary*1|,
+lang_style:|complex*1|,|dramatic*1|,|unusual*6|,|thoughtful*2|,|natural*1|,
+pacing:|slow*1|,|fast*4|,

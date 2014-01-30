@@ -1,0 +1,8 @@
+Title ===The Hidden Staircase===
+Author ===Carolyn Keene===
+PublicationDate ===1987===
+Description ===Nancy Drew's father is kidnapped as she investigates the case of a mysterious thief===
+PageCount ===182===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

@@ -1,0 +1,6 @@
+frame:|popular*1|,|humorous*2|,
+pptone:|realistic*2|,
+storyline:|gentle*1|,|humorous*5|,
+pptopic:|illustration*4|,|baby*2|,
+characterization:|believable*1|,
+lang_style:|passionate*1|,|simple*1|,|unusual*1|,

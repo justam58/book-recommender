@@ -1,0 +1,4 @@
+storyline:|humorous*2|,
+pptopic:|illustration*2|,
+characterization:|believable*1|,
+lang_style:|passionate*1|,

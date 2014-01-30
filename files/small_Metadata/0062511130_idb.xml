@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:39:55Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="walking_a08" isbn="0062511130" isbn13="9780062511133">
+<Title>Walking</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Henry David Thoreau</AuthorsText>
+<PublisherText publisher_id="harpersanfrancisco">San Francisco : HarperSanFrancisco, c1994.</PublisherText>
+<Details change_time="2006-01-24T07:28:55Z" price_time="2010-04-17T23:43:18Z" edition_info="(pbk) :$8.00 ($10.75)" language="eng" physical_description_text="92 p. ; 13 cm." lcc_number="PS3051" dewey_decimal_normalized="814.3" dewey_decimal="814/.3" />
+</BookData>
+</BookList>
+</ISBNdb>

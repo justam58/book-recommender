@@ -1,0 +1,5 @@
+frame:|contemporary*2|,|bittersweet*1|,
+storyline:|humorous*1|,
+pptopic:|death*6|,|violent*1|,|war*1|,
+characterization:|well-developed*1|,|believable*2|,
+lang_style:|complex*1|,|passionate*2|,|dramatic*1|,|unusual*1|,|classic*3|,

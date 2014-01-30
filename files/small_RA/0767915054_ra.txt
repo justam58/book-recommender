@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|small-town*1|,|romantic*1|,|exotic*2|,|sensual*2|,
+pptone:|quirky*1|,
+storyline:|character-centered*1|,|family-centered*1|,|plot-centered*1|,|humorous*3|,|tragic*2|,
+pptopic:|religion*1|,|drinking*1|,|death*2|,|illustration*2|,|baby*2|,
+characterization:|quirky*2|,|believable*1|,
+lang_style:|passionate*3|,|simple*15|,|unusual*1|,|candid*1|,|thoughtful*1|,

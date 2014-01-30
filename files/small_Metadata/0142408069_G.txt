@@ -1,0 +1,8 @@
+Title ===My Best Friend===
+Author ===Mary Ann Rodman===
+Author ===E. B. Lewis===
+PublicationDate ===2007-06-14===
+Description ===Six-year-old Lily has a best friend all picked out for play group day, but unfortunately the differences between first-graders and second-graders are sometimes very large.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===4.0===

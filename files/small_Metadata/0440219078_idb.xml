@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:31:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_giver_a02" isbn="0440219078" isbn13="9780440219071">
+<Title>The giver</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Lois Lowry</AuthorsText>
+<PublisherText publisher_id="houghton_mifflin">Boston : Houghton Mifflin, 1993.</PublisherText>
+<Details change_time="2009-09-24T05:52:44Z" price_time="2012-10-10T21:27:27Z" edition_info="$10.70" language="eng" physical_description_text="180 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

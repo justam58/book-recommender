@@ -1,0 +1,4 @@
+storyline:|gentle*1|,
+pptopic:|death*2|,|illustration*1|,|baby*3|,
+characterization:|well-developed*3|,
+pacing:|slow*1|,

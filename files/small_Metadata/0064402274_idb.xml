@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:51:32Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dragon_of_the_lost_sea" isbn="0064402274" isbn13="9780064402279">
+<Title>Dragon of the lost sea</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Laurence Yep</AuthorsText>
+<PublisherText publisher_id="harpertrophy">New York : HarperTrophy, 1988, c1982.</PublisherText>
+<Details change_time="2008-12-06T08:12:55Z" price_time="2012-03-24T16:40:58Z" edition_info="(pbk.) :$3.95" language="eng" physical_description_text="213 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,4 @@
+storyline:|inspirational*1|,
+pptopic:|illustration*1|,
+characterization:|believable*2|,
+lang_style:|complex*1|,|unusual*1|,|natural*1|,

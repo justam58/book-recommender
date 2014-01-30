@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:53:14Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="best_foot_forward_a01" isbn="0399234748" isbn13="9780399234743">
+<Title>Best foot forward</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Joan Bauer</AuthorsText>
+<PublisherText publisher_id="g_p_putnams_sons">New York : G. P. Putnam's Sons, c2005.</PublisherText>
+<Details change_time="2007-08-15T20:04:44Z" price_time="2012-07-21T14:24:08Z" edition_info="" language="eng" physical_description_text="183 p. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

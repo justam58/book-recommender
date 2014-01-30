@@ -1,0 +1,10 @@
+Title ===Star Wars===
+Author ===Curtis Saxton===
+Author ===DK Publishing===
+Author ===Hans Jenssen===
+Author ===Richard Chasemore===
+PublicationDate ===2005-04-02===
+Description ===Presents detailed labeled drawings, with background text, of the various spacecraft in "Star Wars: episode III, revenge of the Sith."===
+PageCount ===31===
+Type ===BOOK===
+AvgRate ===4.0===

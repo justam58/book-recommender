@@ -1,0 +1,4 @@
+frame:|romantic*1|,
+storyline:|issue-oriented*3|,|complex*2|,|linear*8|,|mystical*1|,|humorous*2|,|racy*2|,|violent*1|,|action-oriented*3|,|mythic*3|,
+pptopic:|death*1|,|illustration*7|,|addiction*1|,
+lang_style:|passionate*1|,|unusual*3|,

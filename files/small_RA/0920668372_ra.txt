@@ -1,0 +1,4 @@
+frame:|heart-warming*1|,
+storyline:|linear*5|,|open-ended*1|,|gentle*1|,|humorous*1|,
+pptopic:|death*8|,|illustration*19|,|curse*1|,|baby*33|,
+lang_style:|passionate*2|,|simple*1|,|poetic*1|,|unusual*1|,

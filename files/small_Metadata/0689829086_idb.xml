@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:53:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="river_boy" isbn="0689829086" isbn13="9780689829086">
+<Title>River boy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Tim Bowler</AuthorsText>
+<PublisherText publisher_id="margaret_k_mcelderry_books">New York : Margaret K. McElderry Books, 2000.</PublisherText>
+<Details change_time="2006-08-23T20:46:35Z" price_time="2012-09-02T02:47:34Z" edition_info="" language="???" physical_description_text="155 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

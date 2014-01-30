@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:10:05Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="caring_for_your_dog_a01" isbn="0736863850" isbn13="9780736863858">
+<Title>Caring for Your Dog</Title>
+<TitleLong>Caring for Your Dog (First Facts)</TitleLong>
+<AuthorsText>June Preszler, </AuthorsText>
+<PublisherText publisher_id="capstone_press">Capstone Press</PublisherText>
+<Details change_time="2008-08-21T15:19:43Z" price_time="2010-05-22T05:52:56Z" edition_info="Library Binding; 2006-09-01" language="" physical_description_text="8.1&quot;x8.3&quot;x0.3&quot;; 0.5 lb; 24 pages" lcc_number="" dewey_decimal_normalized="636.7" dewey_decimal="636.7" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:40:26Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="rocks_minerals_a10" isbn="0865058474" isbn13="9780865058477">
+<Title>Rocks &amp; minerals</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Neil Morris</AuthorsText>
+<PublisherText publisher_id="crabtree_pub_co">New York, N.Y. : Crabtree Pub. Co., c1998.</PublisherText>
+<Details change_time="2007-07-22T06:20:05Z" price_time="2010-09-06T02:19:33Z" edition_info="(pb)" language="eng" physical_description_text="32 p. : col. ill. ; 26 cm." lcc_number="QE432.2" dewey_decimal_normalized="552" dewey_decimal="552" />
+</BookData>
+</BookList>
+</ISBNdb>

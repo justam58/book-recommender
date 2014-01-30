@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:59:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="among_the_hidden" isbn="0689817002" isbn13="9780689817007">
+<Title>Among the hidden</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Margaret Peterson Haddix</AuthorsText>
+<PublisherText publisher_id="simon_schuster_books_for_young">New York : Simon &amp; Schuster Books for Young Readers, c1998.</PublisherText>
+<Details change_time="2003-11-19T13:25:41Z" price_time="2012-05-01T17:22:09Z" edition_info="" language="eng" physical_description_text="153 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

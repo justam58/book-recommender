@@ -1,0 +1,6 @@
+frame:|small-town*1|,
+pptone:|realistic*2|,
+storyline:|open-ended*1|,|racy*1|,|humorous*2|,|tragic*1|,
+pptopic:|baby*3|,
+characterization:|linear*1|,
+lang_style:|passionate*2|,|unusual*8|,

@@ -1,0 +1,8 @@
+Title ===Little house on the prairie===
+Author ===Laura Ingalls Wilder===
+PublicationDate ===1953===
+Description ===A family travels from the big woods of Wisconsin to a new home on the prairie, where they build a house, meet neighboring Indians, build a well, and fight a prairie fire.===
+PageCount ===336===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.0===

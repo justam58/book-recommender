@@ -1,0 +1,6 @@
+frame:|small-town*1|,|timeless*27|,|humorous*1|,|descriptive*1|,|historical*1|,
+pptone:|happy*1|,|serious*2|,
+storyline:|linear*33|,|gentle*2|,|humorous*3|,|mythic*1|,
+pptopic:|technology*1|,|illustration*3|,
+characterization:|quirky*1|,|linear*2|,|well-developed*1|,|believable*5|,|sympathetic*2|,
+lang_style:|complex*2|,|passionate*1|,|dramatic*1|,|unusual*2|,

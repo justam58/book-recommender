@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:44:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_haunted_mask_ii" isbn="0590568736" isbn13="9780590568739">
+<Title>The haunted mask II</Title>
+<TitleLong></TitleLong>
+<AuthorsText>R. L. Stine</AuthorsText>
+<PublisherText publisher_id="scholastic_inc">New York : Scholastic Inc., c1995.</PublisherText>
+<Details change_time="2004-10-10T20:36:24Z" price_time="2012-12-19T20:13:17Z" edition_info="" language="eng" physical_description_text="124 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

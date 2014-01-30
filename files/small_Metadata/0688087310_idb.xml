@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:00:59Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_three_little_pigs" isbn="0688087310" isbn13="9780688087319">
+<Title>The three little pigs</Title>
+<TitleLong></TitleLong>
+<AuthorsText>retold and illustrated by Steven Kellogg</AuthorsText>
+<PublisherText publisher_id="morrow_junior_books">New York : Morrow Junior Books, c1997.</PublisherText>
+<Details change_time="2003-10-28T23:52:11Z" price_time="2012-08-12T04:58:45Z" edition_info="" language="eng" physical_description_text="[30] p. : col. ill. ; 29 cm." lcc_number="PZ8.1" dewey_decimal_normalized="398.24529734" dewey_decimal="398.24/529734" />
+</BookData>
+</BookList>
+</ISBNdb>

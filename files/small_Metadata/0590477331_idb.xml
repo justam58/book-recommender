@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:27:38Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mr_poppers_penguins_a03" isbn="0590477331" isbn13="9780590477338">
+<Title>Mr. Popper's penguins</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Richard and Florence Atwater; illustrated by Robert Lawson</AuthorsText>
+<PublisherText publisher_id="scholastic_inc">New York : Scholastic Inc., c1938,</PublisherText>
+<Details change_time="2005-01-03T18:31:02Z" price_time="2011-12-30T15:43:10Z" edition_info="(pbk.)" language="eng" physical_description_text="138 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

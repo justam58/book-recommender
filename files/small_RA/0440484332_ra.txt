@@ -1,0 +1,4 @@
+storyline:|humorous*26|,
+pptopic:|illustration*1|,|baby*51|,
+characterization:|well-developed*1|,|believable*1|,|literary*2|,
+lang_style:|unusual*2|,

@@ -1,0 +1,6 @@
+Title ===The Blurred Man===
+Author ===Anthony Horowitz===
+PublicationDate ===2007-06-04===
+PageCount ===80===
+Type ===BOOK===
+AvgRate ===3.5===

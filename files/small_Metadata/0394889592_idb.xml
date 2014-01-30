@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:25:17Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="babars_little_circus_star" isbn="0394889592" isbn13="9780394889597">
+<Title>Babar's little circus star</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Laurent de Brunhoff</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1988.</PublisherText>
+<Details change_time="2004-07-01T11:51:17Z" price_time="2012-02-07T19:19:35Z" edition_info="$2.95" language="eng" physical_description_text="32 p. : col. ill. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

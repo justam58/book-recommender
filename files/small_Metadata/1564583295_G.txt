@@ -1,0 +1,7 @@
+Title ===Animal-Go-Round===
+Author ===Johnny Morris===
+Author ===Mary Ling===
+PublicationDate ===1993===
+Description ===Illustrations on a revolving wheel show how eight baby animals grow.===
+PageCount ===18===
+Type ===BOOK===

@@ -1,0 +1,4 @@
+storyline:|issue-oriented*1|,|linear*1|,|humorous*8|,|action-oriented*1|,|mythic*1|,|tragic*1|,|inspirational*1|,
+pptopic:|illustration*5|,|baby*7|,
+characterization:|well-developed*1|,
+lang_style:|passionate*1|,

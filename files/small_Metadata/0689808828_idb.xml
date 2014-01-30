@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:50:17Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="hatchet_a01" isbn="0689808828" isbn13="9780689808821">
+<Title>Hatchet</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gary Paulsen</AuthorsText>
+<PublisherText publisher_id="aladdin_paperbacks">New York : Aladdin Paperbacks, 2006, c1987.</PublisherText>
+<Details change_time="2008-12-28T00:03:37Z" price_time="2013-01-16T04:59:17Z" edition_info="" language="eng" physical_description_text="186 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

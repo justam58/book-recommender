@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:10:30Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_great_gilly_hopkins_a03" isbn="0064402010" isbn13="9780064402019">
+<Title>The great Gilly Hopkins</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Katherine Paterson</AuthorsText>
+<PublisherText publisher_id="harper_row">New York : Harper &amp; Row, 1987, c1978.</PublisherText>
+<Details change_time="2008-05-13T14:05:49Z" price_time="2013-02-07T05:55:45Z" edition_info="(pbk.) :$2.95" language="eng" physical_description_text="148 p. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

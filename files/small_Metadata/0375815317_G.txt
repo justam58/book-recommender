@@ -1,0 +1,8 @@
+Title ===The Scarecrow and His Servant===
+Author ===Philip Pullman===
+PublicationDate ===2005-08-23===
+Description ===A scarecrow and his boy servant, Jack, set off on a dangerous adventure as they try to outwit the crooked Buffaloni family and stake their claim to valuable Spring Valley.===
+PageCount ===229===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:02:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="never_cry_werewolf" isbn="0061349232" isbn13="9780061349232">
+<Title>Never Cry Werewolf</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Heather Davis, </AuthorsText>
+<PublisherText publisher_id="harperteen">HarperTeen</PublisherText>
+<Details change_time="2009-10-04T02:37:48Z" price_time="2012-10-07T05:41:20Z" edition_info="Hardcover; 2009-09-01" language="" physical_description_text="5.6&quot;x8.3&quot;x1.0&quot;; 0.7 lb; 224 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

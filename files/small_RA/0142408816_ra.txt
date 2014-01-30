@@ -1,0 +1,5 @@
+frame:|humorous*1|,|descriptive*1|,
+storyline:|humorous*16|,|episodic*1|,
+pptopic:|illustration*4|,|addiction*1|,|baby*2|,|violent*2|,
+characterization:|well-developed*1|,|believable*2|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*2|,|simple*2|,

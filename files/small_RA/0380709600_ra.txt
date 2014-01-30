@@ -1,0 +1,5 @@
+frame:|romantic*1|,
+storyline:|humorous*12|,
+pptopic:|baby*15|,
+characterization:|recognizable*12|,
+lang_style:|passionate*13|,|thoughtful*1|,

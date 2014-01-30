@@ -1,0 +1,3 @@
+frame:|hard-edged*1|,
+characterization:|well-developed*1|,|sympathetic*1|,
+lang_style:|natural*1|,

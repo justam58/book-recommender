@@ -1,0 +1,3 @@
+frame:|school*2|,
+storyline:|issue-oriented*1|,|humorous*2|,|action-oriented*1|,
+pptopic:|illustration*14|,

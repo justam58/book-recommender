@@ -1,0 +1,7 @@
+frame:|hard-edged*2|,|popular*2|,|romantic*1|,|evocative*1|,|historical*3|,|exotic*1|,
+pptone:|realistic*31|,|old-fashioned*2|,
+storyline:|complex*5|,|linear*3|,|issue-oriented*1|,|conclusive*1|,|humorous*1|,|action-oriented*1|,|mystical*1|,|gentle*5|,|family-centered*1|,|character-centered*1|,|plot-centered*1|,|racy*4|,|tragic*1|,
+pptopic:|technology*1|,|illustration*94|,
+characterization:|linear*1|,|well-developed*2|,|distant*1|,|believable*6|,|sympathetic*2|,
+lang_style:|complex*1|,|passionate*4|,|simple*2|,|unusual*3|,|seemly*1|,|conversational*2|,
+pacing:|stately*2|,

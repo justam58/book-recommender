@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:53:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="alvin_ho_allergic_to_girls_school_and_other_scary_things" isbn="0375839143" isbn13="9780375839146">
+<Title>Alvin Ho</Title>
+<TitleLong>Alvin Ho: allergic to girls, school, and other scary things</TitleLong>
+<AuthorsText>by Lenore Look; pictures by LeUyen Pham</AuthorsText>
+<PublisherText publisher_id="schwartz_wade_books">New York : Schwartz &amp; Wade Books, c2008.</PublisherText>
+<Details change_time="2008-12-26T15:55:07Z" price_time="2011-10-03T10:43:30Z" edition_info="" language="eng" physical_description_text="172 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

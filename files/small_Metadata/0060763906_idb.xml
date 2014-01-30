@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:10:02Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="its_raining_pigs_noodles_a02" isbn="0060763906" isbn13="9780060763909">
+<Title>It's Raining Pigs &amp; Noodles</Title>
+<TitleLong>It's Raining Pigs &amp; Noodles (rpkg)</TitleLong>
+<AuthorsText>Jack Prelutsky, James Stevenson (Illustrator)</AuthorsText>
+<PublisherText publisher_id="harpertrophy">HarperTrophy</PublisherText>
+<Details change_time="2007-05-17T14:49:03Z" price_time="2012-02-04T02:52:58Z" edition_info="Paperback; 2005-03-01" language="" physical_description_text="160 pages" lcc_number="" dewey_decimal_normalized="808" dewey_decimal="808" />
+</BookData>
+</BookList>
+</ISBNdb>

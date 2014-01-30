@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:48:21Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mom_and_dad_are_palindromes" isbn="0811843289" isbn13="9780811843287">
+<Title>Mom and Dad are palindromes</Title>
+<TitleLong>Mom and Dad are palindromes: a dilemma for words-- backwards</TitleLong>
+<AuthorsText>by Mark Shulman; illustrated by Adam McCauley</AuthorsText>
+<PublisherText publisher_id="chronicle_books">San Francisco : Chronicle Books, 2006.</PublisherText>
+<Details change_time="2008-08-06T23:47:57Z" price_time="2010-02-04T23:04:10Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

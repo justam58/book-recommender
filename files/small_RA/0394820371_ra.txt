@@ -1,0 +1,6 @@
+frame:|small-town*1|,|romantic*2|,|humorous*1|,
+storyline:|thought-provoking*1|,|issue-oriented*1|,|linear*3|,|complex*2|,|gentle*3|,|mystical*1|,|racy*1|,|humorous*6|,|action-oriented*1|,
+pptopic:|illustration*6|,|baby*1|,|war*1|,
+characterization:|well-developed*5|,|believable*1|,|sympathetic*2|,|literary*1|,
+lang_style:|passionate*10|,|poetic*3|,|dramatic*1|,|unusual*6|,|candid*1|,|thoughtful*1|,|natural*1|,
+pacing:|slow*1|,

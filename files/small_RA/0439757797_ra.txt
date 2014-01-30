@@ -1,0 +1,3 @@
+frame:|small-town*3|,
+pptopic:|drinking*2|,|death*1|,
+characterization:|sympathetic*2|,

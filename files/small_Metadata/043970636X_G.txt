@@ -1,0 +1,8 @@
+Title ===Bone 5===
+Author ===Jeff Smith===
+Author ===Steve Hamaker===
+PublicationDate ===2007-02-01===
+Description ===Fone and Smiley Bone try to return a rat creature cub to the mountains, where they meet yet another adversary: the sly and mighty mountain lion, Rock Jaw.===
+PageCount ===116===
+Type ===BOOK===
+AvgRate ===4.0===

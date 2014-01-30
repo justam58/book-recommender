@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:57:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="when_we_were_very_young_a03" isbn="0140361235" isbn13="9780140361230">
+<Title>When we were very young</Title>
+<TitleLong></TitleLong>
+<AuthorsText>A. A. Milne; with decorations by Ernest H. Shepard</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York, N.Y., U.S.A. : Puffin Books, 1992.</PublisherText>
+<Details change_time="2010-03-20T21:47:03Z" price_time="2011-12-22T02:21:06Z" edition_info="(pbk.)" language="eng" physical_description_text="100 p. : ill. ; 20 cm." lcc_number="PR6025" dewey_decimal_normalized="821.912" dewey_decimal="821/.912" />
+</BookData>
+</BookList>
+</ISBNdb>

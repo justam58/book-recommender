@@ -1,0 +1,9 @@
+Title ===The Hobbit===
+Author ===John Robert Reuel Tolkien===
+Author ===John Ronald Reuel Tolkien===
+PublicationDate ===1982===
+Description ===Chronicles the adventures of the inhabitants of Middle-earth and Bilbo Baggins, the hobbit who brought home to The Shire the One Ring of Power===
+PageCount ===304===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.0===

@@ -1,0 +1,9 @@
+Title ===The Ugly Guide to Things that Go and Things that Should Go But Don't===
+Author ===David Horvath===
+Author ===Sun-Min Kim===
+PublicationDate ===2008===
+Description ===Describes the vehicles belonging to a group of monsters called the Uglydolls, including automobiles, hot air balloons, tow trucks, and railroad trains.===
+PageCount ===64===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.5===

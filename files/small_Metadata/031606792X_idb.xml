@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:51:04Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="breaking_dawn" isbn="031606792X" isbn13="9780316067928">
+<Title>Breaking dawn</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Stephenie Meyer</AuthorsText>
+<PublisherText publisher_id="atom">London : Atom, 2008.</PublisherText>
+<Details change_time="2008-10-23T21:36:32Z" price_time="2013-02-10T07:05:03Z" edition_info="" language="eng" physical_description_text="754 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="813.6" dewey_decimal="813.6" />
+</BookData>
+</BookList>
+</ISBNdb>

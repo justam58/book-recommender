@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:41:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_water_horse_a06" isbn="0375842314" isbn13="9780375842313">
+<Title>The water horse</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Dick King-Smith; illustrated by David Parkins</AuthorsText>
+<PublisherText publisher_id="crown_publishers">New York : Crown Publishers, 1998.</PublisherText>
+<Details change_time="2012-02-22T19:32:53Z" price_time="2012-10-15T12:01:35Z" edition_info="(pbk.) :$5.50" language="eng" physical_description_text="118 p. : ill. ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,5 @@
+Title ===Scott Foresman Reading===
+PublicationDate ===2000*===
+PageCount ===176===
+Type ===BOOK===
+AvgRate ===4.5===

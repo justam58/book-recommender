@@ -1,0 +1,8 @@
+Title ===Harry Potter and the goblet of fire===
+Author ===Joanne K. Rowling===
+PublicationDate ===2000===
+Description ===A teenager pitching headfirst into the world of near-adulthood, Harry returns to Hogwarts for his fourth year.===
+PageCount ===734===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.5===

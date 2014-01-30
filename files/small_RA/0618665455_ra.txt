@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|heart-warming*1|,
+storyline:|open-ended*1|,|mystical*1|,|racy*2|,|tragic*1|,
+pptopic:|illustration*2|,
+characterization:|well-developed*2|,
+lang_style:|complex*1|,

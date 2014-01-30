@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|small-town*2|,|popular*2|,|evocative*1|,|romantic*1|,|exotic*3|,
+storyline:|open-ended*1|,|issue-oriented*1|,|linear*1|,|gentle*3|,|humorous*10|,|racy*1|,|action-oriented*1|,|episodic*2|,
+pptopic:|illustration*3|,|curse*64|,|baby*6|,
+characterization:|well-developed*4|,|believable*6|,|sympathetic*5|,
+lang_style:|complex*3|,|unusual*3|,|natural*1|,

@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|suspenseful*1|,|evocative*1|,
+pptone:|realistic*1|,
+storyline:|complex*1|,
+pptopic:|war*1|,
+characterization:|sympathetic*1|,

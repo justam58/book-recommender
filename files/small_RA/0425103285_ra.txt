@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|popular*3|,
+storyline:|issue-oriented*2|,|gentle*3|,|racy*3|,|violent*2|,|action-oriented*2|,|inspirational*1|,
+pptopic:|technology*1|,|illustration*1|,|disease*2|,
+characterization:|dramatic*1|,|believable*2|,|sympathetic*2|,

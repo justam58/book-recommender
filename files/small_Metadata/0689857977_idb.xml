@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:01:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="among_the_enemy_a02" isbn="0689857977" isbn13="9780689857973">
+<Title>Among the Enemy</Title>
+<TitleLong>Among the Enemy (Shadow Children)</TitleLong>
+<AuthorsText>Margaret Peterson Haddix, </AuthorsText>
+<PublisherText publisher_id="aladdin">Aladdin</PublisherText>
+<Details change_time="2006-11-15T20:46:45Z" price_time="2011-11-29T16:18:53Z" edition_info="Paperback; 2006-08-22" language="" physical_description_text="240 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

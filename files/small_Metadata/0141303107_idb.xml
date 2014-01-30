@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:43:53Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="going_solo_a01" isbn="0141303107" isbn13="9780141303109">
+<Title>Going solo</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Roald Dahl</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York, N.Y. : Puffin Books, 1999.</PublisherText>
+<Details change_time="2006-10-27T21:43:20Z" price_time="2012-10-10T03:43:55Z" edition_info="" language="eng" physical_description_text="209 p. ; ill., map ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

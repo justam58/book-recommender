@@ -1,0 +1,5 @@
+frame:|popular*1|,
+pptone:|realistic*1|,|serious*1|,
+storyline:|linear*1|,
+pptopic:|addiction*1|,
+lang_style:|conversational*5|,

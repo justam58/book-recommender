@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:00:34Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="james_and_the_giant_peach_a06" isbn="0140374248" isbn13="9780140374247">
+<Title>James and the giant peach</Title>
+<TitleLong>James and the giant peach: a children's story</TitleLong>
+<AuthorsText>Roald Dahl; illustrated by Lane Smith</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York, N.Y. : Puffin Books, 1996.</PublisherText>
+<Details change_time="2009-09-16T07:58:47Z" price_time="2012-08-03T05:21:05Z" edition_info="(pbk.) :4.99" language="eng" physical_description_text="126 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

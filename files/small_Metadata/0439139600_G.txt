@@ -1,0 +1,5 @@
+Title ===Dufy===
+Author ===Pierre Camo===
+PublicationDate ===1947-06-01===
+PageCount ===153===
+Type ===BOOK===

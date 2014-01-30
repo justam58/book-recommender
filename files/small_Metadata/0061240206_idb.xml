@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:50:42Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="warriors_the_lost_warrior" isbn="0061240206" isbn13="9780061240201">
+<Title>The lost warrior</Title>
+<TitleLong></TitleLong>
+<AuthorsText>created by Erin Hunter; written by Dan Jolley; art by James L. Barry</AuthorsText>
+<PublisherText publisher_id="harpercollins">Hamburg ; HarperCollins ; c2007.</PublisherText>
+<Details change_time="2009-08-10T22:54:12Z" price_time="2012-12-24T08:47:25Z" edition_info="(pbk. : alk. paper)" language="eng" physical_description_text="95 p. : ill. 19 cm." lcc_number="" dewey_decimal_normalized="741.5973" dewey_decimal="741.5/973" />
+</BookData>
+</BookList>
+</ISBNdb>

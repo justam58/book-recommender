@@ -1,0 +1,7 @@
+Title ===Afternoon on the Amazon===
+Author ===Mary Pope Osborne===
+PublicationDate ===1995-01-01===
+Description ===Copy 2.===
+PageCount ===67===
+Type ===BOOK===
+AvgRate ===3.5===

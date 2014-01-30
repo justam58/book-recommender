@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:46:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_reptile_room" isbn="0064407675" isbn13="9780064407670">
+<Title>The reptile room</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Lemony Snicket; illustrations by Brett Helquist</AuthorsText>
+<PublisherText publisher_id="harpercollins_publishers">New York : HarperCollins Publishers, 1999.</PublisherText>
+<Details change_time="2003-11-06T10:39:55Z" price_time="2013-01-16T12:06:43Z" edition_info="(pbk.)" language="eng" physical_description_text="190 p. ill. 19 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

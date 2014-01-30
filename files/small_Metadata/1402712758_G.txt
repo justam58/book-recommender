@@ -1,0 +1,8 @@
+Title ===A Little Princess===
+Author ===Frances Hodgson Burnett===
+PublicationDate ===2005-01-01===
+Description ===Presents an abridged version of the tale of Sara Crewe, a pupil at Miss Minchin's London school, who is left in poverty when her father dies but is later rescued by a mysterious benefactor.===
+PageCount ===154===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:36:12Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harriet_the_spy_a04" isbn="0440416795" isbn13="9780440416791">
+<Title>Harriet, the spy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>written and illustrated by Louise Fitzhugh</AuthorsText>
+<PublisherText publisher_id="dell_yearling">New York, N.Y. : Dell Yearling, [2001]</PublisherText>
+<Details change_time="2010-03-20T18:28:16Z" price_time="2012-10-15T18:41:14Z" edition_info="$5.99" language="eng" physical_description_text="300 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="813" dewey_decimal="813" />
+</BookData>
+</BookList>
+</ISBNdb>

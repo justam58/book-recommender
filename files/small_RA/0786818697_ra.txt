@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,
+pptone:|quirky*1|,
+storyline:|linear*2|,|humorous*2|,
+pptopic:|illustration*8|,
+characterization:|dramatic*1|,
+lang_style:|simple*3|,|dramatic*2|,|unusual*2|,

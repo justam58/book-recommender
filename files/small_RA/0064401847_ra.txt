@@ -1,0 +1,6 @@
+frame:|hard-edged*3|,|small-town*2|,|melodramatic*1|,|romantic*3|,
+pptone:|realistic*1|,|sentimental*2|,|happy*2|,|dark*1|,|serious*1|,
+storyline:|issue-oriented*1|,|linear*2|,|humorous*1|,|action-oriented*1|,|tragic*22|,|inspirational*2|,
+pptopic:|religion*3|,|bullying*4|,|death*19|,|illustration*7|,|violent*1|,
+characterization:|linear*1|,|well-developed*7|,|evocative*1|,|believable*4|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*2|,|simple*2|,|poetic*3|,|unusual*1|,

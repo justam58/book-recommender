@@ -1,0 +1,5 @@
+pptone:|realistic*5|,
+storyline:|character-centered*1|,|family-centered*1|,|plot-centered*1|,|humorous*9|,|inspirational*1|,
+pptopic:|illustration*2|,
+characterization:|believable*1|,|sympathetic*1|,
+lang_style:|passionate*1|,

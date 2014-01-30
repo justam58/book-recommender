@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|small-town*2|,|romantic*1|,|historical*2|,|exotic*1|,
+pptone:|serious*2|,
+storyline:|gentle*1|,|episodic*1|,
+pptopic:|war*1|,
+characterization:|well-developed*2|,|believable*2|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*1|,|unusual*1|,|thoughtful*1|,
+pacing:|slow*1|,

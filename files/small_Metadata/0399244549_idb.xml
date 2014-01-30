@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:19:26Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="rangers_apprentice_the_ruins_of_gorlan" isbn="0399244549" isbn13="9780399244544">
+<Title>The ruins of Gorlan</Title>
+<TitleLong></TitleLong>
+<AuthorsText>[by] John Flanagan</AuthorsText>
+<PublisherText publisher_id="philomel_books">New York : Philomel Books, 2005.</PublisherText>
+<Details change_time="2010-06-13T17:13:58Z" price_time="2013-02-06T14:57:05Z" edition_info="" language="eng" physical_description_text="249 p. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

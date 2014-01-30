@@ -1,0 +1,8 @@
+Title ===The New Adventures of Pippi Longstocking===
+Author ===Astrid Lindgren===
+Author ===Michael D Chesworth===
+PublicationDate ===1997===
+Description ===A collection of three books previously published individually from 1950-1959.===
+PageCount ===290===
+Type ===BOOK===
+AvgRate ===4.0===

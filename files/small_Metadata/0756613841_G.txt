@@ -1,0 +1,6 @@
+Title ===Car===
+Author ===Richard Charles Blyth Sutton===
+PublicationDate ===2005-09-18===
+Description ===A photo essay about the history, development, and impact of automobiles from horseless carriages and Model T Fords to today's high-performance racing cars.===
+PageCount ===72===
+Type ===BOOK===

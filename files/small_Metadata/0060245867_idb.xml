@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:05:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="if_you_give_a_mouse_a_cookie_a01" isbn="0060245867" isbn13="9780060245863">
+<Title>If you give a mouse a cookie</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Laura Joffe Numeroff; illustrated by Felicia Bond</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, c1985.</PublisherText>
+<Details change_time="2005-11-06T21:22:20Z" price_time="2013-01-17T00:02:29Z" edition_info="" language="eng" physical_description_text="[32] p. : col. ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

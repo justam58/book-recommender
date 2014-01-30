@@ -1,0 +1,2 @@
+storyline:|tragic*3|,
+lang_style:|simple*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:23:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="claudia_and_mean_janine_a05" isbn="0439885175" isbn13="9780439885171">
+<Title>Claudia and mean Janine</Title>
+<TitleLong>Claudia and mean Janine: a graphic novel</TitleLong>
+<AuthorsText>by Raina Telgemeier</AuthorsText>
+<PublisherText publisher_id="graphix">New York : Graphix, 2008.</PublisherText>
+<Details change_time="2009-09-25T19:33:29Z" price_time="2012-12-22T14:35:39Z" edition_info="(alk. paper)" language="eng" physical_description_text="161 p. : ill. ; 23 cm." lcc_number="PN6727" dewey_decimal_normalized="741.5973" dewey_decimal="741.5/973" />
+</BookData>
+</BookList>
+</ISBNdb>

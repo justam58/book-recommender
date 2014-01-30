@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|small-town*5|,|humorous*1|,
+storyline:|complex*1|,|humorous*7|,|episodic*2|,
+characterization:|stereotypes*1|,|well-developed*1|,
+lang_style:|complex*1|,|unusual*1|,|thoughtful*1|,
+pacing:|fast*1|,

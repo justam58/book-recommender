@@ -1,0 +1,7 @@
+Title ===Artemis Fowl===
+Author ===Eoin Colfer===
+PublicationDate ===2001-04-16===
+Description ===Artemis Fowl===
+PageCount ===288===
+Type ===BOOK===
+AvgRate ===4.0===

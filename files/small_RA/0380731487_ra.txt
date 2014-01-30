@@ -1,0 +1,6 @@
+frame:|school*2|,
+pptone:|quirky*15|,|serious*15|,
+storyline:|linear*1|,|gentle*1|,|humorous*16|,|episodic*1|,
+pptopic:|illustration*2|,
+characterization:|quirky*1|,|well-developed*1|,|believable*1|,
+lang_style:|passionate*2|,|unusual*4|,

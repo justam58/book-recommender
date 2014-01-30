@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|small-town*1|,
+storyline:|open-ended*1|,|linear*1|,|gentle*1|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|tragic*1|,
+pptopic:|death*1|,
+lang_style:|complex*1|,

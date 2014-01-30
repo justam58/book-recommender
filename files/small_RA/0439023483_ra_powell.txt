@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|suspenseful*1|,
+pptopic:|addiction*1|,|war*1|,
+characterization:|well-developed*1|,|believable*1|,|sympathetic*1|,
+lang_style:|natural*1|,

@@ -1,0 +1,7 @@
+Title ==="no, David!"===
+PublicationDate ===1998===
+Description ===In an autobiographical picture book by the creator of A Bad Case of Stripes, a mischievous boy is depicted doing a variety of naughty things for which he is repeatedly admonished, but finally he gets a hug.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

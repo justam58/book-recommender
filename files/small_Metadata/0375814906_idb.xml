@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:50:54Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="trouble_dont_last" isbn="0375814906" isbn13="9780375814907">
+<Title>Trouble don't last</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Shelley Pearsall</AuthorsText>
+<PublisherText publisher_id="alfred_a_knopf">New York : Alfred A. Knopf, c2002.</PublisherText>
+<Details change_time="2003-11-22T13:46:28Z" price_time="2013-02-06T22:26:38Z" edition_info="(trade) :$14.95" language="eng" physical_description_text="237 p. : map ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

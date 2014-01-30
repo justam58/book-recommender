@@ -1,0 +1,8 @@
+Title ===Lawn Boy===
+Author ===Gary Paulsen===
+PublicationDate ===2007===
+Description ===Things get out of hand for a twelve-year-old boy when a neighbor convinces him to expand his summer lawn mowing business.===
+PageCount ===88===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:27:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_is_not_a_crook_a05" isbn="0439227615" isbn13="9780439227612">
+<Title>Junie B. Jones is Not a Crook</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Barbara Park, Denise Brunkus (Illustrator)</AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2009-06-04T00:23:52Z" price_time="2012-07-20T04:27:00Z" edition_info="Paperback; 2000" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:43:41Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="little_camp_of_horrors" isbn="0385746660" isbn13="9780385746663">
+<Title>Little camp of horrors</Title>
+<TitleLong></TitleLong>
+<AuthorsText>R. L. Stine</AuthorsText>
+<PublisherText publisher_id="delacorte_press">New York : Delacorte Press, c2005.</PublisherText>
+<Details change_time="2007-04-02T14:36:22Z" price_time="2012-05-05T21:03:29Z" edition_info="(trade)" language="eng" physical_description_text="129 p. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

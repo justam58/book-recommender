@@ -1,0 +1,7 @@
+Title ===The Lucky Baseball Bat===
+Author ===Matt Christopher===
+PublicationDate ===2004-08-24===
+Description ===Martin is new to the neighborhood, and wants to make a good impression on his new teammates. But when he loses his lucky baseball bat, Martin fears that he has also lost his ability to play baseball. Will Martin be able to continue his winning streak without the bat?===
+PageCount ===128===
+Type ===BOOK===
+AvgRate ===4.0===

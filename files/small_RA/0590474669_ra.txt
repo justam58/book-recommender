@@ -1,0 +1,3 @@
+storyline:|humorous*7|,
+pptopic:|illustration*5|,
+lang_style:|unusual*1|,

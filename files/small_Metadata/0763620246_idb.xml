@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:19:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="judy_moody_m_d_the_doctor_is_in" isbn="0763620246" isbn13="9780763620240">
+<Title>Judy Moody, M. D</Title>
+<TitleLong>Judy Moody, M. D.: the doctor is in!</TitleLong>
+<AuthorsText>Megan McDonald; illustrated by Peter H. Reynolds</AuthorsText>
+<PublisherText publisher_id="candlewick_press">Cambridge, Mass. : Candlewick Press, 2004.</PublisherText>
+<Details change_time="2010-02-22T08:00:02Z" price_time="2012-03-10T10:57:11Z" edition_info="" language="eng" physical_description_text="151 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

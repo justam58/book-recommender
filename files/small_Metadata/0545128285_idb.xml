@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:59:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_tales_of_beedle_the_bard_standard_edition" isbn="0545128285" isbn13="9780545128285">
+<Title>The tales of Beedle the Bard</Title>
+<TitleLong></TitleLong>
+<AuthorsText>translated from the ancient runes by Hermione Granger; commentary by Albus Dumbledore; introduction, notes, and illustrations by J. K. Rowling</AuthorsText>
+<PublisherText publisher_id="childrens_high_level_group_in_">New York : Children's High Level Group in association with Arthur A. Levine Books, c2008.</PublisherText>
+<Details change_time="2009-10-21T02:34:37Z" price_time="2013-01-18T06:24:48Z" edition_info="" language="eng" physical_description_text="xiv, 111 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,7 @@
+Title ===Junie B. Jones's Second Boxed Set Ever!===
+Author ===Barbara Park===
+PublicationDate ===1997===
+PageCount ===85===
+Type ===BOOK===
+LCSH ===Jones, Junie B. (Fictitious character)===
+AvgRate ===3.5===

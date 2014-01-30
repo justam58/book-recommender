@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:56:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="more_sideways_arithmetic_from_wayside_school" isbn="0590477625" isbn13="9780590477628">
+<Title>More sideways arithmetic from Wayside School</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Louis Sachar</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, c1994.</PublisherText>
+<Details change_time="2005-02-23T20:13:12Z" price_time="2013-01-21T21:19:57Z" edition_info="(pbk.) :$3.25" language="eng" physical_description_text="94 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

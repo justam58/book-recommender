@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:21:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="cam_jansen_and_the_summer_camp_mysteries_a_super_special" isbn="0142407429" isbn13="9780142407424">
+<Title>Cam Jansen and the summer camp mysteries</Title>
+<TitleLong>Cam Jansen and the summer camp mysteries: a super special</TitleLong>
+<AuthorsText>David A. Adler; illustrated by Joy Allen</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York : Puffin Books, c2007.</PublisherText>
+<Details change_time="2009-07-09T05:46:37Z" price_time="2011-12-21T12:15:56Z" edition_info="(pbk.)" language="eng" physical_description_text="117 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

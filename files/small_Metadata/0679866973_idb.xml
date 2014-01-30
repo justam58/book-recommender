@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:08:02Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_has_a_monster_under_her_bed_a01" isbn="0679866973" isbn13="9780679866978">
+<Title>Junie B. Jones has a monster under her bed</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1997.</PublisherText>
+<Details change_time="2007-07-09T16:25:45Z" price_time="2012-05-08T00:11:47Z" edition_info="(pbk.) :$3.99" language="eng" physical_description_text="69 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

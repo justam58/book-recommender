@@ -1,0 +1,8 @@
+Title ===Harry Potter and the Prisoner of Azkaban===
+Author ===J. K. Rowling===
+PublicationDate ===1999===
+Description ===During his third year at Hogwarts School for Witchcraft and Wizardry, Harry Potter must confront the devious and dangerous wizard responsible for his parents' deaths.===
+PageCount ===435===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.5===

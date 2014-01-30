@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|urban*1|,|heart-warming*16|,|small-town*1|,|popular*1|,|historical*1|,
+storyline:|linear*2|,|gentle*1|,|tragic*3|,|inspirational*1|,
+pptopic:|illustration*2|,
+characterization:|well-developed*5|,|believable*2|,
+lang_style:|complex*1|,|passionate*1|,|simple*1|,|natural*1|,|conversational*1|,

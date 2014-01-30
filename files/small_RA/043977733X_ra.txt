@@ -1,0 +1,3 @@
+storyline:|violent*1|,|tragic*1|,|inspirational*4|,
+pptopic:|illustration*6|,
+lang_style:|simple*1|,

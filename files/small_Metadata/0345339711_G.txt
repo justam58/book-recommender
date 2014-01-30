@@ -1,0 +1,8 @@
+Title ===The Two Towers===
+Author ===J.R.R. Tolkien===
+PublicationDate ===1986-08-12===
+Description ===Frodo must carry the One Ring through the ghostly borders of Mordor, Land of the Enemy, and back to the Fire that can destroy its evil powers, in the second volume in The Lord of the Rings trilogy. Reissue.===
+PageCount ===416===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===5.0===

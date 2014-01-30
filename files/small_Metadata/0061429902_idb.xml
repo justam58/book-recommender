@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:01:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="flat_stanleys_worldwide_adventures_1" isbn="0061429902" isbn13="9780061429903">
+<Title>Flat Stanley's Worldwide Adventures #1</Title>
+<TitleLong>Flat Stanley's Worldwide Adventures #1: The Mount Rushmore Calamity</TitleLong>
+<AuthorsText>Jeff Brown, Macky Pamintuan (Illustrator)</AuthorsText>
+<PublisherText publisher_id="harpercollins">HarperCollins</PublisherText>
+<Details change_time="2009-02-05T15:43:28Z" price_time="2013-01-14T15:05:03Z" edition_info="Paperback; 2009-05-01" language="" physical_description_text="5.1&quot;x7.6&quot;x0.2&quot;; 96 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

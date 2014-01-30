@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|small-town*1|,|humorous*1|,
+pptone:|happy*1|,|old-fashioned*1|,|dark*5|,
+storyline:|complex*2|,|linear*1|,|issue-oriented*2|,|humorous*7|,|action-oriented*2|,|episodic*1|,|open-ended*1|,|mystical*1|,|family-centered*1|,|character-centered*1|,|plot-centered*1|,|racy*2|,|violent*1|,|tragic*8|,
+pptopic:|death*3|,|illustration*2|,|addiction*4|,|baby*1|,|violent*3|,
+characterization:|stereotypes*1|,|well-developed*8|,|sympathetic*5|,|literary*1|,
+lang_style:|complex*5|,|poetic*1|,|dramatic*1|,|unusual*9|,|natural*1|,|classic*1|,|conversational*1|,

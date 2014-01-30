@@ -1,0 +1,4 @@
+storyline:|humorous*2|,
+pptopic:|illustration*5|,
+characterization:|well-developed*1|,
+lang_style:|complex*4|,|unusual*8|,

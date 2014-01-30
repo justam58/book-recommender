@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:41:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="bridge_to_terabithia_a03" isbn="0064401847" isbn13="9780064401845">
+<Title>Bridge to Terabithia</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Katherine Paterson; illustrated by Donna Diamond</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, 1987, c1977.</PublisherText>
+<Details change_time="2005-11-12T08:45:34Z" price_time="2012-12-21T00:42:02Z" edition_info="(pbk.) :$8.00" language="eng" physical_description_text="128 p. : ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="823" dewey_decimal="823" />
+</BookData>
+</BookList>
+</ISBNdb>

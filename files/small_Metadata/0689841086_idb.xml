@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:08:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="felix_the_fluffy_kitten" isbn="0689841086" isbn13="9780689841088">
+<Title>Felix The Fluffy Kitten</Title>
+<TitleLong>Felix The Fluffy Kitten (Kitten Friends)</TitleLong>
+<AuthorsText>Jenny Dale, Susan Hellard (Illustrator)</AuthorsText>
+<PublisherText publisher_id="aladdin">Aladdin</PublisherText>
+<Details change_time="2005-01-27T01:26:18Z" price_time="2010-11-24T11:42:39Z" edition_info="Paperback; 2000-11-01" language="" physical_description_text="5.1&quot;x7.6&quot;x0.2&quot;; 64 pages; 0.1 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

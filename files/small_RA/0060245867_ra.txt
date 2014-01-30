@@ -1,0 +1,4 @@
+frame:|hard-edged*2|,|small-town*1|,
+storyline:|linear*4|,|gentle*3|,|humorous*10|,|racy*1|,
+pptopic:|illustration*27|,|baby*2|,
+lang_style:|passionate*1|,|simple*3|,|unusual*1|,|thoughtful*1|,

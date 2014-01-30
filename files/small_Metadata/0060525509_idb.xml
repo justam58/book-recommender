@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:30:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="warriors_1_into_the_wild_a01" isbn="0060525509" isbn13="9780060525507">
+<Title>Into the wild</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Erin Hunter</AuthorsText>
+<PublisherText publisher_id="avon_books">New York, NY : Avon Books, 2004, c2003.</PublisherText>
+<Details change_time="2008-10-22T22:41:20Z" price_time="2012-12-24T08:37:25Z" edition_info="(pbk.) :$5.99" language="eng" physical_description_text="272, 3 p. : ill., map ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

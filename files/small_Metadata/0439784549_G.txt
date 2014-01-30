@@ -1,0 +1,8 @@
+Title ===Harry Potter and the Half-blood Prince===
+Author ===J. K. Rowling===
+PublicationDate ===2005===
+Description ===Harry Potter begins his sixth year at Hogwarts School of Witchcraft and Wizardry in an atmosphere of uncertainty, as the magical world begins to face the fact that the evil wizard Voldemort is alive and active once again.===
+PageCount ===652===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.5===

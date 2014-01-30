@@ -1,0 +1,8 @@
+Title ===Junie B. Jones Smells Something Fishy===
+Author ===Barbara Park===
+Author ===Denise Brunkus===
+PublicationDate ===1998-11-17===
+Description ===Frustrated because the rules for her class's Pet Day will not let her take her dog to school, Junie B. Jones considers taking a raccoon, a worm, a dead fish, and other unusual replacements.===
+PageCount ===80===
+Type ===BOOK===
+AvgRate ===3.5===

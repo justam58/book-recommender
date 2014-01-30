@@ -1,0 +1,5 @@
+frame:|romantic*1|,
+storyline:|issue-oriented*1|,|linear*1|,|gentle*2|,|racy*1|,|humorous*9|,|action-oriented*1|,|inspirational*2|,
+pptopic:|illustration*15|,|war*1|,
+characterization:|well-developed*3|,|distant*1|,|sympathetic*1|,
+lang_style:|passionate*4|,|poetic*1|,|unusual*5|,|thoughtful*1|,|classic*1|,

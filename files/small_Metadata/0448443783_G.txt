@@ -1,0 +1,9 @@
+Title ===A Tale of Two Tails===
+Author ===Henry Winkler===
+Author ===Lin Oliver===
+PublicationDate ===2008===
+Description ===Fifth-grader Hank enters his dachshund Cheerio in a contest to choose a new mascot for his school.===
+PageCount ===155===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

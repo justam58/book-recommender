@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:08:57Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="warriors_the_new_prophecy_6_sunset" isbn="0060827696" isbn13="9780060827694">
+<Title>Sunset</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Erin Hunter</AuthorsText>
+<PublisherText publisher_id="harpercollinspublishers">New York : HarperCollinsPublishers, 2007.</PublisherText>
+<Details change_time="2008-08-26T05:32:01Z" price_time="2012-02-09T18:45:01Z" edition_info="(alk. paper)" language="eng" physical_description_text="303 p. : ill., maps ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

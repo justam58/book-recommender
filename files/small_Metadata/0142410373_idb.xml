@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:23:51Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="matilda_a17" isbn="0142410373" isbn13="9780142410370">
+<Title>Matilda</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Roald Dahl; illustrations by Quentin Blake</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York, N.Y., U.S.A. : Puffin Books, 1990, c1988.</PublisherText>
+<Details change_time="2011-01-13T04:53:51Z" price_time="2011-07-26T15:22:03Z" edition_info="" language="eng" physical_description_text="240 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

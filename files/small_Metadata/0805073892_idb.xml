@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:07:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="its_probably_penny" isbn="0805073892" isbn13="9780805073898">
+<Title>It's probably Penny</Title>
+<TitleLong></TitleLong>
+<AuthorsText>written and illustrated by Loreen Leedy</AuthorsText>
+<PublisherText publisher_id="h_holt">New York : H. Holt, 2007.</PublisherText>
+<Details change_time="2009-01-17T00:57:31Z" price_time="2010-05-24T07:22:40Z" edition_info="(reinforced)" language="eng" physical_description_text="[32] p. : col. ill. ; 29 cm." lcc_number="QA273.16" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

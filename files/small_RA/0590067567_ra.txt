@@ -1,0 +1,5 @@
+pptone:|realistic*1|,
+storyline:|humorous*1|,|inspirational*1|,
+pptopic:|religion*1|,|politics*1|,|illustration*1|,
+characterization:|well-developed*1|,|evocative*1|,|sympathetic*1|,
+lang_style:|complex*1|,|unusual*5|,|natural*1|,

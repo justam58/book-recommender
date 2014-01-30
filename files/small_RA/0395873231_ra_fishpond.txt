@@ -1,0 +1,2 @@
+frame:|heart-warming*1|,|humorous*1|,|historical*1|,
+pptone:|serious*1|,

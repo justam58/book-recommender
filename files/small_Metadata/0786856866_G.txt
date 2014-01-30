@@ -1,0 +1,7 @@
+Title ===The Percy Jackson and the Olympian===
+Author ===Rick Riordan===
+PublicationDate ===2006-07===
+Description ===Percy Jackson - the son of Poseidon - has had an unnervingly quiet school year. But then he discovers that the magical borders protecting Half Blood Hill, a summer camp dedicated to training young demi-gods, are failing. Unless something is done, the camp will be attacked by demons and monsters. The only way to restore power to the camp's borders is to find the mythical Golden Fleece. And the only person who can undertake this dangerous quest is Percy...;===
+PageCount ===264===
+Type ===BOOK===
+AvgRate ===4.0===

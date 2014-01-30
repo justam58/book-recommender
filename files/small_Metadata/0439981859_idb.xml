@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:09:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="crafty_crime_busting" isbn="0439981859" isbn13="9780439981859">
+<Title>Crafty Crime-busting</Title>
+<TitleLong>Crafty Crime-busting (Knowledge)</TitleLong>
+<AuthorsText>Rachel Wright, Clive Goddard (Illustrator), Royston Robertson (Illustrator)</AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2009-06-17T19:24:54Z" price_time="2009-07-23T04:02:11Z" edition_info="Paperback; 2003-05-23" language="" physical_description_text="5.0&quot;x7.6&quot;x0.5&quot;; 0.2 lb; 128 pages" lcc_number="" dewey_decimal_normalized="340" dewey_decimal="340" />
+</BookData>
+</BookList>
+</ISBNdb>

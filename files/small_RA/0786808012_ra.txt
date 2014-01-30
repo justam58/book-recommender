@@ -1,0 +1,7 @@
+frame:|hard-edged*4|,|heart-warming*1|,|suspenseful*4|,|evocative*1|,|humorous*1|,|exotic*3|,
+pptone:|realistic*2|,
+storyline:|open-ended*1|,|issue-oriented*2|,|linear*1|,|complex*3|,|gentle*2|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|racy*1|,|humorous*8|,|violent*2|,|action-oriented*2|,
+pptopic:|politics*1|,|technology*12|,|death*3|,|illustration*1|,|addiction*1|,|violent*7|,
+characterization:|recognizable*1|,|layered*1|,|quirky*2|,|well-developed*14|,|distant*2|,|evocative*4|,|believable*7|,|sympathetic*8|,
+lang_style:|complex*5|,|passionate*2|,|simple*3|,|unusual*3|,
+pacing:|fast*5|,

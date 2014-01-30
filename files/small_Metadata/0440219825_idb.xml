@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:52:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dragons_bait_a02" isbn="0440219825" isbn13="9780440219828">
+<Title>Dragon's Bait</Title>
+<TitleLong>Dragon's Bait (Laurel-Leaf Books)</TitleLong>
+<AuthorsText>Vivian Vande Velde, </AuthorsText>
+<PublisherText publisher_id="laurel_leaf_a01">Laurel Leaf</PublisherText>
+<Details change_time="2008-01-05T21:38:42Z" price_time="2012-03-05T14:33:01Z" edition_info="Mass Market Paperback; 1997-01-01" language="" physical_description_text="144 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

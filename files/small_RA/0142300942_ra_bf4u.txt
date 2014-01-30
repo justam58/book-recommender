@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,
+storyline:|linear*1|,
+characterization:|sympathetic*1|,
+lang_style:|unusual*1|,

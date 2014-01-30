@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:18:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dear_mr_henshaw_a01" isbn="068802405X" isbn13="9780688024055">
+<Title>Dear Mr. Henshaw</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Beverly Cleary; illustrated by Paul O. Zelinsky</AuthorsText>
+<PublisherText publisher_id="morrow">New York : Morrow, 1983.</PublisherText>
+<Details change_time="2003-11-08T16:09:10Z" price_time="2012-03-10T21:18:11Z" edition_info="" language="eng" physical_description_text="133 p. : ill. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

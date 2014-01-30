@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|small-town*2|,|contemporary*1|,|romantic*1|,|humorous*1|,|historical*1|,
+pptone:|realistic*1|,|quirky*1|,|happy*1|,
+storyline:|issue-oriented*2|,|gentle*2|,|humorous*5|,|racy*1|,|action-oriented*2|,|mythic*2|,
+pptopic:|religion*1|,|technology*1|,|drinking*1|,|illustration*1|,|addiction*1|,|curse*1|,|war*3|,
+characterization:|multiple points of view*1|,|quirky*1|,|well-developed*3|,|believable*4|,|sympathetic*5|,
+lang_style:|passionate*1|,|simple*4|,|unusual*5|,
+pacing:|fast*5|,

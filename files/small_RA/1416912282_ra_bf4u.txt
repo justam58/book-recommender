@@ -1,0 +1,3 @@
+pptopic:|violent*1|,
+characterization:|well-developed*1|,|believable*1|,|literary*1|,
+lang_style:|dramatic*1|,|unusual*1|,

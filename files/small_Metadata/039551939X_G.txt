@@ -1,0 +1,9 @@
+Title ===Curious George goes to school===
+Author ===Margret Rey===
+Author ===Alan J. Shalleck===
+PublicationDate ===1989-10-30===
+Description ===Curious George makes a mistake in the art room of his school but finds a missing painting in time for an open house for parents of the students.===
+PageCount ===30===
+Type ===BOOK===
+LCSH ===Art===
+AvgRate ===3.5===

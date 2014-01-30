@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|suspenseful*1|,
+pptone:|quirky*1|,
+storyline:|linear*1|,|complex*2|,|humorous*2|,|tragic*3|,
+pptopic:|politics*1|,|illustration*3|,|baby*5|,|violent*1|,
+characterization:|well-developed*1|,
+lang_style:|complex*1|,|passionate*1|,|unusual*3|,
+pacing:|fast*1|,

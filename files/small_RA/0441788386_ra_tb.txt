@@ -1,0 +1,5 @@
+frame:|popular*1|,
+storyline:|linear*2|,
+pptopic:|religion*1|,
+characterization:|sympathetic*1|,
+lang_style:|thoughtful*1|,

@@ -1,0 +1,5 @@
+frame:|small-town*1|,|popular*1|,
+storyline:|linear*1|,|tragic*6|,
+pptopic:|technology*1|,|death*2|,|illustration*2|,|baby*2|,|violent*3|,|disease*3|,
+characterization:|well-developed*1|,|believable*1|,
+lang_style:|passionate*1|,

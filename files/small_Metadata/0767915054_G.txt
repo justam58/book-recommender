@@ -1,0 +1,8 @@
+Title ===A Girl Named Zippy===
+Author ===Haven Kimmel===
+PublicationDate ===2002===
+Description ===The author offers a chronicle of growing up in a small town in America's heartland, offering portraits of her family and her encounters with the complexities of the adult world, romance, and small-town life during the 1960s and 1970s.===
+PageCount ===282===
+Type ===BOOK===
+LCSH ===Biography & Autobiography===
+AvgRate ===3.5===

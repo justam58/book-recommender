@@ -1,0 +1,8 @@
+Title ===The Angel Experiment===
+Author ===James Patterson===
+PublicationDate ===2007-04-01===
+Description ===After the mutant Erasers abduct the youngest member of their group, the "bird kids," who are the result of genetic experimentation, take off in pursuit and find themselves struggling to understand their own origins and purpose.===
+PageCount ===422===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===5.0===

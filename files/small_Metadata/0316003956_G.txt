@@ -1,0 +1,7 @@
+Title ===The Mysterious Benedict Society===
+Author ===Trenton Lee Stewart===
+PublicationDate ===2008-04-01===
+Description ==="Are you a gifted child looking for special opportunities?" When this peculiar ad appears in the newspaper, dozens of children enroll to take a series of mysterious, mind-bending tests. (And you, dear reader, can test your wits right alongside them.) But in the end just four very special children will succeed. Their challenge: to go on a secret mission that only the most intelligent and resourceful children could complete. To accomplish it they will have to go undercover at the Learning Institute for the Very Enlightened, where the only rule is that there are no rules. As our heroes face physical and mental trials beyond their wildest imaginations, they have no choice but to turn to each other for support. But with their newfound friendship at stake, will they be able to pass the most important test of all? Welcome to the Mysterious Benedict Society.===
+PageCount ===512===
+Type ===BOOK===
+AvgRate ===4.0===

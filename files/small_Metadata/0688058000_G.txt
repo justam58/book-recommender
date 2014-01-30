@@ -1,0 +1,5 @@
+Title ===Paul Bunyan===
+Author ===James Stevens===
+PublicationDate ===1975-01-01===
+PageCount ===201===
+Type ===BOOK===

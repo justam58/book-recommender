@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:46:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_bad_beginning_movie_tie_in_edition" isbn="006075589X" isbn13="9780060755898">
+<Title>The Bad Beginning, Movie Tie-in Edition</Title>
+<TitleLong>The Bad Beginning, Movie Tie-in Edition (A Series of Unfortunate Events, Book 1)</TitleLong>
+<AuthorsText>Lemony Snicket, Brett Helquist (Illustrator)</AuthorsText>
+<PublisherText publisher_id="harperkidsentertainment">HarperKidsEntertainment</PublisherText>
+<Details change_time="2006-06-29T01:08:12Z" price_time="2010-08-13T10:17:41Z" edition_info="Hardcover; 2004-11-01" language="" physical_description_text="176 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

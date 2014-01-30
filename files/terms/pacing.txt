@@ -1,0 +1,5 @@
+engrossing:compelling,
+easy:measured,deliberate,unhurried,leisurely-paced,leisurely,relaxed
+stately:
+slow:measured,deliberate,easy,leisurely-paced,leisurely,dense,
+fast:fast-paced,breakneck,

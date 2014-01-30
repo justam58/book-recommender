@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:44:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="eggs_a11" isbn="0316166472" isbn13="9780316166478">
+<Title>Eggs</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jerry Spinelli, </AuthorsText>
+<PublisherText publisher_id="little_brown_young_readers_a01">Little, Brown Young Readers</PublisherText>
+<Details change_time="2008-04-22T17:56:51Z" price_time="2011-03-08T07:42:31Z" edition_info="Paperback; 2008-04-01" language="" physical_description_text="5.0&quot;x7.6&quot;x0.8&quot;; 0.1 lb; 240 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

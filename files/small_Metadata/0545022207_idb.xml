@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:30:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="callie_for_president" isbn="0545022207" isbn13="9780545022200">
+<Title>Callie For President</Title>
+<TitleLong>Callie For President (Candy Apple)</TitleLong>
+<AuthorsText>Robin Wasserman, </AuthorsText>
+<PublisherText publisher_id="scholastic_paperbacks">Scholastic Paperbacks</PublisherText>
+<Details change_time="2007-12-06T22:04:25Z" price_time="2010-05-20T23:08:56Z" edition_info="Mass Market Paperback; 2008-05-01" language="" physical_description_text="176 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

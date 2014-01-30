@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:29:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="alexander_and_the_terrible_horrible_no_good_very_bad_day_a01" isbn="0689300727" isbn13="9780689300721">
+<Title>Alexander and the terrible, horrible, no good, very bad day</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Judith Viorst; illustrated by Ray Cruz</AuthorsText>
+<PublisherText publisher_id="atheneum_books_for_young_reade">New York : Atheneum Books for Young Readers, c1972.</PublisherText>
+<Details change_time="2006-07-28T13:00:07Z" price_time="2012-06-21T12:46:59Z" edition_info="" language="eng" physical_description_text="[32] p. : ill. ; 20 x 26 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

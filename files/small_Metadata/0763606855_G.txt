@@ -1,0 +1,7 @@
+Title ===Judy Moody===
+Author ===Megan McDonald===
+PublicationDate ===2000-04-01===
+Description ===Third grader Judy Moody is in a first day of school bad mood until she gets an assignment to create a collage all about herself and begins creating her masterpiece, the Me collage.===
+PageCount ===160===
+Type ===BOOK===
+AvgRate ===3.0===

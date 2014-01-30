@@ -1,0 +1,7 @@
+frame:|school*1|,|suspenseful*4|,|popular*2|,|gritty*2|,|humorous*1|,|descriptive*1|,|exotic*2|,
+pptone:|dark*3|,|serious*4|,
+storyline:|open-ended*1|,|issue-oriented*1|,|linear*1|,|complex*10|,|gentle*3|,|humorous*3|,|racy*2|,|violent*1|,|action-oriented*1|,|mythic*1|,|inspirational*1|,
+pptopic:|sex*2|,|death*10|,|illustration*6|,|addiction*2|,|curse*4|,|violent*4|,|war*4|,
+characterization:|linear*1|,|quirky*2|,|well-developed*11|,|believable*4|,|sympathetic*3|,
+lang_style:|complex*2|,|simple*3|,|unusual*7|,|thoughtful*1|,|conversational*1|,
+pacing:|engrossing*2|,|fast*1|,

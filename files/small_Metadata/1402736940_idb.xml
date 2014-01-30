@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:07:18Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="classic_starts_the_swiss_family_robinson" isbn="1402736940" isbn13="9781402736940">
+<Title>The Swiss family Robinson</Title>
+<TitleLong></TitleLong>
+<AuthorsText>retold from the Johann David Wyss original by Chris Tait; illustrated by Jamel Akib</AuthorsText>
+<PublisherText publisher_id="sterling">New York, NY : Sterling, c2007.</PublisherText>
+<Details change_time="2011-11-03T02:45:35Z" price_time="2012-07-23T02:26:39Z" edition_info="(hc.)" language="eng" physical_description_text="151 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

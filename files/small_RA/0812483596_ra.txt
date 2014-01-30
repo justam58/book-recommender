@@ -1,0 +1,5 @@
+frame:|suspenseful*1|,|popular*4|,
+storyline:|tragic*4|,
+pptopic:|bullying*4|,|death*1|,|curse*1|,|violent*2|,
+characterization:|believable*1|,
+lang_style:|poetic*1|,|dramatic*1|,|unusual*3|,

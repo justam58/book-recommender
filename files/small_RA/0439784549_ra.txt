@@ -1,0 +1,7 @@
+frame:|hard-edged*9|,|popular*2|,|gritty*2|,|romantic*2|,|humorous*3|,|historical*1|,
+pptone:|dark*1|,|serious*1|,
+storyline:|complex*5|,|issue-oriented*3|,|linear*2|,|humorous*1|,|action-oriented*3|,|episodic*2|,|open-ended*1|,|gentle*2|,|mystical*1|,|family-centered*3|,|character-centered*3|,|plot-centered*3|,|mythic*1|,|tragic*2|,|literary*1|,
+pptopic:|religion*1|,|death*21|,|illustration*2|,|curse*2|,|violent*1|,|war*8|,
+characterization:|well-developed*26|,|believable*7|,|sympathetic*1|,
+lang_style:|extravagant*1|,|complex*1|,|passionate*4|,|simple*2|,|unusual*4|,|thoughtful*1|,
+pacing:|fast*3|,

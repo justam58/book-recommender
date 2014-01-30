@@ -1,0 +1,4 @@
+frame:|small-town*1|,
+pptopic:|death*3|,
+characterization:|quirky*1|,|believable*2|,
+pacing:|easy*1|,|slow*1|,

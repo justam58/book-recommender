@@ -1,0 +1,4 @@
+pptone:|serious*1|,
+pptopic:|violent*1|,
+characterization:|believable*1|,
+lang_style:|simple*1|,|candid*1|,|conversational*1|,

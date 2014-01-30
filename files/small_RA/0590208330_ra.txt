@@ -1,0 +1,4 @@
+frame:|historical*2|,
+pptone:|serious*1|,
+pptopic:|death*2|,|war*4|,
+lang_style:|passionate*2|,|simple*1|,|thoughtful*1|,

@@ -1,0 +1,3 @@
+storyline:|gentle*4|,|humorous*2|,
+pptopic:|illustration*1|,
+characterization:|believable*4|,

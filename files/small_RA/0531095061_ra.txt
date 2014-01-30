@@ -1,0 +1,5 @@
+frame:|hard-edged*2|,
+storyline:|linear*2|,
+pptopic:|drinking*7|,|illustration*17|,
+characterization:|well-developed*3|,
+lang_style:|poetic*1|,|thoughtful*1|,

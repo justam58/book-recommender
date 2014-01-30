@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:37:56Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_private_notebook_of_katie_roberts_age_11" isbn="1564028593" isbn13="9781564028594">
+<Title>The Private Notebook of Katie Roberts, Age 11</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Amy Hest, Sonja Lamut (Illustrator)</AuthorsText>
+<PublisherText publisher_id="candlewick">Candlewick</PublisherText>
+<Details change_time="2006-05-23T20:37:44Z" price_time="2010-10-25T20:26:35Z" edition_info="Paperback; 1996-07-05" language="" physical_description_text="80 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

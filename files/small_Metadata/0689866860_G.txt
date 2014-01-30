@@ -1,0 +1,8 @@
+Title ===Room One===
+Author ===Andrew Clements===
+PublicationDate ===2006-07-01===
+Description ===Ted Hammond, the only sixth grader in his small Nebraska town===
+PageCount ===162===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

@@ -1,0 +1,4 @@
+frame:|romantic*1|,
+pptone:|realistic*1|,
+storyline:|gentle*1|,
+pptopic:|illustration*1|,|violent*1|,

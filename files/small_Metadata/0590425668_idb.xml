@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:39:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="tiny_seed" isbn="0590425668" isbn13="9780590425667">
+<Title>Tiny Seed</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Eric Carle, </AuthorsText>
+<PublisherText publisher_id="scholastic_inc">Scholastic Inc</PublisherText>
+<Details change_time="2006-07-28T23:47:18Z" price_time="2013-01-08T00:41:51Z" edition_info="Paperback" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:17:05Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_fellowship_of_the_ring_a04" isbn="0345339703" isbn13="9780345339706">
+<Title>The fellowship of the Ring</Title>
+<TitleLong>The fellowship of the Ring: being the first part of The Lord of the Rings</TitleLong>
+<AuthorsText>with a new foreword by the author, J. R. R. Tolkien</AuthorsText>
+<PublisherText publisher_id="ballantine_books">New York : Ballantine Books, c1982.</PublisherText>
+<Details change_time="2010-04-22T02:19:19Z" price_time="2013-02-08T17:04:08Z" edition_info="(pbk.)" language="eng" physical_description_text="479 p. : maps ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,4 @@
+frame:|humorous*4|,
+storyline:|racy*4|,
+pptopic:|divorce*8|,|violent*1|,
+characterization:|believable*4|,

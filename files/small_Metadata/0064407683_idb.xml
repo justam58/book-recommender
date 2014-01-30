@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:10:18Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_wide_window" isbn="0064407683" isbn13="9780064407687">
+<Title>The wide window</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Lemony Snicket; illustrations by Brett Helquist</AuthorsText>
+<PublisherText publisher_id="harpertrophy">New York : HarperTrophy, c2000.</PublisherText>
+<Details change_time="2003-11-06T10:39:55Z" price_time="2013-01-16T12:06:39Z" edition_info="(pbk.)" language="eng" physical_description_text="214 p. : ill. ; 19 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

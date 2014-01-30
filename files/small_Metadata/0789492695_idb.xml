@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:22:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="whales_dolphins_a02" isbn="0789492695" isbn13="9780789492692">
+<Title>Whales &amp; dolphins</Title>
+<TitleLong></TitleLong>
+<AuthorsText>[written and edited by Caroline Bingham]</AuthorsText>
+<PublisherText publisher_id="dk_pub">New York : DK Pub., 2003.</PublisherText>
+<Details change_time="2011-08-09T03:59:07Z" price_time="2012-06-15T00:07:22Z" edition_info="(hc)" language="eng" physical_description_text="48 p. : col. ill. ; 27 cm." lcc_number="QL737" dewey_decimal_normalized="599.5" dewey_decimal="599.5" />
+</BookData>
+</BookList>
+</ISBNdb>

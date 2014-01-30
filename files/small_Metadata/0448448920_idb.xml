@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:02:38Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="who_was_george_washington" isbn="0448448920" isbn13="9780448448923">
+<Title>Who Was George Washington?</Title>
+<TitleLong>Who Was George Washington? (Who Was...?)</TitleLong>
+<AuthorsText>Roberta Edwards, Nancy Harrison (Illustrator), True Kelley (Illustrator)</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">Grosset &amp; Dunlap</PublisherText>
+<Details change_time="2008-12-13T15:43:40Z" price_time="2010-06-28T19:38:59Z" edition_info="Paperback; 2009-01-08" language="" physical_description_text="5.3&quot;x7.6&quot;x0.2&quot;; 0.3 lb; 112 pages" lcc_number="" dewey_decimal_normalized="973.41092" dewey_decimal="973.41092" />
+</BookData>
+</BookList>
+</ISBNdb>

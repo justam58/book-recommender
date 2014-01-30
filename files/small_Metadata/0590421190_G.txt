@@ -1,0 +1,8 @@
+Title ===Honey, I Shrunk the Kids===
+Author ===B. B. Hiller===
+Author ===Neil W. Hiller===
+PublicationDate ===1989===
+Description ===When the neighborhood inventor creates a shrinking machine and accidentally shrinks his own children and their friends, the kids find everyday activities an adventure and a peril.===
+PageCount ===89===
+Type ===BOOK===
+AvgRate ===1.0===

@@ -1,0 +1,8 @@
+Title ===The Twits===
+Author ===Roald Dahl===
+PublicationDate ===2007-08===
+Description ===The misadventures of two terrible old people who enjoy playing nasty tricks and are finally outwitted by a family of monkeys.===
+PageCount ===76===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

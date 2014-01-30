@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:42:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="stranger_in_a_strange_land_a06" isbn="0441788386" isbn13="9780441788385">
+<Title>Stranger in a strange land</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Robert A. Heinlein</AuthorsText>
+<PublisherText publisher_id="ace_books">New York : Ace Books, 1991.</PublisherText>
+<Details change_time="2008-05-01T02:36:03Z" price_time="2012-07-26T12:23:52Z" edition_info="(pbk.) :$9.95" language="eng" physical_description_text="525 p. ; 24 cm." lcc_number="PS3515" dewey_decimal_normalized="" dewey_decimal="S" />
+</BookData>
+</BookList>
+</ISBNdb>

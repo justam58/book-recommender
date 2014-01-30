@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|heart-warming*1|,|small-town*2|,|popular*1|,|romantic*1|,|humorous*2|,
+pptone:|quirky*1|,|surreal*1|,|serious*1|,
+storyline:|complex*2|,|humorous*3|,|racy*1|,
+pptopic:|sex*1|,|violent*1|,|war*1|,
+characterization:|quirky*2|,|multiple points of view*1|,|well-developed*4|,|distant*1|,|believable*1|,|sympathetic*1|,
+lang_style:|passionate*3|,|simple*2|,|unusual*2|,|natural*1|,
+pacing:|fast*1|,

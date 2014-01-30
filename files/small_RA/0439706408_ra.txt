@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|small-town*1|,
+pptone:|realistic*14|,|quirky*1|,
+storyline:|linear*1|,|complex*1|,|humorous*2|,|racy*1|,
+pptopic:|drinking*1|,|illustration*1|,
+characterization:|quirky*1|,|linear*1|,|well-developed*2|,|sympathetic*1|,
+lang_style:|unusual*1|,

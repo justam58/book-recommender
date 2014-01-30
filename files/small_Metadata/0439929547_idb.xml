@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:45:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="babysitting_wars" isbn="0439929547" isbn13="9780439929547">
+<Title>Babysitting Wars</Title>
+<TitleLong>Babysitting Wars (Candy Apple)</TitleLong>
+<AuthorsText>Mimi Mccoy, </AuthorsText>
+<PublisherText publisher_id="scholastic_paperbacks">Scholastic Paperbacks</PublisherText>
+<Details change_time="2007-12-06T22:04:27Z" price_time="2010-07-19T19:28:45Z" edition_info="Mass Market Paperback; 2007-11-01" language="" physical_description_text="176 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

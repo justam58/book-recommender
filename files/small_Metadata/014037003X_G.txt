@@ -1,0 +1,7 @@
+Title ===Three Up a Tree===
+Author ===James Marshall===
+PublicationDate ===1994-12-01===
+Description ===Sam and Spider build a tree house and go there with Lolly to trade stories.===
+PageCount ===48===
+Type ===BOOK===
+AvgRate ===4.5===

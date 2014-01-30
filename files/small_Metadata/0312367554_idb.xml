@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:38:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="a_wrinkle_in_time_a10" isbn="0312367554" isbn13="9780312367558">
+<Title>A wrinkle in time</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Madeleine L'Engle</AuthorsText>
+<PublisherText publisher_id="bantam_doubleday_dell_books_fo">New York : Bantam Doubleday Dell Books for Young Readers, 1976.</PublisherText>
+<Details change_time="2009-05-09T22:44:23Z" price_time="2012-03-19T04:53:28Z" edition_info="(pbk. : Farrar, Straus and Giroux : 212 p.)" language="eng" physical_description_text="198 p. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

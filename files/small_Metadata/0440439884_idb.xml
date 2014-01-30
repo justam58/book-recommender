@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-18T19:26:41Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="island_of_the_blue_dolphins" isbn="0440439884" isbn13="9780440439882">
+<Title>Island of the Blue Dolphins</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Scott O'Dell</AuthorsText>
+<PublisherText publisher_id="dell">New York : Dell, [1987], c1960.</PublisherText>
+<Details change_time="2004-06-21T09:21:11Z" price_time="2012-12-21T00:48:20Z" edition_info="(pbk.) :$3.25" language="eng" physical_description_text="184 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

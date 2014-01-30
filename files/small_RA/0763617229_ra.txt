@@ -1,0 +1,6 @@
+frame:|hard-edged*3|,|small-town*3|,|timeless*1|,|evocative*3|,|romantic*2|,|humorous*1|,|descriptive*1|,|sensual*2|,
+pptone:|realistic*1|,|quirky*1|,|happy*1|,|dark*1|,|serious*2|,
+storyline:|linear*2|,|complex*5|,|conclusive*1|,|gentle*11|,|racy*3|,|humorous*5|,|tragic*4|,|inspirational*1|,
+pptopic:|death*1|,|illustration*24|,|baby*1|,|violent*1|,
+characterization:|layered*1|,|well-developed*5|,|distant*1|,|believable*2|,|sympathetic*4|,
+lang_style:|passionate*3|,|simple*2|,|poetic*1|,|unusual*5|,|candid*1|,|thoughtful*1|,|conversational*1|,

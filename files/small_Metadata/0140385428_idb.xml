@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:31:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mr_lincolns_drummer_a01" isbn="0140385428" isbn13="9780140385427">
+<Title>Mr. Lincoln's Drummer</Title>
+<TitleLong></TitleLong>
+<AuthorsText>G. Clifton Wisler</AuthorsText>
+<PublisherText publisher_id="puffin_books">Puffin Books</PublisherText>
+<Details change_time="2004-12-21T10:15:09Z" price_time="2012-03-24T16:41:04Z" edition_info="Paperback; 1997-06-01" language="" physical_description_text="5.1&quot;x7.8&quot;x0.4&quot;; 144 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,5 @@
+frame:|small-town*3|,|romantic*1|,|historical*1|,|exotic*1|,
+pptone:|quirky*1|,
+storyline:|character-centered*3|,|family-centered*3|,|plot-centered*3|,|humorous*1|,|racy*3|,|tragic*1|,
+characterization:|quirky*1|,|well-developed*3|,|sympathetic*3|,
+lang_style:|unusual*1|,

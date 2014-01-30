@@ -1,0 +1,7 @@
+Title ===The Cay===
+Author ===Theodore Taylor===
+PublicationDate ===1969===
+Description ===Follows the adventures, joys, and heartaches of a privileged and prejudiced Dutch boy stranded on a remote tropical island with a kindly and wise West Indian, following an enemy attack on a boat leaving Curacao.===
+PageCount ===144===
+Type ===BOOK===
+AvgRate ===4.0===

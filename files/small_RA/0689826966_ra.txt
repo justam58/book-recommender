@@ -1,0 +1,5 @@
+frame:|small-town*1|,|historical*1|,
+storyline:|gentle*1|,|tragic*1|,
+pptopic:|sex*1|,|war*20|,
+characterization:|well-developed*1|,
+lang_style:|simple*1|,

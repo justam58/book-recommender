@@ -1,0 +1,4 @@
+storyline:|conclusive*1|,|gentle*1|,
+pptopic:|illustration*1|,
+characterization:|literary*1|,
+lang_style:|natural*1|,

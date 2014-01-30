@@ -1,0 +1,4 @@
+frame:|romantic*1|,
+storyline:|linear*1|,
+pptopic:|sex*1|,
+lang_style:|unusual*2|,|conversational*2|,

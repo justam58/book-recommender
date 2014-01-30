@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:23:53Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="midnight_for_charlie_bone_a02" isbn="0439488397" isbn13="9780439488396">
+<Title>Midnight for Charlie Bone</Title>
+<TitleLong>Midnight for Charlie Bone (Children of the Red King, I)</TitleLong>
+<AuthorsText></AuthorsText>
+<PublisherText publisher_id="scholastic_inc_a01">Scholastic, Inc.</PublisherText>
+<Details change_time="2007-03-08T00:25:49Z" price_time="2013-02-06T15:08:35Z" edition_info="Mass Market Paperback; 2002" language="" physical_description_text="352 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

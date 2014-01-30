@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:58:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_legend_of_zelda_volume_6" isbn="1421523329" isbn13="9781421523323">
+<Title>The Legend of Zelda, Volume 6</Title>
+<TitleLong>The Legend of Zelda, Volume 6: Four Swords - Part 1</TitleLong>
+<AuthorsText>Akira Himekawa, </AuthorsText>
+<PublisherText publisher_id="viz_media_llc">VIZ Media LLC</PublisherText>
+<Details change_time="2009-06-12T05:46:05Z" price_time="2010-11-27T18:50:15Z" edition_info="Paperback; 2009-08-04" language="" physical_description_text="200 pages" lcc_number="" dewey_decimal_normalized="741" dewey_decimal="741" />
+</BookData>
+</BookList>
+</ISBNdb>

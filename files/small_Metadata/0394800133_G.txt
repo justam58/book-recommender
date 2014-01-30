@@ -1,0 +1,7 @@
+Title ===One Fish, Two Fish, Red Fish, Blue Fish===
+PublicationDate ===1960===
+Description ===Illus. in full color. A "fabulous book of easy words, exciting pictures and inviting rhythm."--"Elementary English.===
+PageCount ===62===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:22:02Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="night_of_the_new_magicians" isbn="0375830359" isbn13="9780375830358">
+<Title>Night of the new magicians</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Mary Pope Osborne; illustrated by Sal Murdocca</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2006.</PublisherText>
+<Details change_time="2008-05-31T05:58:41Z" price_time="2012-07-20T23:07:15Z" edition_info="(trade)" language="eng" physical_description_text="111 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

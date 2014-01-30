@@ -1,0 +1,3 @@
+frame:|evocative*1|,
+characterization:|evocative*1|,
+lang_style:|poetic*1|,

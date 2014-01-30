@@ -1,0 +1,7 @@
+frame:|hard-edged*3|,|suspenseful*1|,|popular*6|,|evocative*2|,|romantic*1|,|humorous*3|,|descriptive*1|,|exotic*2|,
+pptone:|quirky*1|,|serious*2|,
+storyline:|issue-oriented*2|,|linear*8|,|complex*4|,|gentle*13|,|racy*3|,|action-oriented*2|,|mythic*1|,
+pptopic:|sex*2|,|drinking*1|,|death*3|,|illustration*12|,
+characterization:|well-developed*11|,|believable*8|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*2|,|simple*2|,|unusual*11|,|candid*1|,|thoughtful*2|,|natural*4|,|classic*3|,|conversational*1|,
+pacing:|easy*1|,|fast*2|,

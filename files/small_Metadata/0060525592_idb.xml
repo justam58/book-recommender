@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:35:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="warriors_2_fire_and_ice_a01" isbn="0060525592" isbn13="9780060525590">
+<Title>Fire and ice</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Erin Hunter</AuthorsText>
+<PublisherText publisher_id="avon_books">New York : Avon Books, 2004, c2003.</PublisherText>
+<Details change_time="2009-12-03T07:15:49Z" price_time="2012-12-24T08:37:45Z" edition_info="(pbk.)" language="eng" physical_description_text="317 p. : ill., maps ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

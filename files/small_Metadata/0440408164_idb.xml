@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:39:13Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="attaboy_sam_a01" isbn="0440408164" isbn13="9780440408161">
+<Title>Attaboy, Sam!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Lois Lowry; illustrated by Diane de Groat</AuthorsText>
+<PublisherText publisher_id="houghton_mifflin">Boston : Houghton Mifflin, c1992.</PublisherText>
+<Details change_time="2008-11-23T21:33:27Z" price_time="2011-05-22T11:25:18Z" edition_info="(pbk.) :lc$4.50" language="eng" physical_description_text="116 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:23:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_baby_sitters_club_a01" isbn="0439739365" isbn13="9780439739368">
+<Title>The Baby-Sitters Club</Title>
+<TitleLong>The Baby-Sitters Club: The Truth About Stacey</TitleLong>
+<AuthorsText>Ann Martin, Raina Telgemeier (Adapter)</AuthorsText>
+<PublisherText publisher_id="graphix">GRAPHIX</PublisherText>
+<Details change_time="2006-12-29T15:59:53Z" price_time="2012-12-21T18:59:02Z" edition_info="Paperback; 2006-11-01" language="" physical_description_text="144 pages" lcc_number="" dewey_decimal_normalized="741.5973" dewey_decimal="741.5973" />
+</BookData>
+</BookList>
+</ISBNdb>

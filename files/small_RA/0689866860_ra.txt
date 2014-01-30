@@ -1,0 +1,3 @@
+frame:|hard-edged*1|,|small-town*1|,|contemporary*4|,|gritty*1|,|rural*4|,
+pptopic:|illustration*4|,
+characterization:|well-developed*1|,|sympathetic*1|,

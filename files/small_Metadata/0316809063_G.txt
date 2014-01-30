@@ -1,0 +1,8 @@
+Title ===Maniac Magee===
+Author ===Jerry Spinelli===
+PublicationDate ===1993===
+Description ===For use in schools and libraries only. The classic award-winning story about a young boy who finds himself when he escapes an unbearable situation.===
+PageCount ===184===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

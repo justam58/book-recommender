@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:06:42Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="ivy_and_bean_book_4_hc" isbn="0811856852" isbn13="9780811856850">
+<Title>Ivy and Bean take care of the babysitter</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Annie Barrows; illustrated by Sophie Blackall</AuthorsText>
+<PublisherText publisher_id="chronicle_books">San Francisco : Chronicle Books, c2008.</PublisherText>
+<Details change_time="2008-10-20T07:02:19Z" price_time="2010-10-27T17:37:34Z" edition_info="" language="eng" physical_description_text="122 p. : ill. ; 19 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,7 @@
+Title ===The golden compass===
+Author ===Philip Pullman===
+PublicationDate ===1997-03-30===
+Description ===Living among scholars in the hallowed halls of Jordan College, Lyra hears rumors of a magical dust that supposedly possesses powers that can unite whole universes, and begins a difficult and dangerous journey to find it.===
+PageCount ===351===
+Type ===BOOK===
+AvgRate ===4.0===

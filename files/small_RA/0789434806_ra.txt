@@ -1,0 +1,2 @@
+pptopic:|illustration*5|,|war*5|,
+lang_style:|conversational*1|,

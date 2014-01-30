@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|heart-warming*4|,|school*1|,|exotic*1|,
+pptone:|realistic*2|,|serious*1|,
+storyline:|open-ended*1|,|gentle*1|,|mythic*1|,
+pptopic:|illustration*4|,
+characterization:|stereotypes*1|,|well-developed*6|,|believable*6|,|sympathetic*6|,
+lang_style:|poetic*1|,|unusual*1|,

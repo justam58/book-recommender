@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:52:47Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="here_there_be_dragons_a04" isbn="1416912282" isbn13="9781416912286">
+<Title>Here, There Be Dragons</Title>
+<TitleLong>Here, There Be Dragons (The Chronicles of the Imaginarium Geographica)</TitleLong>
+<AuthorsText>James A. Owen (Illustrator)</AuthorsText>
+<PublisherText publisher_id="simon_pulse">Simon Pulse</PublisherText>
+<Details change_time="2008-02-09T15:25:37Z" price_time="2012-04-10T05:13:59Z" edition_info="Paperback; 2007-10-23" language="" physical_description_text="352 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

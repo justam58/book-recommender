@@ -1,0 +1,5 @@
+frame:|historical*1|,
+storyline:|linear*2|,|humorous*2|,
+pptopic:|drinking*1|,|illustration*5|,
+characterization:|sympathetic*1|,
+lang_style:|simple*2|,|dramatic*2|,|unusual*1|,

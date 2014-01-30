@@ -1,0 +1,2 @@
+frame:|hard-edged*1|,
+pptopic:|violent*1|,|war*1|,

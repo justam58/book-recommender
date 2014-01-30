@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:33:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="book_three_of_the_travelers" isbn="1416965246" isbn13="9781416965244">
+<Title>Book Three of the Travelers</Title>
+<TitleLong>Book Three of the Travelers (Pendragon)</TitleLong>
+<AuthorsText>Walter Sorrells, D. J. MacHale (Creator)</AuthorsText>
+<PublisherText publisher_id="aladdin">Aladdin</PublisherText>
+<Details change_time="2008-12-13T15:56:19Z" price_time="2011-11-21T16:46:50Z" edition_info="Paperback; 2009-03-24" language="" physical_description_text="224 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

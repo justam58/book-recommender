@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:11:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_thief_lord" isbn="0439404371" isbn13="9780439404372">
+<Title>The Thief Lord</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Cornelia Funke; [English translation, Oliver Latsch]</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, 2002.</PublisherText>
+<Details change_time="2003-11-06T10:45:10Z" price_time="2012-05-19T01:09:45Z" edition_info="$16.95" language="eng" physical_description_text="349 p. : ill., map ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:53:44Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_seeing_stone" isbn="0689859376" isbn13="9780689859373">
+<Title>The seeing stone</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Tony DiTerlizzi and Holly Black</AuthorsText>
+<PublisherText publisher_id="simon_schuster_books_for_young">New York ; Simon &amp; Schuster Books for Young Readers, c2003.</PublisherText>
+<Details change_time="2009-06-16T14:37:58Z" price_time="2012-12-01T11:55:43Z" edition_info="" language="eng" physical_description_text="108 p. : ill., some col. ; 18 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

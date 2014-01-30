@@ -1,0 +1,4 @@
+frame:|humorous*1|,
+pptone:|realistic*2|,
+storyline:|gentle*4|,|racy*3|,|violent*4|,
+pptopic:|illustration*3|,

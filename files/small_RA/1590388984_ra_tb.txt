@@ -1,0 +1,2 @@
+storyline:|linear*1|,
+characterization:|stereotypes*1|,|believable*1|,

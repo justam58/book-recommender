@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:27:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_witches_a02" isbn="0141301104" isbn13="9780141301105">
+<Title>The witches</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Roald Dahl; illustrated by Quentin Blake</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York : Puffin Books, 1998.</PublisherText>
+<Details change_time="2006-11-04T02:46:30Z" price_time="2011-05-01T13:23:40Z" edition_info="" language="eng" physical_description_text="206 p. : ill. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

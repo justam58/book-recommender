@@ -1,0 +1,8 @@
+Title ===Danny the Champion of the World===
+Author ===Roald Dahl===
+PublicationDate ===2007===
+Description ===A motherless boy, who lives in a gypsy caravan behind his father's filling station, records the adventures he shares with his beloved parent.===
+PageCount ===205===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

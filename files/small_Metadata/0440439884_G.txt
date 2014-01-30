@@ -1,0 +1,8 @@
+Title ===Island of the Blue Dolphins===
+Author ===Scott O'Dell===
+PublicationDate ===1960===
+Description ===A young Indian girl learns the art of survival when she is stranded on an isolated Pacific island.===
+PageCount ===184===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

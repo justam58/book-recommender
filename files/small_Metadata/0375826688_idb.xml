@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:40:14Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="eragon" isbn="0375826688" isbn13="9780375826689">
+<Title>Eragon</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Christopher Paolini</AuthorsText>
+<PublisherText publisher_id="alfred_a_knopf">New York : Alfred A. Knopf : 2003.</PublisherText>
+<Details change_time="2006-01-05T19:26:59Z" price_time="2012-12-28T08:15:27Z" edition_info="" language="eng" physical_description_text="509 p. : ill. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

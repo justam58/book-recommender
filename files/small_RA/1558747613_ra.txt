@@ -1,0 +1,3 @@
+storyline:|linear*1|,|folksy*1|,|tragic*3|,|inspirational*3|,
+pptopic:|bullying*2|,|sex*1|,
+lang_style:|unusual*1|,

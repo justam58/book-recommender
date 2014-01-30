@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:34:34Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="fablehaven_grip_of_the_shadow_plague" isbn="1590388984" isbn13="9781590388983">
+<Title>Fablehaven: Grip of the Shadow Plague</Title>
+<TitleLong>Fablehaven: Grip of the Shadow Plague (Fablehaven) (Fablehaven)</TitleLong>
+<AuthorsText>Brandon Mull, </AuthorsText>
+<PublisherText publisher_id="shadow_mountain">Shadow Mountain</PublisherText>
+<Details change_time="2008-01-31T17:20:35Z" price_time="2012-05-01T05:17:28Z" edition_info="Hardcover; 2008-04-21" language="" physical_description_text="464 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

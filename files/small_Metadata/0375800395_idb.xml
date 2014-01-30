@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:49:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_and_the_mushy_gushy_valentine" isbn="0375800395" isbn13="9780375800399">
+<Title>Junie B. Jones and the mushy gushy valentime [i. e. valentine]</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1999.</PublisherText>
+<Details change_time="2006-01-25T08:30:07Z" price_time="2012-12-10T12:24:44Z" edition_info="(trade)" language="eng" physical_description_text="69 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

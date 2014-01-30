@@ -1,0 +1,8 @@
+Title ===The Brooklyn Nine===
+Author ===Alan Gratz===
+PublicationDate ===2009===
+Description ===Follows the fortunes of a German immigrant family through nine generations, beginning in 1845, as they experience American life and play baseball.===
+PageCount ===299===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

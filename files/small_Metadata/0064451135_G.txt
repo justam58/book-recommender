@@ -1,0 +1,7 @@
+Title ===What Will the Weather Be?===
+Author ===Lynda DeWitt===
+PublicationDate ===1993-03-05===
+Description ===Weather Will it be warm or cold? Should we wear shorts or pants? Shoes or boots? Read and find out why the weather is so difficult to predict.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===3.5===

@@ -1,0 +1,4 @@
+frame:|historical*5|,
+pptone:|happy*5|,
+storyline:|inspirational*1|,
+pptopic:|illustration*5|,|war*4|,

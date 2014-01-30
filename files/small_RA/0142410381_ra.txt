@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|humorous*1|,
+pptone:|serious*1|,
+storyline:|issue-oriented*1|,|linear*1|,|gentle*1|,|humorous*5|,|racy*1|,|action-oriented*1|,|mythic*1|,|tragic*1|,
+pptopic:|drinking*3|,|illustration*2|,
+characterization:|evocative*1|,|believable*1|,|sympathetic*1|,
+lang_style:|complex*3|,|passionate*7|,|unusual*8|,|thoughtful*1|,|classic*1|,

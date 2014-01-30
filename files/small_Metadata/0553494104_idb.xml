@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:32:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="bud_not_buddy_a05" isbn="0553494104" isbn13="9780553494105">
+<Title>Bud, not Buddy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Christopher Paul Curtis</AuthorsText>
+<PublisherText publisher_id="laurel_leaf">New York : Laurel-Leaf, 2004.</PublisherText>
+<Details change_time="2009-12-24T23:24:34Z" price_time="2012-04-20T04:18:33Z" edition_info="(pbk.)" language="eng" physical_description_text="viii, 245, 18 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

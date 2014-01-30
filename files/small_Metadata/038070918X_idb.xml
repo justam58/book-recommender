@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:53:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="beezus_and_ramona_a01" isbn="038070918X" isbn13="9780380709182">
+<Title>Beezus and Ramona</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Beverly Cleary; illustrated by Louis Darling</AuthorsText>
+<PublisherText publisher_id="avon_books">New York : Avon Books, 1990.</PublisherText>
+<Details change_time="2011-08-04T20:59:11Z" price_time="2012-09-14T04:54:23Z" edition_info="" language="eng" physical_description_text="159 p. : ill." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

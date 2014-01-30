@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:09:38Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="my_best_friend_a12" isbn="0142408069" isbn13="9780142408063">
+<Title>My Best Friend</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Mary Ann Rodman, E. B. Lewis (Illustrator)</AuthorsText>
+<PublisherText publisher_id="puffin">Puffin</PublisherText>
+<Details change_time="2007-10-11T18:40:35Z" price_time="2010-05-22T01:20:20Z" edition_info="Paperback; 2007-06-14" language="" physical_description_text="32 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

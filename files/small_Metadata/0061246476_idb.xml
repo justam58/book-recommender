@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:12:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_ramona_collection_vol_1" isbn="0061246476" isbn13="9780061246470">
+<Title>The Ramona Collection, Vol. 1</Title>
+<TitleLong>The Ramona Collection, Vol. 1: Ramona the Brave / Ramona and Her Father/Ramona the Pest/Beezus and Ramona</TitleLong>
+<AuthorsText>Beverly Cleary, Tracy Dockray (Illustrator)</AuthorsText>
+<PublisherText publisher_id="harpertrophy">HarperTrophy</PublisherText>
+<Details change_time="2007-10-22T11:34:46Z" price_time="2013-01-20T20:31:50Z" edition_info="Paperback; 2006-08-01" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

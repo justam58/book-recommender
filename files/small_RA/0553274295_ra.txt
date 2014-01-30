@@ -1,0 +1,7 @@
+frame:|hard-edged*3|,|small-town*1|,|evocative*1|,|romantic*1|,|historical*1|,
+pptone:|sentimental*1|,|serious*1|,
+storyline:|linear*2|,|conclusive*5|,|humorous*1|,|mythic*1|,|tragic*15|,|inspirational*4|,
+pptopic:|politics*1|,|death*5|,|illustration*2|,
+characterization:|well-developed*3|,|believable*1|,
+lang_style:|passionate*3|,|simple*1|,|poetic*1|,|unusual*1|,
+pacing:|slow*1|,|fast*1|,

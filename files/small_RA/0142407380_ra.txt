@@ -1,0 +1,6 @@
+frame:|descriptive*2|,
+storyline:|complex*1|,
+pptopic:|death*1|,
+characterization:|well-developed*1|,|sympathetic*1|,
+lang_style:|passionate*1|,
+pacing:|fast*2|,

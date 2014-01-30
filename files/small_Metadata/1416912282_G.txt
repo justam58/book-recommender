@@ -1,0 +1,7 @@
+Title ===Here, There Be Dragons===
+PublicationDate ===2007-10-23===
+Description ===Three young men are entrusted with the Imaginarium Geographica, an atlas of fantastical places to which they travel in hopes of defeating the Winter King, whose bid for power is related to the First World War raging in the Real World.===
+PageCount ===352===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

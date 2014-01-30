@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:06:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_mixed_up_chameleon_a02" isbn="0064431622" isbn13="9780064431620">
+<Title>The mixed-up chameleon</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Eric Carle</AuthorsText>
+<PublisherText publisher_id="harper_row">New York : Harper &amp; Row, 1988, c1984.</PublisherText>
+<Details change_time="2007-07-06T03:17:01Z" price_time="2012-03-10T18:24:42Z" edition_info="(pbk.)" language="eng" physical_description_text="[32] p. : col. ill. ; 31 cm. --" lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

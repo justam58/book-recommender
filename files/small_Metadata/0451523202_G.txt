@@ -1,0 +1,7 @@
+Title ===Alice's Adventures in Wonderland and Through the Looking-Glass===
+Author ===Lewis Carroll===
+PublicationDate ===1960-04-01===
+Description ===First published in 1865, these endearing tales of an imaginative child's dream world by Lewis Carroll, pen name for Charles Lutwidge Dodgson, are written with charming simplicity. While delighting children with a heroine who represents their own thoughts and feelings about growing up, the tale is appreciated by adults as a gentle satire on education, politics, literature, and Victorian life in general. All the delightful and bizarre inhabitants of Wonderland are here: the White Rabbit and the Cheshire Cat, the hooka-smoking Caterpillar and the Mad Hatter, the March Hare and the Ugly Duchess . . and, of course, Alice herself - growing alternately taller and smaller, attending demented tea parties and eccentric croquet games, observing everything with clarity and rational amazement.===
+PageCount ===240===
+Type ===BOOK===
+AvgRate ===4.0===

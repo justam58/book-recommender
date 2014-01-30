@@ -1,0 +1,8 @@
+Title ===Marley===
+Author ===John Grogan===
+PublicationDate ===2007-05-01===
+Description ===A true account of a dog named Marley.===
+PageCount ===196===
+Type ===BOOK===
+LCSH ===Juvenile Nonfiction===
+AvgRate ===4.0===

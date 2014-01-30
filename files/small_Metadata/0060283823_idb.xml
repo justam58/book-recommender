@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:43:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="inspector_hopper" isbn="0060283823" isbn13="9780060283827">
+<Title>Inspector Hopper</Title>
+<TitleLong></TitleLong>
+<AuthorsText>story and pictures by Doug Cushman</AuthorsText>
+<PublisherText publisher_id="harpercollins">[New York] : HarperCollins, c2000.</PublisherText>
+<Details change_time="2004-02-22T16:39:43Z" price_time="2012-02-12T06:57:39Z" edition_info="" language="eng" physical_description_text="64 p. : col. ill. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

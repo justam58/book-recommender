@@ -1,0 +1,4 @@
+frame:|descriptive*1|,
+storyline:|issue-oriented*1|,|open-ended*2|,|linear*1|,|gentle*1|,|humorous*9|,|action-oriented*1|,
+pptopic:|illustration*46|,
+lang_style:|simple*1|,|unusual*1|,|thoughtful*1|,

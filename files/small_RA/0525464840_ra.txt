@@ -1,0 +1,5 @@
+frame:|hard-edged*3|,|small-town*1|,|gritty*3|,|exotic*1|,
+storyline:|gentle*1|,|mystical*1|,|humorous*2|,
+pptopic:|illustration*4|,
+characterization:|well-developed*1|,|sympathetic*2|,
+lang_style:|simple*1|,

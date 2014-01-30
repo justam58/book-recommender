@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:57:00Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="winnie_the_pooh_a12" isbn="0140361219" isbn13="9780140361216">
+<Title>Winnie the Pooh</Title>
+<TitleLong></TitleLong>
+<AuthorsText>A. A. Milne; with decorations by Ernest H. Shepard</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York, N.Y., U.S.A. : Puffin Books, 1992.</PublisherText>
+<Details change_time="2007-11-29T21:20:15Z" price_time="2012-06-15T09:07:25Z" edition_info="" language="eng" physical_description_text="161 p. : ill., map ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

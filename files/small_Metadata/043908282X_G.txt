@@ -1,0 +1,6 @@
+Title ===The Adventures of Captain Underpants===
+Author ===Dav Pilkey===
+PublicationDate ===2002-03===
+PageCount ===128===
+Type ===BOOK===
+AvgRate ===5.0===

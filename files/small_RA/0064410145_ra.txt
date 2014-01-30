@@ -1,0 +1,7 @@
+frame:|heart-warming*1|,|suspenseful*1|,|humorous*1|,
+pptone:|happy*1|,|dark*1|,
+storyline:|complex*3|,|gentle*1|,|humorous*1|,|racy*3|,|tragic*1|,
+pptopic:|death*2|,|illustration*1|,|addiction*1|,
+characterization:|well-developed*8|,|believable*3|,
+lang_style:|passionate*2|,|unusual*3|,
+pacing:|slow*2|,

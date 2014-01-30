@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:22:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_baby_sitters_club_a10" isbn="0439739330" isbn13="9780439739337">
+<Title>Kristy's great idea</Title>
+<TitleLong>Kristy's great idea: a graphic novel</TitleLong>
+<AuthorsText>[text, Ann M. Martin; art] by Raina Telgemeier</AuthorsText>
+<PublisherText publisher_id="graphix">New York ; Graphix, 2006.</PublisherText>
+<Details change_time="2008-08-02T20:29:43Z" price_time="2012-04-04T04:01:45Z" edition_info="(pbk.)" language="eng" physical_description_text="186 p. : ill. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="813.6" dewey_decimal="813.6" />
+</BookData>
+</BookList>
+</ISBNdb>

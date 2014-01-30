@@ -1,0 +1,4 @@
+frame:|romantic*1|,
+pptopic:|death*1|,
+characterization:|believable*1|,
+lang_style:|simple*1|,|natural*1|,

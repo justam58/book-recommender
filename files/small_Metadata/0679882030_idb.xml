@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:28:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mick_harte_was_here_a03" isbn="0679882030" isbn13="9780679882039">
+<Title>Mick Harte was here</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park</AuthorsText>
+<PublisherText publisher_id="bullseye_books">New York : Bullseye Books : 1996, c1995.</PublisherText>
+<Details change_time="2007-09-09T23:32:02Z" price_time="2010-12-10T00:57:35Z" edition_info="(pbk.) :$4.95" language="eng" physical_description_text="89 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

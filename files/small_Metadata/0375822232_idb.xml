@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:59:28Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_first_grader_a03" isbn="0375822232" isbn13="9780375822230">
+<Title>Junie B., first grader</Title>
+<TitleLong>Junie B., first grader: toothless wonder</TitleLong>
+<AuthorsText>Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2002.</PublisherText>
+<Details change_time="2004-10-31T01:56:04Z" price_time="2012-11-10T23:44:02Z" edition_info="(pbk.)" language="eng" physical_description_text="80 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

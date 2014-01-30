@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:51:17Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="twilight_a12" isbn="0316160172" isbn13="9780316160179">
+<Title>Twilight</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Stephenie Meyer</AuthorsText>
+<PublisherText publisher_id="little_brown_and_co">New York : Little, Brown and Co., 2005.</PublisherText>
+<Details change_time="2007-06-08T22:13:45Z" price_time="2013-02-10T07:03:35Z" edition_info="" language="eng" physical_description_text="498 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

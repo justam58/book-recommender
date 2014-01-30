@@ -1,0 +1,3 @@
+frame:|small-town*1|,|historical*1|,
+storyline:|racy*4|,|inspirational*2|,
+pptopic:|technology*1|,|illustration*1|,|baby*2|,

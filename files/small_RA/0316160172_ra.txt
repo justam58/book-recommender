@@ -1,0 +1,7 @@
+frame:|hard-edged*2|,|heart-warming*1|,|small-town*8|,|romantic*4|,|humorous*3|,
+pptone:|realistic*1|,|sentimental*1|,|dark*3|,|relaxing*1|,|serious*7|,
+storyline:|issue-oriented*1|,|complex*2|,|linear*3|,|gentle*2|,|mystical*1|,|racy*3|,|humorous*1|,|action-oriented*1|,|mythic*1|,
+pptopic:|religion*1|,|sex*1|,|illustration*5|,|addiction*1|,|baby*1|,
+characterization:|linear*1|,|well-developed*16|,|believable*4|,|sympathetic*4|,|literary*1|,
+lang_style:|complex*2|,|passionate*2|,|simple*4|,|dramatic*1|,|unusual*6|,|candid*1|,|thoughtful*3|,|natural*2|,
+pacing:|engrossing*1|,|slow*1|,

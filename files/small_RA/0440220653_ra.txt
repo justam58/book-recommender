@@ -1,0 +1,7 @@
+frame:|hard-edged*3|,|small-town*1|,|melodramatic*1|,|suspenseful*2|,|popular*1|,|evocative*2|,|romantic*4|,|historical*2|,|exotic*1|,
+pptone:|realistic*2|,|serious*2|,
+storyline:|open-ended*1|,|complex*1|,|gentle*3|,|mystical*6|,|humorous*1|,|folksy*1|,|mythic*1|,
+pptopic:|sex*3|,|adoption*1|,|drinking*7|,|illustration*56|,|divorce*1|,
+characterization:|well-developed*1|,|believable*3|,
+lang_style:|complex*1|,|passionate*2|,|unusual*1|,|thoughtful*1|,
+pacing:|slow*2|,|fast*2|,

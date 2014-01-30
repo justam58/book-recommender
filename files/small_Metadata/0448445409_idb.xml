@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:41:49Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="who_was_marco_polo" isbn="0448445409" isbn13="9780448445403">
+<Title>Who was Marco Polo?</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Joan Holub; illustrated by John O'Brien</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">New York, N.Y. : Grosset &amp; Dunlap, c2007.</PublisherText>
+<Details change_time="2008-07-26T04:19:57Z" price_time="2012-11-15T15:26:50Z" edition_info="(pbk.)" language="eng" physical_description_text="105 p. : ill., maps ; 20 cm." lcc_number="G370" dewey_decimal_normalized="910.4" dewey_decimal="910.4" />
+</BookData>
+</BookList>
+</ISBNdb>

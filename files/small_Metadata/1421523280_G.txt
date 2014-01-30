@@ -1,0 +1,6 @@
+Title ===The Legend of Zelda===
+Author ===Akira Himekawa===
+PublicationDate ===2008-12-02===
+PageCount ===200===
+Type ===BOOK===
+AvgRate ===4.0===

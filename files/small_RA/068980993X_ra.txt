@@ -1,0 +1,6 @@
+frame:|heart-warming*1|,|small-town*1|,|contemporary*15|,|popular*1|,|evocative*1|,|romantic*1|,|historical*2|,
+pptone:|realistic*1|,|serious*1|,
+storyline:|thought-provoking*1|,|open-ended*1|,|complex*1|,|linear*1|,|gentle*2|,|humorous*16|,
+pptopic:|illustration*3|,
+characterization:|quirky*15|,|well-developed*3|,|evocative*1|,|believable*2|,|sympathetic*2|,
+lang_style:|complex*1|,|unusual*6|,|thoughtful*2|,

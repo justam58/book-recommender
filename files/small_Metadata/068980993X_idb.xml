@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:10:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_view_from_saturday" isbn="068980993X" isbn13="9780689809934">
+<Title>The view from Saturday</Title>
+<TitleLong></TitleLong>
+<AuthorsText>E. L. Konigsburg</AuthorsText>
+<PublisherText publisher_id="atheneum_books_for_young_reade">New York, N.Y. : Atheneum Books for Young Readers, c1996.</PublisherText>
+<Details change_time="2003-11-02T02:20:16Z" price_time="2013-02-04T04:20:06Z" edition_info="" language="eng" physical_description_text="163 p. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

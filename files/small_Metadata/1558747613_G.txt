@@ -1,0 +1,9 @@
+Title ===Chicken Soup for the Teenage Soul III===
+Author ===Jack Canfield===
+Author ===Mark Victor Hansen===
+Author ===Kimberly Kirberger===
+PublicationDate ===2000===
+Description ===Inspirational stories on life, love, and learning for teens, including contributions by teens.===
+PageCount ===369===
+Type ===BOOK===
+AvgRate ===4.0===

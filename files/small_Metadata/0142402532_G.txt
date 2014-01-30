@@ -1,0 +1,7 @@
+Title ===Matilda===
+Author ===Roald Dahl===
+PublicationDate ===2004-09-01===
+Description ===Matilda applies her untapped mental powers to rid the school of the evil, child-hating headmistress, Miss Trunchbull, and restore her nice teacher, Miss Honey, to financial security.===
+PageCount ===232===
+Type ===BOOK===
+AvgRate ===4.0===

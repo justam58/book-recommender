@@ -1,0 +1,4 @@
+frame:|historical*1|,
+storyline:|issue-oriented*2|,|action-oriented*2|,|tragic*1|,
+pptopic:|drinking*1|,|illustration*1|,
+characterization:|well-developed*12|,|believable*2|,|sympathetic*1|,

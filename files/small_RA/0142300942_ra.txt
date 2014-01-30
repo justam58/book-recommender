@@ -1,0 +1,4 @@
+frame:|hard-edged*3|,
+storyline:|humorous*1|,
+pptopic:|illustration*2|,
+characterization:|sympathetic*1|,

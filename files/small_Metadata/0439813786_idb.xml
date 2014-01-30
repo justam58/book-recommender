@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:09:34Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_invention_of_hugo_cabret" isbn="0439813786" isbn13="9780439813785">
+<Title>The invention of Hugo Cabret</Title>
+<TitleLong>The invention of Hugo Cabret: a novel in words and pictures</TitleLong>
+<AuthorsText>by Brian Selznick</AuthorsText>
+<PublisherText publisher_id="scholastic_press">New York : Scholastic Press, c2007.</PublisherText>
+<Details change_time="2008-10-26T07:49:55Z" price_time="2012-09-12T20:00:42Z" edition_info="(hardcover)" language="eng" physical_description_text="533 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

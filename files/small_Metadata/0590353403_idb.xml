@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:23:34Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harry_potter_and_the_sorcerers_stone_a03" isbn="0590353403" isbn13="9780590353403">
+<Title>Harry Potter and the sorcerer's stone</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by J. K. Rowling; illustrations by Mary Grandpré</AuthorsText>
+<PublisherText publisher_id="arthur_a_levine_books">New York : Arthur A. Levine Books, 1998, c1997.</PublisherText>
+<Details change_time="2003-11-05T09:12:05Z" price_time="2013-01-28T06:11:30Z" edition_info="(hardcover)" language="eng" physical_description_text="vi, 309 p. : ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

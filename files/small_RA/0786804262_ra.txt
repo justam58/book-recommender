@@ -1,0 +1,5 @@
+pptone:|sentimental*2|,
+storyline:|violent*7|,|tragic*1|,
+pptopic:|baby*3|,|disease*2|,
+characterization:|sympathetic*1|,
+lang_style:|complex*1|,|passionate*1|,

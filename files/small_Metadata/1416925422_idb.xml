@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:21:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="miss_spitfire" isbn="1416925422" isbn13="9781416925422">
+<Title>Miss Spitfire</Title>
+<TitleLong>Miss Spitfire: reaching Helen Keller</TitleLong>
+<AuthorsText>Sarah Miller</AuthorsText>
+<PublisherText publisher_id="atheneum_books_for_young_reade">New York : Atheneum Books for Young Readers, c2007.</PublisherText>
+<Details change_time="2011-04-09T04:29:50Z" price_time="2011-07-20T06:51:34Z" edition_info="(hc.)" language="eng" physical_description_text="208 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

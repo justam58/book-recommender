@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:35:17Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="charlie_and_the_chocolate_factory_a04" isbn="0141301155" isbn13="9780141301150">
+<Title>Charlie and the chocolate factory</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Roald Dahl; illustrated by Quentin Blake</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York : Puffin Books, 1998.</PublisherText>
+<Details change_time="2006-11-04T02:44:11Z" price_time="2012-09-09T00:26:38Z" edition_info="$4.98" language="eng" physical_description_text="155 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

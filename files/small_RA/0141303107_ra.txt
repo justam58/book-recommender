@@ -1,0 +1,5 @@
+pptone:|serious*1|,
+storyline:|humorous*3|,
+pptopic:|illustration*3|,
+characterization:|well-developed*1|,
+lang_style:|simple*2|,|classic*16|,|conversational*1|,

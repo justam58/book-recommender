@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:42:38Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="brothers_in_arms_a08" isbn="1591940176" isbn13="9781591940173">
+<Title>Brothers in Arms</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Paul Langan, Ben Alirez, </AuthorsText>
+<PublisherText publisher_id="townsend_pr">Townsend Pr</PublisherText>
+<Details change_time="2004-12-30T19:16:24Z" price_time="2010-11-05T04:43:38Z" edition_info="Paperback; 2004-01" language="" physical_description_text="4.5&quot;x0.5&quot;x7.0&quot;; 152 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

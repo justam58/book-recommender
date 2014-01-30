@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:25:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="first_day_jitters" isbn="158089061X" isbn13="9781580890618">
+<Title>First Day Jitters</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Julie Danneberg, Judith Dufour Love</AuthorsText>
+<PublisherText publisher_id="charlesbridge_publishing">Charlesbridge Publishing</PublisherText>
+<Details change_time="2004-12-22T16:13:44Z" price_time="2012-08-11T04:53:55Z" edition_info="Paperback; 2000-03-01" language="" physical_description_text="8.0&quot;x10.0&quot;x0.2&quot;; 32 pages; 0.3 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

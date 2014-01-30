@@ -1,0 +1,4 @@
+storyline:|humorous*1|,
+pptopic:|curse*3|,
+characterization:|quirky*3|,
+lang_style:|passionate*1|,

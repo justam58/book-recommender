@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:31:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="pain_and_the_great_one" isbn="0440409675" isbn13="9780440409670">
+<Title>The pain and the great one</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Judy Blume; illustrations by Irene Trivas</AuthorsText>
+<PublisherText publisher_id="dell_pub">New York, N.Y. : Dell Pub., 1985.</PublisherText>
+<Details change_time="2009-01-29T03:29:52Z" price_time="2012-09-21T21:03:32Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

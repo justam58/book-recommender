@@ -1,0 +1,8 @@
+Title ===The Savage===
+Author ===David Almond===
+Author ===Dave McKean===
+PublicationDate ===2008-10-14===
+Description ===A boy tells about a story he wrote when dealing with his father's death about a savage kid living in a ruined chapel in the woods--and the tale about the savage kid coming to life in the real world.===
+PageCount ===79===
+Type ===BOOK===
+AvgRate ===3.5===

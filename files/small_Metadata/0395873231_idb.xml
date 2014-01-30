@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:27:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="flying_solo_a06" isbn="0395873231" isbn13="9780395873236">
+<Title>Flying solo</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Ralph Fletcher</AuthorsText>
+<PublisherText publisher_id="clarion_books">New York : Clarion Books, c1998.</PublisherText>
+<Details change_time="2008-04-07T22:50:58Z" price_time="2011-11-21T09:08:55Z" edition_info="" language="eng" physical_description_text="158 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

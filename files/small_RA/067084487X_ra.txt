@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|heart-warming*1|,|school*1|,
+storyline:|issue-oriented*8|,|linear*1|,|conclusive*1|,|gentle*2|,|humorous*23|,|racy*1|,|action-oriented*8|,
+pptopic:|cynical*1|,|illustration*16|,|baby*1|,
+characterization:|linear*1|,
+lang_style:|unusual*3|,

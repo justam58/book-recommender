@@ -1,0 +1,7 @@
+frame:|heart-warming*1|,|small-town*1|,|contemporary*1|,|popular*3|,|evocative*1|,|gritty*1|,|romantic*3|,|descriptive*1|,|bittersweet*1|,
+pptone:|realistic*1|,|relaxing*1|,|serious*2|,
+storyline:|open-ended*1|,|linear*4|,|complex*1|,|gentle*1|,|racy*2|,|humorous*2|,|violent*1|,|mythic*1|,|inspirational*1|,
+pptopic:|sex*1|,|drinking*3|,|death*12|,
+characterization:|recognizable*6|,|quirky*1|,|well-developed*7|,|believable*17|,|sympathetic*5|,|literary*1|,
+lang_style:|complex*2|,|passionate*8|,|simple*3|,|poetic*1|,|unusual*3|,|natural*7|,
+pacing:|fast*1|,

@@ -1,0 +1,2 @@
+frame:|hard-edged*1|,
+storyline:|character-centered*1|,|family-centered*1|,|plot-centered*1|,

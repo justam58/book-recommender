@@ -1,0 +1,5 @@
+frame:|small-town*1|,|exotic*1|,
+pptone:|realistic*1|,
+storyline:|complex*1|,|humorous*1|,
+pptopic:|illustration*1|,
+lang_style:|complex*1|,|unusual*2|,

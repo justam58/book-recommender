@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:44:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="am_i_the_princess_or_the_frog" isbn="0439629071" isbn13="9780439629072">
+<Title>Am I the princess or the frog?</Title>
+<TitleLong>Am I the princess or the frog?: Jim Benton's tales from Mackerel Middle School</TitleLong>
+<AuthorsText>by Jamie Kelly</AuthorsText>
+<PublisherText publisher_id="scholastic_inc">New York : Scholastic Inc., c2005.</PublisherText>
+<Details change_time="2008-08-12T03:59:45Z" price_time="2012-10-26T05:20:39Z" edition_info="(pbk.)" language="eng" physical_description_text="148 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

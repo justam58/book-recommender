@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,
+pptone:|serious*1|,
+storyline:|gentle*1|,|inspirational*1|,
+pptopic:|bullying*1|,|illustration*2|,|divorce*11|,|violent*1|,|war*1|,
+characterization:|well-developed*1|,|believable*2|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*1|,|simple*1|,|unusual*2|,|thoughtful*5|,

@@ -1,0 +1,2 @@
+frame:|humorous*1|,
+pptopic:|violent*1|,

@@ -1,0 +1,7 @@
+frame:|hard-edged*2|,|small-town*1|,|popular*1|,|romantic*4|,|evocative*1|,
+pptone:|serious*2|,
+storyline:|open-ended*1|,|complex*1|,|linear*3|,|gentle*1|,|conclusive*2|,|mystical*1|,|tragic*4|,|episodic*1|,
+pptopic:|religion*1|,|technology*1|,|death*2|,|illustration*1|,|addiction*1|,|violent*2|,
+characterization:|well-developed*2|,
+lang_style:|complex*2|,|passionate*1|,|simple*2|,|unusual*7|,|thoughtful*1|,|natural*1|,|conversational*1|,
+pacing:|fast*1|,

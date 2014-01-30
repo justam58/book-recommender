@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:40:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="how_many_feet_how_many_tails_a_book_of_math_riddles" isbn="0590673602" isbn13="9780590673600">
+<Title>How Many Feet? How Many Tails? A Book of Math Riddles</Title>
+<TitleLong>How Many Feet? How Many Tails? A Book of Math Riddles (Hello Reader! Math, Level 2)</TitleLong>
+<AuthorsText>Marilyn Burns, Lynn Adams (Illustrator)</AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2006-05-26T22:03:15Z" price_time="2011-02-09T04:18:43Z" edition_info="Paperback; 1996-09" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

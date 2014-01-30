@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:46:41Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="ida_b" isbn="0060730250" isbn13="9780060730253">
+<Title>Ida B</Title>
+<TitleLong>Ida B: --and her plans to maximize fun, avoid disaster, and (possibly) save the world</TitleLong>
+<AuthorsText>Katherine Hannigan</AuthorsText>
+<PublisherText publisher_id="greenwillow_books">New York : Greenwillow Books, c2004.</PublisherText>
+<Details change_time="2005-04-04T00:12:36Z" price_time="2012-01-18T05:53:37Z" edition_info="(lib. bdg.) :$16.89" language="eng" physical_description_text="246 p. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

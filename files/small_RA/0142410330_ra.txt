@@ -1,0 +1,6 @@
+frame:|small-town*1|,|suspenseful*1|,|evocative*1|,
+pptone:|serious*1|,
+storyline:|linear*28|,|racy*1|,|humorous*2|,|violent*1|,|mythic*1|,
+pptopic:|illustration*5|,|baby*1|,
+characterization:|believable*1|,
+lang_style:|passionate*1|,|poetic*2|,|unusual*1|,

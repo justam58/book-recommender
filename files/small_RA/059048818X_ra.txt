@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,
+pptone:|serious*1|,
+storyline:|folksy*1|,
+pptopic:|illustration*9|,|baby*2|,|war*1|,
+characterization:|believable*1|,
+lang_style:|complex*1|,|simple*4|,|poetic*1|,|unusual*1|,
+pacing:|slow*1|,

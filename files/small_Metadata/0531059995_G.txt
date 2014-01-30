@@ -1,0 +1,7 @@
+Title ===Charlie Parker Played be Bop===
+PublicationDate ===1992===
+Description ===Introduces the famous saxophonist and his style of jazz known as bebop.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Juvenile Nonfiction===
+AvgRate ===3.5===

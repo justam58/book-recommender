@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,
+pptone:|serious*2|,
+storyline:|humorous*1|,
+lang_style:|unusual*1|,

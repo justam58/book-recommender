@@ -1,0 +1,8 @@
+Title ===The Bfg===
+Author ===Roald Dahl===
+PublicationDate ===2007-08===
+Description ===The BFG--Big Friendly Giant--kidnaps Sophie from her bed in the orphanage and takes her back to Giantland where she becomes involved in a scheme to end the loathsome activities of nine evil giants.===
+PageCount ===207===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

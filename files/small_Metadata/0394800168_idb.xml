@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:28:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="green_eggs_and_ham" isbn="0394800168" isbn13="9780394800165">
+<Title>Green eggs and ham</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Dr. Seuss</AuthorsText>
+<PublisherText publisher_id="beginner_books">New York, Beginner Books; c1960.</PublisherText>
+<Details change_time="2006-06-27T03:06:11Z" price_time="2012-12-20T18:47:23Z" edition_info="" language="eng" physical_description_text="62p. illus. 24 cm." lcc_number="PZ8.3" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

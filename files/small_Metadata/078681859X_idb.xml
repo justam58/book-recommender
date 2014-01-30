@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:20:57Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_amulet_of_samarkand_a02" isbn="078681859X" isbn13="9780786818594">
+<Title>The Amulet of Samarkand</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jonathan Stroud</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York : Hyperion Books For Children, c2003.</PublisherText>
+<Details change_time="2004-09-15T12:40:51Z" price_time="2012-08-04T16:18:40Z" edition_info="" language="eng" physical_description_text="462 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

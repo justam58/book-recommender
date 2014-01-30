@@ -1,0 +1,8 @@
+Title ===The Secret Garden===
+Author ===Frances Hodgson Burnett===
+PublicationDate ===2005-01-01===
+Description ===Presents an abridged version of the tale of ten-year-old Mary who, after the death of her parents, comes to live in a lonely house on the Yorkshire moors where she discovers an invalid cousin and the mysteries of a locked garden.===
+PageCount ===152===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

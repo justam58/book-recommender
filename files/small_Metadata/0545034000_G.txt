@@ -1,0 +1,7 @@
+Title ===Thief===
+Author ===Brian James===
+PublicationDate ===2008-06-01===
+Description ===The arrival of a new foster boy named Dune prompts Elizabeth to attempt to escape from the clutches of Sandra, a women who takes in foster kids and makes them steal for her.===
+PageCount ===247===
+Type ===BOOK===
+AvgRate ===3.5===

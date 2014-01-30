@@ -1,0 +1,4 @@
+frame:|humorous*1|,
+pptone:|serious*2|,
+lang_style:|simple*1|,|unusual*1|,
+pacing:|fast*1|,

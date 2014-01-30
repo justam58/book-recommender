@@ -1,0 +1,8 @@
+Title ===There's No Place Like Space===
+Author ===Tish Rabe===
+PublicationDate ===1999-10-26===
+Description ===Dr. Seuss's Cat in the Hat introduces Sally and Dick to the planets, stars, and moons in our universe.===
+PageCount ===48===
+Type ===BOOK===
+LCSH ===Juvenile Nonfiction===
+AvgRate ===4.0===

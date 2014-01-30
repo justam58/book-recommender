@@ -1,0 +1,4 @@
+frame:|romantic*1|,
+storyline:|humorous*4|,
+pptopic:|bullying*1|,|illustration*6|,
+lang_style:|passionate*1|,|poetic*2|,|unusual*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:36:14Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_light_on_hogback_hill_a01" isbn="002726453X" isbn13="9780027264531">
+<Title>The light on Hogback Hill</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Cynthia DeFelice</AuthorsText>
+<PublisherText publisher_id="macmillan_pub">New York : Macmillan Pub. ; c1993.</PublisherText>
+<Details change_time="2012-02-08T03:46:02Z" price_time="2012-02-08T03:46:21Z" edition_info="$13.95 ($17.95 Can.)" language="eng" physical_description_text="139 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:14:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_dog_who_thought_he_was_santa" isbn="0823421147" isbn13="9780823421145">
+<Title>The Dog Who Thought He Was Santa</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Bill Wallace, </AuthorsText>
+<PublisherText publisher_id="holiday_house">Holiday House</PublisherText>
+<Details change_time="2008-01-16T19:41:48Z" price_time="2011-12-13T20:45:38Z" edition_info="Hardcover; 2007-10-30" language="" physical_description_text="184 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

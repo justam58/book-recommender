@@ -1,0 +1,9 @@
+Title ===Charlie and the chocolate factory===
+Author ===Roald Dahl===
+Author ===Quentin Blake===
+PublicationDate ===1998===
+Description ===Each of five children lucky enough to discover an entry ticket into Mr. Willy Wonka's mysterious chocolate factory takes advantage of the situation in his own way.===
+PageCount ===155===
+Type ===BOOK===
+LCSH ===Drama===
+AvgRate ===4.0===

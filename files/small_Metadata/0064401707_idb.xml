@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:54:35Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="scary_stories_to_tell_in_the_dark_25th_anniversary_edition" isbn="0064401707" isbn13="9780064401708">
+<Title>Scary stories to tell in the dark</Title>
+<TitleLong></TitleLong>
+<AuthorsText>collected from folklore and retold by Alvin Schwartz; with drawings by Stephen Gammell</AuthorsText>
+<PublisherText publisher_id="harpertrophy">New York HarperTrophy, 1986, c1981.</PublisherText>
+<Details change_time="2009-10-12T19:59:14Z" price_time="2012-07-04T05:41:46Z" edition_info="(pbk.) :$5.99" language="eng" physical_description_text="viii 111 p. : ill. ; 23 cm." lcc_number="PZ8.1" dewey_decimal_normalized="398.25" dewey_decimal="398.2/5" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,7 @@
+Title ===Welcome to the River of Grass===
+Author ===Jane Yolen===
+PublicationDate ===2001-10-01===
+Description ===While the racoon washes his food, an alligator waits for his next meal to walk by, in a factual exploration of the environment and wildlife of the Everglades.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===3.5===

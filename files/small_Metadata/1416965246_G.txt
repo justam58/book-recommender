@@ -1,0 +1,9 @@
+Title ===Book Three of the Travelers===
+Author ===D.J. MacHale===
+Author ===Walter Sorrells===
+PublicationDate ===2009-03-24===
+Description ===A collection of short stories describes the adventures of travelers Loor, Siry Remudi, and Patrick Mac before they met Bobby Pendragon.===
+PageCount ===213===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

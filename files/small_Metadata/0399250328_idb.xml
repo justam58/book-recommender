@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:19:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="rangers_apprentice_the_sorcerer_of_the_north" isbn="0399250328" isbn13="9780399250323">
+<Title>The sorcerer of the north</Title>
+<TitleLong></TitleLong>
+<AuthorsText>John Flanagan</AuthorsText>
+<PublisherText publisher_id="philomel_books">New York, NY : Philomel Books, 2008.</PublisherText>
+<Details change_time="2008-12-18T04:30:30Z" price_time="2013-01-15T05:21:21Z" edition_info="HRD$17.99" language="eng" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

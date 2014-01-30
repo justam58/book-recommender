@@ -1,0 +1,6 @@
+frame:|hard-edged*4|,|heart-warming*1|,|philosophical*1|,|contemporary*1|,|popular*6|,|evocative*2|,|romantic*2|,|light-hearted*1|,|historical*2|,|exotic*1|,
+pptone:|old-fashioned*1|,|relaxing*1|,|serious*6|,
+storyline:|complex*1|,|issue-oriented*1|,|linear*2|,|conclusive*1|,|philosophical*1|,|humorous*1|,|action-oriented*1|,|open-ended*1|,|family-centered*3|,|character-centered*3|,|gentle*2|,|plot-centered*3|,|racy*3|,|tragic*1|,|inspirational*1|,
+pptopic:|religion*7|,|politics*2|,|sex*5|,|technology*1|,|death*1|,|illustration*1|,
+characterization:|quirky*1|,|stereotypes*1|,|well-developed*3|,|distant*1|,|evocative*1|,|believable*3|,
+lang_style:|complex*1|,|passionate*4|,|simple*2|,|dramatic*1|,|unusual*9|,|thoughtful*2|,|natural*1|,|classic*1|,

@@ -1,0 +1,5 @@
+frame:|hard-edged*3|,|contemporary*1|,|romantic*2|,
+pptone:|realistic*1|,|serious*1|,
+storyline:|complex*1|,|open-ended*1|,|humorous*1|,
+characterization:|well-developed*2|,|believable*1|,|sympathetic*2|,
+lang_style:|simple*1|,|unusual*1|,|natural*1|,

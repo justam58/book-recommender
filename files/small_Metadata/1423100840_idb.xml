@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:44:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_million_dollar_shot_a03" isbn="1423100840" isbn13="9781423100843">
+<Title>The million dollar shot</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Dan Gutman</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York : Hyperion Books for Children, 1997.</PublisherText>
+<Details change_time="2010-04-25T18:07:58Z" price_time="2012-03-29T14:52:36Z" edition_info="(pbk.)" language="eng" physical_description_text="114 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

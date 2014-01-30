@@ -1,0 +1,6 @@
+frame:|popular*1|,|historical*1|,
+pptone:|realistic*3|,
+storyline:|complex*1|,|issue-oriented*1|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|racy*1|,|action-oriented*1|,
+pptopic:|illustration*3|,
+lang_style:|seemly*1|,
+pacing:|stately*1|,

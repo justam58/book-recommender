@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:12:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="from_the_mixed_up_files_of_mrs_basil_e_frankweiler_a09" isbn="0440228026" isbn13="9780440228028">
+<Title>From the Mixed-Up Files of Mrs. Basil E. Frankweiler</Title>
+<TitleLong></TitleLong>
+<AuthorsText>E.L. Konigsburg, </AuthorsText>
+<PublisherText publisher_id="yearling">Yearling</PublisherText>
+<Details change_time="2007-07-28T21:17:29Z" price_time="2012-09-20T18:49:45Z" edition_info="Mass Market Paperback; 1998-06-08" language="" physical_description_text="160 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

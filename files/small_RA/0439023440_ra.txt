@@ -1,0 +1,5 @@
+frame:|small-town*5|,|bittersweet*1|,
+storyline:|complex*1|,|linear*1|,|character-centered*5|,|family-centered*5|,|plot-centered*5|,|folksy*1|,|humorous*3|,|racy*1|,|violent*1|,|tragic*1|,|episodic*5|,
+pptopic:|baby*1|,|violent*1|,|war*3|,
+characterization:|well-developed*2|,|believable*1|,
+lang_style:|unusual*1|,

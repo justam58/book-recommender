@@ -1,0 +1,2 @@
+storyline:|linear*1|,
+characterization:|believable*1|,|sympathetic*2|,

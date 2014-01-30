@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:00:54Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_new_kid_on_the_block" isbn="0688022715" isbn13="9780688022716">
+<Title>The new kid on the block</Title>
+<TitleLong>The new kid on the block: poems</TitleLong>
+<AuthorsText>by Jack Prelutsky; drawings by James Stevenson</AuthorsText>
+<PublisherText publisher_id="greenwillow_books">New York : Greenwillow Books, c1984.</PublisherText>
+<Details change_time="2003-11-06T11:26:48Z" price_time="2012-02-13T14:38:49Z" edition_info="" language="eng" physical_description_text="159 p. : ill. ; 24 cm." lcc_number="PS3566" dewey_decimal_normalized="811.54" dewey_decimal="811/.54" />
+</BookData>
+</BookList>
+</ISBNdb>

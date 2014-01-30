@@ -1,0 +1,8 @@
+Title ===The Truth about Stacey===
+Author ===Raina Telgemeier===
+Author ===Ann M. Martin===
+PublicationDate ===2006-11-01===
+Description ===Stacey, a member of the Baby-sitters Club, struggles with her parents who refuse to accept that she has diabetes, baby-sitting problems, and a rival baby-sitting club.===
+PageCount ===141===
+Type ===BOOK===
+AvgRate ===3.5===

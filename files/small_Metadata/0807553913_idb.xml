@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:26:52Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mystery_ranch" isbn="0807553913" isbn13="9780807553916">
+<Title>Mystery Ranch</Title>
+<TitleLong>Mystery Ranch (Boxcar Children Series, No 4)</TitleLong>
+<AuthorsText>Gertrude Chandler Warner, Dirk Gringhuis, </AuthorsText>
+<PublisherText publisher_id="albert_whitman_company">Albert Whitman &amp; Company</PublisherText>
+<Details change_time="2005-01-07T11:22:46Z" price_time="2012-09-11T18:46:44Z" edition_info="Paperback; 1989-09-01" language="" physical_description_text="5.2&quot;x7.7&quot;x0.4&quot;; 127 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,4 @@
+frame:|small-town*2|,|popular*2|,
+pptopic:|divorce*5|,
+characterization:|believable*2|,
+lang_style:|passionate*2|,|unusual*2|,|thoughtful*3|,

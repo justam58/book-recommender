@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:31:04Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_lost_world_a07" isbn="034540288X" isbn13="9780345402882">
+<Title>The lost world</Title>
+<TitleLong>The lost world: a novel</TitleLong>
+<AuthorsText>Michael Crichton</AuthorsText>
+<PublisherText publisher_id="knopf">New York : Knopf, 1995.</PublisherText>
+<Details change_time="2008-12-01T05:04:39Z" price_time="2012-12-24T01:36:32Z" edition_info="(pbk.)" language="eng" physical_description_text="xi, 393 p. : ill. ; 25 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

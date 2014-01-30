@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:29:54Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="warriors_6_the_darkest_hour" isbn="0060000074" isbn13="9780060000073">
+<Title>The darkest hour</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Erin Hunter</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, c2004.</PublisherText>
+<Details change_time="2010-05-03T01:57:20Z" price_time="2011-07-10T03:09:57Z" edition_info="" language="eng" physical_description_text="315 p., [4] p. of plates : map ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,8 @@
+Title ===Harriet the spy===
+Author ===Louise Fitzhugh===
+PublicationDate ===1990-05-01===
+Description ===The revelation of Harriet's secret journal, recording the activities of her neighbors and schoolmates, causes chaos.===
+PageCount ===298===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.5===

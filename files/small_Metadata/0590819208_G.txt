@@ -1,0 +1,7 @@
+Title ===The canary caper===
+Author ===Ron Roy===
+PublicationDate ===1998===
+Description ===Dink and his friends investigate why pets, like Mrs. Davis's canary, Mozart, are mysteriously disappearing all over town.===
+PageCount ===86===
+Type ===BOOK===
+AvgRate ===3.5===

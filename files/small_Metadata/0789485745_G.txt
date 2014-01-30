@@ -1,0 +1,8 @@
+Title ===Star Wars===
+Author ===Curtis J. Saxton===
+PublicationDate ===2002===
+Description ===Fans can see the inner workings of the spacecraft and vehicles from the latest Star Wars movie and learn important information found nowhere else about the use, structure, and technology of each. 150,000 first printing.===
+PageCount ===31===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

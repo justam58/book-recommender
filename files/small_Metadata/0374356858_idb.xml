@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:28:49Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="owney_the_mail_pouch_pooch" isbn="0374356858" isbn13="9780374356859">
+<Title>Owney, the mail pouch pooch</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Mona Kerby; pictures by Lynne Barasch</AuthorsText>
+<PublisherText publisher_id="farrar_straus_giroux_a01">New York : Farrar Straus Giroux, 2008.</PublisherText>
+<Details change_time="2008-12-15T03:18:00Z" price_time="2010-10-12T08:22:58Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : ill." lcc_number="PZ10.3" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

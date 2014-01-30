@@ -1,0 +1,8 @@
+Title ===The Adventures of Tintin===
+Author ===Hergé===
+PublicationDate ===2003-06===
+Description ===3 Tegneserier i farver med detektiven Tintin.===
+PageCount ===191===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.0===

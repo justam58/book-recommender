@@ -1,0 +1,5 @@
+frame:|humorous*1|,|rural*4|,
+pptone:|serious*1|,
+storyline:|humorous*1|,
+characterization:|quirky*1|,|well-developed*1|,
+lang_style:|passionate*2|,|unusual*1|,|conversational*1|,

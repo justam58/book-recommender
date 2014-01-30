@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|humorous*12|,
+storyline:|character-centered*1|,|family-centered*1|,|plot-centered*1|,|humorous*2|,
+pptopic:|bullying*1|,
+characterization:|well-developed*1|,|believable*2|,

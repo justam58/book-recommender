@@ -1,0 +1,6 @@
+frame:|humorous*8|,|bittersweet*1|,
+pptone:|dark*1|,
+storyline:|issue-oriented*1|,|open-ended*1|,|gentle*1|,|mystical*1|,|humorous*3|,|action-oriented*1|,|tragic*10|,
+pptopic:|death*2|,|illustration*4|,|addiction*1|,|baby*3|,|war*1|,
+characterization:|stereotypes*8|,|well-developed*1|,|believable*2|,|sympathetic*2|,
+lang_style:|complex*2|,|passionate*2|,|unusual*5|,

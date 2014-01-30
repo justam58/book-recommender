@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|small-town*3|,|romantic*1|,
+pptone:|quirky*1|,|happy*1|,
+storyline:|complex*1|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,
+pptopic:|sex*2|,|drinking*1|,|illustration*1|,|addiction*5|,|baby*1|,
+characterization:|believable*1|,
+lang_style:|passionate*2|,|unusual*2|,
+pacing:|easy*1|,|fast*1|,

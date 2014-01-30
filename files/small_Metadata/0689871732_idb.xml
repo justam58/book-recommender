@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:10:42Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_thief_and_the_beanstalk" isbn="0689871732" isbn13="9780689871733">
+<Title>The thief and the beanstalk</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Paul Catanese</AuthorsText>
+<PublisherText publisher_id="aladdin_paperbacks">New York, NY : Aladdin Paperbacks, 2005.</PublisherText>
+<Details change_time="2005-01-08T10:09:04Z" price_time="2012-07-31T21:33:56Z" edition_info="" language="eng" physical_description_text="p. cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

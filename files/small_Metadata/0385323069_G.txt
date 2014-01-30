@@ -1,0 +1,7 @@
+Title ===Bud, not Buddy===
+Author ===Christopher Paul Curtis===
+PublicationDate ===1999-09-07===
+Description ===Ten-year-old Bud, a motherless boy living in Flint, Michigan, during the Great Depression, escapes a bad foster home and sets out in search of the man he believes to be his father--the renowned bandleader, H. E. Calloway of Grand Rapids.===
+PageCount ===245===
+Type ===BOOK===
+AvgRate ===4.5===

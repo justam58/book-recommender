@@ -1,0 +1,7 @@
+Title ===The Little Prince===
+Author ===Antoine De Saint-Exupery===
+PublicationDate ===1971-01-01===
+Description ===An aviator whose plane is forced down in the Sahara Desert encounters a little man from a small planet who describes his adventures in the universe seeking the secret of what is really important in life.===
+PageCount ===112===
+Type ===BOOK===
+AvgRate ===4.0===

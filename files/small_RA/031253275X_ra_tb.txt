@@ -1,0 +1,4 @@
+frame:|small-town*1|,
+pptone:|dark*1|,
+pptopic:|death*1|,|illustration*1|,
+characterization:|well-developed*1|,|believable*1|,

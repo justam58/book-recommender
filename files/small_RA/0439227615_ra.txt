@@ -1,0 +1,4 @@
+storyline:|linear*1|,|humorous*2|,
+pptopic:|drinking*1|,|illustration*8|,
+characterization:|believable*1|,
+lang_style:|complex*7|,|passionate*1|,|unusual*9|,

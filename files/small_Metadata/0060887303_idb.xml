@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:25:28Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="pretty_little_liars" isbn="0060887303" isbn13="9780060887308">
+<Title>Pretty Little Liars</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Sara Shepard, </AuthorsText>
+<PublisherText publisher_id="harperteen">HarperTeen</PublisherText>
+<Details change_time="2007-01-23T17:02:07Z" price_time="2012-02-23T06:06:33Z" edition_info="Hardcover; 2006-10-01" language="" physical_description_text="304 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

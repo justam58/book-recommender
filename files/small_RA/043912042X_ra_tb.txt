@@ -1,0 +1,3 @@
+frame:|romantic*1|,
+pptone:|serious*1|,
+storyline:|inspirational*1|,

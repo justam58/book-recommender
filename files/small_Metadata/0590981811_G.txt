@@ -1,0 +1,8 @@
+Title ===My side of the mountain===
+Author ===Jean Craighead George===
+PublicationDate ===1988===
+Description ===Little Willie hopes to pay the back taxes on his grandfather's farm with the purse from a dog sled race he enters.===
+PageCount ===177===
+Type ===BOOK===
+LCSH ===Education===
+AvgRate ===3.5===

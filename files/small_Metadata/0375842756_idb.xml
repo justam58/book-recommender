@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:37:04Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_ugly_guide_to_the_uglyverse" isbn="0375842756" isbn13="9780375842757">
+<Title>The ugly guide to the uglyverse</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by David Horvath and Sun-Min Kim</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2008.</PublisherText>
+<Details change_time="2009-01-21T19:47:09Z" price_time="2012-07-23T19:56:13Z" edition_info="(trade)" language="eng" physical_description_text="1 v. : col. ill. ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

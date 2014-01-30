@@ -1,0 +1,7 @@
+Title ===How to Train Your Dragon===
+Author ===Cressida Cowell===
+PublicationDate ===2004-05-01===
+Description ===Chronicles the adventures and misadventures of Hiccup Horrendous Haddock III as he tries to pass the important initiation test of his Viking clan, the Tribe of the Hairy Hooligans, by catching and training a dragon.===
+PageCount ===224===
+Type ===BOOK===
+AvgRate ===3.0===

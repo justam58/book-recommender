@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:57:55Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="alices_adventures_in_wonderland_and_through_the_looking__a15" isbn="0451523202" isbn13="9780451523204">
+<Title>Alice's Adventures in Wonderland and Through the Looking-Glass</Title>
+<TitleLong>Alice's Adventures in Wonderland and Through the Looking-Glass (Signet Classics (Paperback))</TitleLong>
+<AuthorsText>Lewis Carroll, </AuthorsText>
+<PublisherText publisher_id="signet_classics">Signet Classics</PublisherText>
+<Details change_time="2006-06-24T02:22:19Z" price_time="2012-09-19T22:43:21Z" edition_info="Paperback; 1960-04-01" language="" physical_description_text="240 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

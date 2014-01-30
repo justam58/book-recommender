@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:03:12Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="sent" isbn="1416954228" isbn13="9781416954224">
+<Title>Sent</Title>
+<TitleLong>Sent (Missing)</TitleLong>
+<AuthorsText>Margaret Peterson Haddix, </AuthorsText>
+<PublisherText publisher_id="simon_schuster_childrens_publi">Simon &amp; Schuster Children's Publishing</PublisherText>
+<Details change_time="2008-12-12T15:24:27Z" price_time="2010-12-14T20:37:20Z" edition_info="Hardcover; 2009-08-25" language="" physical_description_text="320 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

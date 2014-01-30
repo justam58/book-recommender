@@ -1,0 +1,8 @@
+Title ===Eragon===
+Author ===Christopher Paolini===
+PublicationDate ===2003-08-26===
+Description ===In Alagaèesia, a fifteen-year-old boy of unknown lineage called Eragon finds a mysterious stone that weaves his life into an intricate tapestry of destiny, magic, and power, peopled with dragons, elves, and monsters.===
+PageCount ===509===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.5===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:56:28Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="chinese_cinderella_a01" isbn="0385327072" isbn13="9780385327077">
+<Title>Chinese Cinderella</Title>
+<TitleLong>Chinese Cinderella: the true story of an unwanted daughter</TitleLong>
+<AuthorsText>Adeline Yen Mah</AuthorsText>
+<PublisherText publisher_id="delacorte_press">New York : Delacorte Press, c1999.</PublisherText>
+<Details change_time="2007-08-29T13:54:30Z" price_time="2012-10-10T21:57:01Z" edition_info="" language="eng" physical_description_text="xv, 205 p. : ill. ; 22 cm." lcc_number="CT275" dewey_decimal_normalized="979.40049510092" dewey_decimal="979.4/004951/0092" />
+</BookData>
+</BookList>
+</ISBNdb>

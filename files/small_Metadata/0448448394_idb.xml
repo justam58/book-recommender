@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:18:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="who_was_queen_elizabeth" isbn="0448448394" isbn13="9780448448398">
+<Title>Who Was Queen Elizabeth?</Title>
+<TitleLong>Who Was Queen Elizabeth? (Who Was...?)</TitleLong>
+<AuthorsText>June Eding, Nancy Harrison (Illustrator)</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">Grosset &amp; Dunlap</PublisherText>
+<Details change_time="2008-08-30T04:56:21Z" price_time="2012-12-13T22:24:32Z" edition_info="Paperback; 2008-07-03" language="" physical_description_text="5.1&quot;x7.4&quot;x0.5&quot;; 0.2 lb; 112 pages" lcc_number="" dewey_decimal_normalized="942.055092" dewey_decimal="942.055092" />
+</BookData>
+</BookList>
+</ISBNdb>

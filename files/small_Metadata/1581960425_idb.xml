@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:48:58Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="punished" isbn="1581960425" isbn13="9781581960426">
+<Title>Punished!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>David Lubar, </AuthorsText>
+<PublisherText publisher_id="darby_creek_publishing">Darby Creek Publishing</PublisherText>
+<Details change_time="2006-06-28T17:25:03Z" price_time="2011-10-06T13:26:04Z" edition_info="Hardcover; 2005-12-09" language="" physical_description_text="96 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

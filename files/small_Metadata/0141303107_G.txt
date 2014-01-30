@@ -1,0 +1,7 @@
+Title ===Going Solo===
+Author ===Roald Dahl===
+PublicationDate ===1986===
+Description ===As a young man working in East Africa for the Shell Company, Roald Dahl recounts his adventures living in the jungle and later flying a fighter plane in World War II.===
+PageCount ===209===
+Type ===BOOK===
+AvgRate ===4.5===

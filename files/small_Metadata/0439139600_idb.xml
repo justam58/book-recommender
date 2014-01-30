@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:23:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harry_potter_and_the_goblet_of_fire_a03" isbn="0439139600" isbn13="9780439139601">
+<Title>Harry Potter and the goblet of fire</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by J. K. Rowling; illustrations by Mary GrandPré</AuthorsText>
+<PublisherText publisher_id="a_a_levine_books_scholastic">New York : A.A. Levine Books/Scholastic, 2000.</PublisherText>
+<Details change_time="2009-07-08T17:44:52Z" price_time="2013-01-26T05:45:40Z" edition_info="(pbk)" language="eng" physical_description_text="xi, 734 p. : ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

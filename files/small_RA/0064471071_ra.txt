@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|psychological*1|,|historical*1|,|exotic*1|,
+storyline:|mystical*35|,|gentle*1|,|humorous*1|,
+pptopic:|illustration*4|,|curse*1|,
+characterization:|well-developed*5|,|believable*3|,|sympathetic*1|,
+lang_style:|simple*1|,|unusual*3|,

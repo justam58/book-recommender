@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:00:47Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_haunted_hotel_a02" isbn="0679890793" isbn13="9780679890799">
+<Title>The haunted hotel</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Ron Roy; illustrated by John Steven Gurney</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1999.</PublisherText>
+<Details change_time="2007-06-13T00:51:06Z" price_time="2012-07-13T02:50:20Z" edition_info="(trade)" language="eng" physical_description_text="86 p. : ill. ; 19 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

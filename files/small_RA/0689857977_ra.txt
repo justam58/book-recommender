@@ -1,0 +1,6 @@
+frame:|exotic*1|,
+pptone:|realistic*1|,
+pptopic:|technology*1|,|death*1|,|illustration*1|,|addiction*1|,|violent*1|,|war*1|,
+characterization:|well-developed*5|,
+lang_style:|passionate*1|,
+pacing:|fast*4|,

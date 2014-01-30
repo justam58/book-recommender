@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:05:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_tiger_rising_a01" isbn="0763618985" isbn13="9780763618988">
+<Title>The tiger rising</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Kate DiCamillo</AuthorsText>
+<PublisherText publisher_id="candelwick_press">Cambridge, Mass. : Candelwick Press, 2001.</PublisherText>
+<Details change_time="2009-07-08T07:02:39Z" price_time="2012-09-20T04:03:52Z" edition_info="(pbk. : 2002)" language="eng" physical_description_text="116 p. ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

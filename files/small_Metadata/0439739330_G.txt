@@ -1,0 +1,8 @@
+Title ===The Baby-Sitters Club===
+Author ===Ann M. Martin===
+Author ===Raina Telgemeier===
+PublicationDate ===2006-04-01===
+Description ===Follows the adventures of Kristy and the other members of the Baby-sitters Club as they deal with crank calls, uncontrollable two-year-olds, wild pets, and parents who do not always tell the truth. A graphic novel based on the 1988 book by the same name.===
+PageCount ===186===
+Type ===BOOK===
+AvgRate ===3.5===

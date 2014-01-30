@@ -1,0 +1,3 @@
+pptopic:|illustration*5|,
+characterization:|well-developed*3|,
+lang_style:|simple*2|,|unusual*2|,|thoughtful*1|,

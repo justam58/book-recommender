@@ -1,0 +1,7 @@
+Title ===My Lucky Day===
+Author ===Keiko Kasza===
+PublicationDate ===2003-09-01===
+Description ===When a young pig knocks on a fox's door, Mr. Fox thinks dinner has arrived, but the pig has other plans, in a funny trickster tale with a surprise ending.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===4.0===

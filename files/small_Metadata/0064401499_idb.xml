@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:06:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="hello_mrs_piggle_wiggle" isbn="0064401499" isbn13="9780064401494">
+<Title>Hello, Mrs. Piggle-Wiggle</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Betty MacDonald; illustrations by Alexandra Boiger</AuthorsText>
+<PublisherText publisher_id="harpercollins_childrens_bo_a01">New York : HarperCollins Childrens Books, 2007.</PublisherText>
+<Details change_time="2010-01-28T04:16:51Z" price_time="2012-06-06T04:08:44Z" edition_info="" language="eng" physical_description_text="159 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

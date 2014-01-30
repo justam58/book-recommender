@@ -1,0 +1,2 @@
+frame:|hard-edged*1|,|gritty*1|,
+pptopic:|illustration*1|,

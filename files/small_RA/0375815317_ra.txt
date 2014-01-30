@@ -1,0 +1,4 @@
+pptone:|old-fashioned*1|,|serious*1|,
+storyline:|open-ended*1|,|racy*1|,
+pptopic:|war*1|,
+pacing:|easy*1|,

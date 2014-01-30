@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:22:04Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="my_weird_school_2_mr_klutz_is_nuts" isbn="0060507020" isbn13="9780060507022">
+<Title>Mr. Klutz is nuts!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Dan Gutman; pictures by Jim Paillot</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, c2004.</PublisherText>
+<Details change_time="2008-03-22T20:12:36Z" price_time="2012-07-31T22:22:49Z" edition_info="" language="eng" physical_description_text="96 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

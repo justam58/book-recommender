@@ -1,0 +1,10 @@
+Title ===Chicken soup for the teenage soul===
+Author ===Jack Canfield===
+Author ===Mark Victor Hansen===
+Author ===Kimberly Kirberger===
+PublicationDate ===1997===
+Description ===Shares anecdotes about friendship, family life, love, kindness, success, learning, and ambition===
+PageCount ===354===
+Type ===BOOK===
+LCSH ===Family & Relationships===
+AvgRate ===4.0===

@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,
+pptone:|relaxing*1|,|serious*2|,
+storyline:|issue-oriented*1|,|linear*3|,|gentle*1|,|humorous*4|,|racy*1|,|action-oriented*1|,|mythic*1|,|tragic*1|,
+pptopic:|illustration*9|,
+characterization:|well-developed*1|,
+lang_style:|complex*1|,|passionate*1|,|simple*1|,|unusual*2|,

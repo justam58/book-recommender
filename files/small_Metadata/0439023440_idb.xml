@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:40:56Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="elijah_of_buxton" isbn="0439023440" isbn13="9780439023443">
+<Title>Elijah of Buxton</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Christopher Paul Curtis</AuthorsText>
+<PublisherText publisher_id="scholastic_press">New York : Scholastic Press, 2007.</PublisherText>
+<Details change_time="2008-09-12T04:06:43Z" price_time="2012-12-26T06:41:30Z" edition_info="(trade bdg.)" language="eng" physical_description_text="341 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:03:53Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="honey_i_shrunk_the_kids_a02" isbn="0590421190" isbn13="9780590421195">
+<Title>Honey, I Shrunk the Kids</Title>
+<TitleLong>Honey, I Shrunk the Kids (Reading Level 4, Ages 8-Up)</TitleLong>
+<AuthorsText>B.B. Hiller, Neil W. Hiller, </AuthorsText>
+<PublisherText publisher_id="apple">Apple</PublisherText>
+<Details change_time="2005-01-13T18:40:02Z" price_time="2011-05-12T14:32:56Z" edition_info="Paperback; 1989-06-01" language="" physical_description_text="0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

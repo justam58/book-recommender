@@ -1,0 +1,7 @@
+frame:|hard-edged*5|,|heart-warming*1|,|small-town*1|,|school*1|,|suspenseful*3|,|popular*4|,|romantic*2|,|humorous*3|,|descriptive*1|,
+pptone:|quirky*1|,|happy*1|,
+storyline:|thought-provoking*1|,|open-ended*2|,|complex*2|,|gentle*1|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|racy*1|,|humorous*14|,|tragic*1|,|inspirational*1|,
+pptopic:|politics*1|,|bullying*16|,|sex*1|,|addiction*1|,|baby*3|,
+characterization:|quirky*6|,|multiple points of view*1|,|well-developed*7|,|believable*7|,|sympathetic*4|,
+lang_style:|extravagant*1|,|passionate*2|,|simple*1|,|unusual*5|,
+pacing:|fast*1|,

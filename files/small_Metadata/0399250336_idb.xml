@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:19:51Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="rangers_apprentice_a03" isbn="0399250336" isbn13="9780399250330">
+<Title>Ranger's Apprentice</Title>
+<TitleLong>Ranger's Apprentice: The Siege of Macindaw: Book 6</TitleLong>
+<AuthorsText>John Flanagan, </AuthorsText>
+<PublisherText publisher_id="philomel">Philomel</PublisherText>
+<Details change_time="2009-02-05T15:34:30Z" price_time="2013-01-15T05:21:48Z" edition_info="Hardcover; 2009-08-11" language="" physical_description_text="320 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

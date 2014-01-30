@@ -1,0 +1,7 @@
+frame:|hard-edged*1|,|contemporary*1|,|romantic*1|,
+pptone:|serious*1|,
+storyline:|complex*2|,|gentle*1|,|humorous*2|,
+pptopic:|addiction*1|,|curse*2|,|violent*1|,
+characterization:|recognizable*1|,|linear*1|,|well-developed*3|,|distant*1|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*3|,|dramatic*1|,|unusual*1|,|thoughtful*1|,
+pacing:|fast*3|,

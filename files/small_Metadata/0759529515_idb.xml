@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:52:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="maximum_ride_vol_1_manga" isbn="0759529515" isbn13="9780759529519">
+<Title>Maximum Ride, Vol. 1 Manga</Title>
+<TitleLong>Maximum Ride, Vol. 1 Manga (Maximum Ride The Manga)</TitleLong>
+<AuthorsText>James Patterson, NaRae Lee, </AuthorsText>
+<PublisherText publisher_id="yen_press">Yen Press</PublisherText>
+<Details change_time="2008-11-16T21:51:44Z" price_time="2012-06-20T02:54:57Z" edition_info="Paperback; 2009-01-27" language="" physical_description_text="256 pages" lcc_number="" dewey_decimal_normalized="741" dewey_decimal="741" />
+</BookData>
+</BookList>
+</ISBNdb>

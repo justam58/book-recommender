@@ -1,0 +1,5 @@
+frame:|evocative*1|,|humorous*9|,
+storyline:|gentle*1|,|humorous*32|,
+pptopic:|bullying*7|,|violent*1|,
+characterization:|believable*1|,
+lang_style:|simple*1|,|unusual*2|,

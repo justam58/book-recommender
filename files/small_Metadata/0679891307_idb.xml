@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:59:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_smells_something_fishy_a02" isbn="0679891307" isbn13="9780679891307">
+<Title>Junie B. Jones smells something fishy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1998.</PublisherText>
+<Details change_time="2003-11-22T05:47:34Z" price_time="2012-12-16T05:16:16Z" edition_info="(pbk.)" language="eng" physical_description_text="66 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

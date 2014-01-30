@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|school*1|,|evocative*1|,|romantic*2|,|humorous*2|,|descriptive*1|,
+pptone:|realistic*11|,|old-fashioned*1|,|serious*1|,
+storyline:|issue-oriented*1|,|gentle*1|,|humorous*7|,|racy*1|,|violent*1|,|action-oriented*1|,
+pptopic:|religion*1|,|bullying*1|,|sex*1|,|illustration*16|,|addiction*1|,
+characterization:|well-developed*1|,
+lang_style:|passionate*4|,|simple*3|,|unusual*4|,|thoughtful*1|,|conversational*1|,

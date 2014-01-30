@@ -1,0 +1,7 @@
+Title ===Magic Tree House Collection 1 Books 1-4===
+Author ===Mary Pope Osborne===
+PublicationDate ===1996-07-01===
+Description ===Eight-year-old Jack and his younger sister Annie find a magic treehouse. Each book in the collection takes them to different places.===
+PageCount ===295===
+Type ===BOOK===
+AvgRate ===4.0===

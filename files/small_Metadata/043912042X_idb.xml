@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:05:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="esperanza_rising_a01" isbn="043912042X" isbn13="9780439120425">
+<Title>Esperanza rising</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Pam Muñoz Ryan</AuthorsText>
+<PublisherText publisher_id="scholastic_press">New York : Scholastic Press, 2000.</PublisherText>
+<Details change_time="2004-09-30T21:59:05Z" price_time="2012-12-07T02:11:22Z" edition_info="" language="eng" physical_description_text="262 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

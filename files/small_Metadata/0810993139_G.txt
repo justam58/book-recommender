@@ -1,0 +1,7 @@
+Title ===Diary of a wimpy kid===
+Author ===Jeff Kinney===
+PublicationDate ===2007-07===
+Description ===Greg records his sixth grade experiences in a middle school where he and his best friend, Rowley, undersized weaklings amid boys who need to shave twice daily, hope just to survive, but when Rowley grows more popular, Greg must take drastic measures to save their friendship.===
+PageCount ===217===
+Type ===BOOK===
+AvgRate ===3.5===

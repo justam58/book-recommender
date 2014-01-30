@@ -1,0 +1,6 @@
+frame:|humorous*2|,|historical*1|,|bittersweet*1|,
+storyline:|racy*1|,
+pptopic:|illustration*1|,
+characterization:|quirky*1|,|believable*1|,
+lang_style:|unusual*1|,
+pacing:|fast*2|,

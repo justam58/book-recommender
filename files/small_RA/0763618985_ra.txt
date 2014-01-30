@@ -1,0 +1,5 @@
+frame:|hard-edged*2|,|small-town*1|,|humorous*10|,
+storyline:|linear*3|,|gentle*2|,|humorous*1|,|racy*2|,|tragic*5|,
+pptopic:|death*1|,|disease*2|,
+characterization:|well-developed*2|,|distant*1|,|believable*2|,
+lang_style:|complex*1|,|extravagant*12|,|passionate*6|,|unusual*2|,|natural*1|,

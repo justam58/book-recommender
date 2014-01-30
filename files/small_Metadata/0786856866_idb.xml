@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:27:02Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="percy_jackson_the_olympians_the_sea_of_monsters_book_two" isbn="0786856866" isbn13="9780786856862">
+<Title>The sea of monsters</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Rick Riordan</AuthorsText>
+<PublisherText publisher_id="miramax_books_hyperion_books_f">New York : Miramax Books/Hyperion Books for Children, c2006.</PublisherText>
+<Details change_time="2010-04-26T05:07:46Z" price_time="2012-12-05T16:50:18Z" edition_info="" language="eng" physical_description_text="279 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

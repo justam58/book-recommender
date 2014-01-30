@@ -1,0 +1,6 @@
+Title ===Whales & Dolphins===
+Author ===Caroline Bingham===
+PublicationDate ===2003-05-01===
+Description ===Plunge into the ocean and meet these mysterious sea creatures.===
+PageCount ===48===
+Type ===BOOK===

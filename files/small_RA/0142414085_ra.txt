@@ -1,0 +1,3 @@
+storyline:|thought-provoking*1|,|inspirational*1|,
+pptopic:|death*1|,|war*2|,
+lang_style:|simple*1|,|unusual*2|,

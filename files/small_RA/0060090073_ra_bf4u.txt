@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,
+storyline:|inspirational*1|,
+pptopic:|bullying*1|,|violent*1|,
+lang_style:|thoughtful*1|,

@@ -1,0 +1,6 @@
+frame:|humorous*1|,
+pptone:|realistic*2|,
+storyline:|humorous*1|,|violent*1|,|inspirational*1|,
+pptopic:|violent*1|,
+characterization:|layered*1|,|well-developed*6|,|believable*1|,|sympathetic*5|,
+lang_style:|unusual*1|,

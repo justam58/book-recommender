@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:19:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="judy_moody_stink_the_holly_joliday" isbn="0763632376" isbn13="9780763632373">
+<Title>Judy Moody &amp; Stink: The Holly Joliday</Title>
+<TitleLong>Judy Moody &amp; Stink: The Holly Joliday (Judy Moody)</TitleLong>
+<AuthorsText>Megan Mcdonald, Peter H. Reynolds (Illustrator)</AuthorsText>
+<PublisherText publisher_id="candlewick">Candlewick</PublisherText>
+<Details change_time="2007-09-25T23:22:24Z" price_time="2012-01-06T18:28:43Z" edition_info="Hardcover; 2007-09-11" language="" physical_description_text="96 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

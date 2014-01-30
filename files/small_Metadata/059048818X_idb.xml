@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:13:13Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="little_house_on_the_prairie_a08" isbn="059048818X" isbn13="9780590488181">
+<Title>Little house on the prairie</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Laura Ingalls Wilder; illustrated by Garth Williams</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, 1953.</PublisherText>
+<Details change_time="2008-11-22T22:04:29Z" price_time="2011-06-29T14:58:42Z" edition_info="(pbk.)" language="eng" physical_description_text="334 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,5 @@
+frame:|small-town*1|,
+storyline:|issue-oriented*1|,|gentle*1|,|action-oriented*1|,
+pptopic:|illustration*1|,|baby*3|,
+characterization:|well-developed*1|,|believable*3|,
+lang_style:|complex*1|,

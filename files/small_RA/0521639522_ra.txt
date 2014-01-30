@@ -1,0 +1,6 @@
+frame:|popular*1|,|evocative*1|,|humorous*1|,
+pptone:|quirky*1|,
+storyline:|complex*1|,|gentle*3|,|humorous*10|,|violent*3|,
+pptopic:|technology*1|,|illustration*2|,
+characterization:|quirky*1|,|well-developed*4|,|sympathetic*2|,
+lang_style:|extravagant*1|,|passionate*5|,|simple*2|,|unusual*5|,

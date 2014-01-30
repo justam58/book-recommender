@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:32:37Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="soccer_camp" isbn="1933605073" isbn13="9781933605074">
+<Title>Soccer Camp</Title>
+<TitleLong>Soccer Camp (Team Series) (Team Series)</TitleLong>
+<AuthorsText>David Bedford, Keith Brumpton (Illustrator)</AuthorsText>
+<PublisherText publisher_id="kane_miller_book_pub_a01">Kane/Miller Book Pub</PublisherText>
+<Details change_time="2008-08-08T20:54:06Z" price_time="2010-03-22T19:36:00Z" edition_info="Paperback; 2006-09-01" language="" physical_description_text="5.1&quot;x7.7&quot;x0.3&quot;; 0.1 lb; 76 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

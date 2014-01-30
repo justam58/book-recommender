@@ -1,0 +1,3 @@
+storyline:|violent*1|,
+pptopic:|death*1|,
+lang_style:|simple*1|,|unusual*1|,

@@ -1,0 +1,9 @@
+Title ===Mr. Popper's penguins===
+Author ===Richard Atwater===
+Author ===Florence Atwater===
+PublicationDate ===1938===
+Description ===The unexpected delivery of a large crate containing an Antarctic penguin changes the life and fortunes of Mr. Popper, a house painter obsessed by dreams of the Polar regions.===
+PageCount ===138===
+Type ===BOOK===
+LCSH ===Nature===
+AvgRate ===4.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:08:41Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="battle_of_the_labyrinth_the" isbn="1423101464" isbn13="9781423101468">
+<Title>Battle of the Labyrinth, The</Title>
+<TitleLong>Battle of the Labyrinth, The (Percy Jackson and the Olympians)</TitleLong>
+<AuthorsText>Rick Riordan, </AuthorsText>
+<PublisherText publisher_id="hyperion">Hyperion</PublisherText>
+<Details change_time="2007-11-30T01:27:34Z" price_time="2012-12-15T21:03:52Z" edition_info="Hardcover; 2008-05-06" language="" physical_description_text="368 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

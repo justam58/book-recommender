@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:35:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dorothy_and_the_wizard_in_oz_a03" isbn="0345341686" isbn13="9780345341686">
+<Title>Dorothy and the Wizard in Oz</Title>
+<TitleLong>Dorothy and the Wizard in Oz (Wonderful Oz Books)</TitleLong>
+<AuthorsText>L. FRANK BAUM, </AuthorsText>
+<PublisherText publisher_id="del_rey">Del Rey</PublisherText>
+<Details change_time="2005-01-07T16:09:32Z" price_time="2012-07-11T17:50:54Z" edition_info="Paperback; 1986-08-12" language="" physical_description_text="4.5&quot;x0.5&quot;x7.0&quot;; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

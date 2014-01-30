@@ -1,0 +1,4 @@
+frame:|humorous*1|,
+storyline:|linear*5|,|gentle*1|,|humorous*1|,
+pptopic:|illustration*27|,|violent*1|,|baby*1|,
+lang_style:|passionate*3|,|simple*12|,|unusual*1|,

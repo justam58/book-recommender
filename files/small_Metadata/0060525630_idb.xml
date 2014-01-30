@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:09:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="rising_storm_a02" isbn="0060525630" isbn13="9780060525637">
+<Title>Rising storm</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Erin Hunter</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, c2004.</PublisherText>
+<Details change_time="2009-10-11T01:45:12Z" price_time="2012-12-24T08:38:29Z" edition_info="(pbk. : Avon)" language="eng" physical_description_text="315 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

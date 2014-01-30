@@ -1,0 +1,7 @@
+frame:|hard-edged*4|,|heart-warming*1|,|small-town*1|,|suspenseful*12|,|popular*2|,|romantic*4|,|evocative*1|,|humorous*4|,|historical*3|,|descriptive*2|,
+pptone:|realistic*1|,|serious*4|,
+storyline:|thought-provoking*1|,|issue-oriented*4|,|open-ended*1|,|complex*1|,|gentle*2|,|humorous*1|,|racy*5|,|violent*1|,|action-oriented*4|,
+pptopic:|technology*2|,|death*1|,|illustration*3|,|violent*1|,|war*1|,
+characterization:|quirky*1|,|well-developed*15|,|distant*1|,|believable*3|,|sympathetic*3|,
+lang_style:|complex*1|,|passionate*3|,|simple*2|,|unusual*12|,|natural*1|,|classic*1|,|conversational*1|,
+pacing:|slow*1|,|fast*4|,

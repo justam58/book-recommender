@@ -1,0 +1,8 @@
+Title ===Mom and Dad Are Palindromes===
+Author ===Mark Shulman===
+PublicationDate ===2006-04-20===
+Description ===When Bob realizes that he is surrounded by palindromes, from his mom, dad, and sis Anna to his dog Otto, he discovers a way to deal with the palindrome puzzle.===
+PageCount ===36===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

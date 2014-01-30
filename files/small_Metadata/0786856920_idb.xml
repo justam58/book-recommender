@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:20:17Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="schooled" isbn="0786856920" isbn13="9780786856923">
+<Title>Schooled</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gordon Korman</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York : Hyperion Books for Children, c2007.</PublisherText>
+<Details change_time="2010-04-26T05:08:00Z" price_time="2011-07-20T15:04:52Z" edition_info="" language="eng" physical_description_text="208 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

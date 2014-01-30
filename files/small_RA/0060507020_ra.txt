@@ -1,0 +1,2 @@
+storyline:|humorous*5|,
+lang_style:|simple*4|,

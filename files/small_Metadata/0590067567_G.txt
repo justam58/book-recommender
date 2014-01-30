@@ -1,0 +1,6 @@
+Title ===Calvin and Hobbes===
+Author ===Bill Watterson===
+PublicationDate ===1987===
+Description ===A collection of comic strips following the adventures of Calvin and his stuffed tiger Hobbes.===
+PageCount ===127===
+Type ===BOOK===

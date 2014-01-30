@@ -1,0 +1,5 @@
+frame:|humorous*1|,
+pptopic:|sex*1|,|addiction*1|,|violent*2|,
+characterization:|layered*1|,|well-developed*2|,|distant*2|,|believable*1|,
+lang_style:|passionate*1|,|simple*1|,|unusual*2|,
+pacing:|fast*3|,

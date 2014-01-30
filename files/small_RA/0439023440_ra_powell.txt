@@ -1,0 +1,3 @@
+frame:|hard-edged*1|,|historical*1|,
+pptopic:|baby*1|,
+pacing:|easy*1|,|slow*1|,

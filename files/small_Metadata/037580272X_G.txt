@@ -1,0 +1,8 @@
+Title ===The Quicksand Question===
+Author ===Ron Roy===
+Author ===John Steven Gurney===
+PublicationDate ===2002-05-28===
+Description ===When someone steals the money the town has been collecting to help the ducks, Josh and his friends try to find the thief.===
+PageCount ===80===
+Type ===BOOK===
+AvgRate ===4.0===

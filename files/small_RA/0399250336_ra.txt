@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,
+storyline:|linear*1|,|gentle*1|,|episodic*1|,
+characterization:|well-developed*2|,|believable*1|,
+lang_style:|passionate*1|,

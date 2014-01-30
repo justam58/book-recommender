@@ -1,0 +1,8 @@
+Title ===Felix the Fluffy Kitten===
+Author ===Jenny Dale===
+Author ===Susan Hellard===
+PublicationDate ===2000-11-01===
+Description ===Everyone loves kittens! Fluffy and fun, purry and huggable, what could be more perfect than a kitten?===
+PageCount ===64===
+Type ===BOOK===
+LCSH ===Pets===

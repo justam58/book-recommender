@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:49:52Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="my_side_of_the_mountain_a11" isbn="0590981811" isbn13="9780590981811">
+<Title>My Side of the Mountain</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jean Craighead George, </AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2006-07-06T17:28:40Z" price_time="2012-10-11T23:03:10Z" edition_info="Paperback; 1988" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

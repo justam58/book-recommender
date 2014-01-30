@@ -1,0 +1,8 @@
+Title ===The Lonely Scarecrow===
+Author ===Tim Preston===
+Author ===Maggie Kneen===
+PublicationDate ===1999===
+Description ===A lonely scarecrow with a scary face has trouble making friends with the animals who surround him, until a heavy snowfall transforms him into a jolly snowman.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===3.5===

@@ -1,0 +1,5 @@
+frame:|humorous*1|,
+pptone:|realistic*1|,
+storyline:|humorous*2|,
+pptopic:|illustration*3|,
+lang_style:|classic*1|,

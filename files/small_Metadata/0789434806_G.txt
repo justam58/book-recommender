@@ -1,0 +1,8 @@
+Title ===Star wars===
+Author ===David West Reynolds===
+PublicationDate ===1998-10-01===
+Description ===Offers three-dimensional, cross-section views depicting the inner workings and structures of the "Star Wars" vehicles, including the X-wing fighter and the Death Star===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.0===

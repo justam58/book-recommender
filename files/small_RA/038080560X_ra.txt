@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|small-town*3|,|gritty*2|,|historical*1|,
+storyline:|open-ended*2|,|linear*1|,|racy*5|,
+pptopic:|bullying*2|,|death*1|,|illustration*1|,|divorce*1|,|violent*2|,
+characterization:|well-developed*5|,|distant*1|,|believable*1|,|sympathetic*2|,
+lang_style:|complex*1|,|simple*1|,|unusual*2|,|thoughtful*1|,

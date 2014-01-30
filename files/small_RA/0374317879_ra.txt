@@ -1,0 +1,6 @@
+frame:|suspenseful*4|,|contemporary*4|,|historical*4|,
+storyline:|tragic*1|,
+pptopic:|death*5|,|illustration*2|,
+characterization:|well-developed*6|,|believable*4|,|sympathetic*1|,
+lang_style:|passionate*1|,
+pacing:|fast*1|,

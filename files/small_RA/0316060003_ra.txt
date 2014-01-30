@@ -1,0 +1,6 @@
+frame:|small-town*1|,|light-hearted*5|,
+pptone:|quirky*1|,|happy*1|,
+storyline:|humorous*1|,
+pptopic:|illustration*2|,|baby*1|,
+characterization:|recognizable*5|,|believable*1|,
+lang_style:|simple*5|,

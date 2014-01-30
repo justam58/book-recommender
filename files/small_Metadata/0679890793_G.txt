@@ -1,0 +1,8 @@
+Title ===The Haunted Hotel===
+Author ===Ron Roy===
+PublicationDate ===1999-07-27===
+Description ===When the guests of the Shangri-La Hotel are scared away by a white-haired female ghost, Dink and his friends investigate the mystery.===
+PageCount ===96===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===4.0===

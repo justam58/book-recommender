@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:45:58Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_search_for_the_missing_bones" isbn="0439107997" isbn13="9780439107990">
+<Title>The Search for the Missing Bones</Title>
+<TitleLong>The Search for the Missing Bones (Magic School Bus Chapter Book)</TitleLong>
+<AuthorsText>Eva Moore, Ted Enik, Joanna Cole, </AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2005-01-22T16:43:06Z" price_time="2012-12-28T19:54:47Z" edition_info="Paperback; 2000-01-01" language="" physical_description_text="5.3&quot;x7.6&quot;x0.3&quot;; 74 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

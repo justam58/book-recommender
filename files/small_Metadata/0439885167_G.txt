@@ -1,0 +1,8 @@
+Title ===The Baby-Sitters Club===
+Author ===Raina Telgemeier===
+Author ===Ann M. Martin===
+PublicationDate ===2007-09-01===
+Description ===When a fight breaks out among the members of the Baby-sitters Club, timid Mary Anne finds herself becoming more assertive as a baby sitter and in her relationships with her father and friends.===
+PageCount ===158===
+Type ===BOOK===
+AvgRate ===4.0===

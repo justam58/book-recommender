@@ -1,0 +1,4 @@
+storyline:|humorous*14|,
+characterization:|quirky*1|,|sympathetic*1|,
+lang_style:|passionate*1|,|unusual*2|,
+pacing:|fast*1|,

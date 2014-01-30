@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:04:12Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="angel_on_the_square_a02" isbn="0064408795" isbn13="9780064408790">
+<Title>Angel on the Square</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gloria Whelan, </AuthorsText>
+<PublisherText publisher_id="harpertrophy">HarperTrophy</PublisherText>
+<Details change_time="2005-01-04T11:02:33Z" price_time="2011-05-27T22:03:30Z" edition_info="Paperback; 2003-01" language="" physical_description_text="5.1&quot;x7.7&quot;x0.7&quot;; 304 pages; 0.5 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

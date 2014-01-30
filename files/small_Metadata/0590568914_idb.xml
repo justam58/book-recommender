@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:31:55Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dont_go_to_sleep" isbn="0590568914" isbn13="9780590568913">
+<Title>Don't go to sleep!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>R. L. Stine</AuthorsText>
+<PublisherText publisher_id="scholastic">New York ; Scholastic, c1997.</PublisherText>
+<Details change_time="2010-01-23T07:30:00Z" price_time="2012-12-19T22:20:50Z" edition_info="" language="" physical_description_text="118 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

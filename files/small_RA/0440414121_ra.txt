@@ -1,0 +1,7 @@
+frame:|hard-edged*4|,|heart-warming*3|,|school*1|,|small-town*3|,|popular*1|,|evangelistic*1|,|humorous*8|,
+pptone:|serious*4|,
+storyline:|open-ended*1|,|racy*1|,|humorous*16|,|tragic*4|,|episodic*1|,|inspirational*1|,
+pptopic:|bullying*3|,|death*2|,|illustration*5|,|curse*1|,|violent*6|,|war*2|,
+characterization:|stereotypes*1|,|well-developed*2|,|believable*7|,|sympathetic*4|,
+lang_style:|complex*1|,|simple*1|,|poetic*1|,|unusual*2|,|natural*2|,
+pacing:|slow*2|,

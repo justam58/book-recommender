@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:49:37Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_and_that_meanie_jims_birthday_a02" isbn="0679866957" isbn13="9780679866954">
+<Title>Junie B. Jones and that meanie Jim's birthday</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1996.</PublisherText>
+<Details change_time="2004-07-27T02:38:49Z" price_time="2012-08-16T07:43:05Z" edition_info="(pbk.) :$3.99" language="eng" physical_description_text="85 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

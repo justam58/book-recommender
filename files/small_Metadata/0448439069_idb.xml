@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:23:22Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="who_were_the_beatles" isbn="0448439069" isbn13="9780448439068">
+<Title>Who were the Beatles?</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Geoff Edgers; illustrated by Jerry Tugeau</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">New York : Grosset &amp; Dunlap, c2006.</PublisherText>
+<Details change_time="2009-01-25T18:25:21Z" price_time="2012-12-13T22:12:23Z" edition_info="(pbk.)" language="eng" physical_description_text="106 p. : ill. ; 20 cm." lcc_number="ML3930" dewey_decimal_normalized="" dewey_decimal="B" />
+</BookData>
+</BookList>
+</ISBNdb>

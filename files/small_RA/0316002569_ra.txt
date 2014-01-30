@@ -1,0 +1,6 @@
+frame:|heart-warming*1|,|romantic*1|,
+pptone:|realistic*4|,|serious*1|,
+storyline:|inspirational*1|,
+pptopic:|death*1|,
+characterization:|believable*1|,|sympathetic*5|,
+lang_style:|complex*1|,

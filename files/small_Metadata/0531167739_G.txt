@@ -1,0 +1,7 @@
+Title ===Snowy Weather Days===
+Author ===Katie Marsico===
+PublicationDate ===2006-09-01===
+Description ===Explains what snow is and describes what is done with it when it falls on the ground.===
+PageCount ===24===
+Type ===BOOK===
+LCSH ===Nature===

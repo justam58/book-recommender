@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,
+storyline:|open-ended*1|,|tragic*3|,
+pptopic:|religion*1|,|death*6|,
+characterization:|well-developed*1|,|believable*3|,
+lang_style:|unusual*1|,
+pacing:|slow*1|,|fast*4|,

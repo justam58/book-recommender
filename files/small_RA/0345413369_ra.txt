@@ -1,0 +1,7 @@
+frame:|hard-edged*8|,|suspenseful*1|,|romantic*2|,|historical*1|,|bittersweet*1|,
+pptone:|dark*1|,|serious*1|,
+storyline:|open-ended*1|,|linear*1|,|issue-oriented*2|,|complex*10|,|gentle*1|,|racy*1|,|folksy*1|,|violent*1|,|action-oriented*2|,
+pptopic:|religion*6|,|death*1|,|illustration*6|,|violent*1|,|war*10|,
+characterization:|multiple points of view*1|,|well-developed*10|,|dramatic*1|,|evocative*1|,|believable*9|,|sympathetic*5|,|literary*1|,
+lang_style:|complex*1|,|simple*1|,|poetic*1|,|dramatic*1|,|unusual*5|,
+pacing:|fast*1|,

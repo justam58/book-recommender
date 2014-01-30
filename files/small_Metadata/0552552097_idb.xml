@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:40:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="eragon_a08" isbn="0552552097" isbn13="9780552552097">
+<Title>Eragon</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Christopher Paolini</AuthorsText>
+<PublisherText publisher_id="corgi">London : Corgi, 2005.</PublisherText>
+<Details change_time="2007-07-08T01:55:13Z" price_time="2013-02-10T08:29:32Z" edition_info="" language="eng" physical_description_text="517 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="813.6" dewey_decimal="813.6" />
+</BookData>
+</BookList>
+</ISBNdb>

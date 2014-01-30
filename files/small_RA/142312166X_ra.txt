@@ -1,0 +1,6 @@
+frame:|romantic*2|,
+pptone:|old-fashioned*1|,
+storyline:|linear*1|,|humorous*2|,|episodic*1|,
+pptopic:|illustration*6|,|war*1|,
+characterization:|well-developed*2|,
+lang_style:|passionate*2|,

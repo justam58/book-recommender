@@ -1,0 +1,3 @@
+characterization:|believable*1|,|sympathetic*1|,
+lang_style:|natural*1|,
+pacing:|fast*1|,

@@ -1,0 +1,7 @@
+frame:|hard-edged*2|,|school*2|,|small-town*2|,|popular*1|,|romantic*1|,
+pptone:|realistic*1|,|serious*1|,
+storyline:|gentle*3|,|conclusive*1|,|racy*1|,|mythic*1|,|inspirational*2|,
+pptopic:|drinking*1|,|illustration*3|,|divorce*15|,
+characterization:|well-developed*1|,|believable*7|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*2|,|simple*4|,|unusual*3|,|thoughtful*1|,|natural*2|,
+pacing:|fast*1|,

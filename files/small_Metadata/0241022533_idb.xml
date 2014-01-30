@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:55:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="incident_at_hawks_hill_a08" isbn="0241022533" isbn13="9780241022535">
+<Title>Incident at Hawk's Hill</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Allan W. Eckert</AuthorsText>
+<PublisherText publisher_id="hamilton">London Hamilton 1972</PublisherText>
+<Details change_time="2009-06-22T22:49:40Z" price_time="2010-09-13T13:37:38Z" edition_info="" language="eng" physical_description_text="xii,148p 23cm" lcc_number="PZ7" dewey_decimal_normalized="823.91" dewey_decimal="823/.9/1" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:26:20Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_boxcar_children_a10" isbn="0307284042" isbn13="9780307284044">
+<Title>The Boxcar Children</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gertrude Chandler Warner, Phyllis Newman (Narrator)</AuthorsText>
+<PublisherText publisher_id="listening_library_audio">Listening Library (Audio)</PublisherText>
+<Details change_time="2007-07-24T21:56:57Z" price_time="2012-12-06T19:01:49Z" edition_info="Audio CD; 2006-04-11" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

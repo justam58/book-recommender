@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:08:21Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="fluffy_plants_a_jellybean" isbn="0439319455" isbn13="9780439319454">
+<Title>Fluffy plants a jelly bean</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Kate McMullan; illustrated by Mavis Smith</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, c2003.</PublisherText>
+<Details change_time="2006-09-03T22:20:48Z" price_time="2010-11-11T15:47:50Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 23 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

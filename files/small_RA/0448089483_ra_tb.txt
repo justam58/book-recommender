@@ -1,0 +1,2 @@
+characterization:|linear*1|,
+lang_style:|unusual*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:14:18Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_hidden_staircase" isbn="0448095025" isbn13="9780448095028">
+<Title>The hidden staircase</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Carolyn Keene</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">New York : Grosset &amp; Dunlap, [1987]</PublisherText>
+<Details change_time="2010-08-01T20:03:38Z" price_time="2013-01-01T16:06:14Z" edition_info="" language="eng" physical_description_text="182 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="808" dewey_decimal="808" />
+</BookData>
+</BookList>
+</ISBNdb>

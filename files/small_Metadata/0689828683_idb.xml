@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:20:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_landry_news" isbn="0689828683" isbn13="9780689828683">
+<Title>The Landry News</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Andrew Clements</AuthorsText>
+<PublisherText publisher_id="aladdin">Aladdin</PublisherText>
+<Details change_time="2004-12-21T04:58:23Z" price_time="2012-08-03T23:49:12Z" edition_info="Paperback; 2000-09-01" language="" physical_description_text="5.1&quot;x7.6&quot;x0.4&quot;; 144 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

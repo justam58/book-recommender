@@ -1,0 +1,5 @@
+frame:|small-town*1|,
+pptone:|happy*1|,
+storyline:|open-ended*1|,|humorous*1|,|mythic*1|,|inspirational*2|,
+pptopic:|illustration*2|,|divorce*5|,
+characterization:|well-developed*2|,|believable*3|,

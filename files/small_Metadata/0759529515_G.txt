@@ -1,0 +1,7 @@
+Title ===Maximum Ride 1===
+Author ===James Patterson===
+PublicationDate ===2009-01-06===
+Description ===After the mutant Erasers abduct the youngest member of their group, the "Bird Kids," who are the result of genetic experimentation, take off in pursuit and find themselves struggling to understand their own origins and purpose.===
+PageCount ===192===
+Type ===BOOK===
+AvgRate ===4.0===

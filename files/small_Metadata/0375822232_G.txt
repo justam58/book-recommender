@@ -1,0 +1,8 @@
+Title ===Junie B., First Grader===
+Author ===Barbara Park===
+PublicationDate ===2002===
+Description ===Junie B. Jones learns some interesting things about the Tooth Fairy when she becomes the first student in Room One to lose an upper tooth.===
+PageCount ===80===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

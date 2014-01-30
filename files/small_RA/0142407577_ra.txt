@@ -1,0 +1,6 @@
+frame:|popular*1|,
+pptone:|realistic*3|,|serious*1|,
+storyline:|thought-provoking*1|,|humorous*1|,|tragic*1|,
+pptopic:|death*1|,|illustration*1|,
+characterization:|quirky*1|,|well-developed*2|,|believable*1|,|sympathetic*1|,
+lang_style:|passionate*1|,

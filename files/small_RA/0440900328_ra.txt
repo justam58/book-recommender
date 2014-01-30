@@ -1,0 +1,7 @@
+frame:|hard-edged*8|,|heart-warming*2|,|small-town*11|,|suspenseful*2|,|melodramatic*1|,|contemporary*1|,|popular*3|,|gritty*1|,|historical*2|,|exotic*1|,
+pptone:|realistic*5|,|happy*1|,|dark*3|,|serious*6|,
+storyline:|open-ended*2|,|issue-oriented*2|,|linear*3|,|complex*3|,|conclusive*1|,|humorous*1|,|action-oriented*2|,|tragic*2|,
+pptopic:|bullying*1|,|death*3|,|illustration*4|,|violent*5|,|war*64|,
+characterization:|quirky*1|,|well-developed*6|,|believable*6|,|sympathetic*1|,
+lang_style:|complex*1|,|passionate*3|,|simple*3|,|unusual*6|,|candid*1|,|thoughtful*2|,
+pacing:|engrossing*1|,|fast*1|,

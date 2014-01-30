@@ -1,0 +1,7 @@
+Title ===The Water Horse===
+Author ===Dick King-Smith===
+PublicationDate ===2007-11-13===
+Description ===Now in paperback! From the award-winning author of Babe: The Gallant Pig comes the story of how the Loch Ness monster finds his home, thanks to the human family that raises him.===
+PageCount ===128===
+Type ===BOOK===
+AvgRate ===3.5===

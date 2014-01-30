@@ -1,0 +1,3 @@
+frame:|small-town*1|,|suspenseful*1|,
+pptopic:|illustration*3|,|curse*2|,
+characterization:|sympathetic*2|,

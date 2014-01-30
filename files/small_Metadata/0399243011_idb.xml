@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:12:44Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="heat_a32" isbn="0399243011" isbn13="9780399243011">
+<Title>Heat</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Mike Lupica</AuthorsText>
+<PublisherText publisher_id="philomel_books">New York : Philomel Books, c2006.</PublisherText>
+<Details change_time="2008-02-04T02:41:01Z" price_time="2011-06-04T23:23:04Z" edition_info="(hardcover)" language="eng" physical_description_text="220 p. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

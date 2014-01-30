@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:59:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="marley_a_dog_like_no_other" isbn="0061240338" isbn13="9780061240331">
+<Title>Marley</Title>
+<TitleLong>Marley: a dog like no other</TitleLong>
+<AuthorsText>John Grogan</AuthorsText>
+<PublisherText publisher_id="collins">New York, NY : Collins, c2007.</PublisherText>
+<Details change_time="2008-07-17T17:23:59Z" price_time="2012-09-24T20:43:20Z" edition_info="(lib. bdg.)" language="eng" physical_description_text="196 p. : col. ill. ; 21 cm." lcc_number="SF429" dewey_decimal_normalized="636.7527092" dewey_decimal="636.752/7092" />
+</BookData>
+</BookList>
+</ISBNdb>

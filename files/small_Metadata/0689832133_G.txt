@@ -1,0 +1,9 @@
+Title ===Click, clack, moo===
+Author ===Doreen Cronin===
+Author ===Betsy Lewin===
+PublicationDate ===2000-02-01===
+Description ===When Farmer Brown's cows find a typewriter in the barn they start making demands, and go on strike when the farmer refuses to give them what they want.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Nature===
+AvgRate ===4.0===

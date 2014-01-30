@@ -1,0 +1,8 @@
+Title ===Pippi Goes on Board===
+Author ===Astrid Lindgren===
+Author ===Louis S. Glanzman===
+PublicationDate ===1977===
+Description ===The further adventures of Pippi and her friends Tommy and Annika.===
+PageCount ===140===
+Type ===BOOK===
+AvgRate ===3.5===

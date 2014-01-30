@@ -1,0 +1,8 @@
+Title ===Ivy and Bean Book 1===
+Author ===Annie Barrows===
+PublicationDate ===2007-05-03===
+Description ===When seven-year-old Bean plays a mean trick on her sister Nancy, she finds unexpected support for her antics from Ivy, the new neighbor, who is less boring than Bean first suspected. Reprint.===
+PageCount ===120===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.0===

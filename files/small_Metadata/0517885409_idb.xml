@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:33:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="no_moon_no_milk_a02" isbn="0517885409" isbn13="9780517885406">
+<Title>No Moon, No Milk!</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Chris Babcock, </AuthorsText>
+<PublisherText publisher_id="dragonfly_books">Dragonfly Books</PublisherText>
+<Details change_time="2007-07-28T21:33:19Z" price_time="2012-10-30T20:30:53Z" edition_info="Paperback; 1995-07-10" language="" physical_description_text="32 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

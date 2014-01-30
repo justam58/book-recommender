@@ -1,0 +1,3 @@
+storyline:|linear*1|,|gentle*2|,|racy*1|,|humorous*3|,|tragic*4|,|inspirational*11|,
+pptopic:|drinking*1|,|death*1|,|illustration*1|,|disease*1|,
+lang_style:|unusual*1|,

@@ -1,0 +1,4 @@
+storyline:|issue-oriented*1|,|gentle*1|,|action-oriented*1|,
+pptopic:|technology*1|,|death*1|,
+characterization:|linear*1|,|well-developed*1|,
+pacing:|fast*1|,

@@ -1,0 +1,2 @@
+frame:|humorous*1|,
+lang_style:|passionate*1|,|simple*1|,

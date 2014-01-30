@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:05:00Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="a_girl_named_zippy" isbn="0767915054" isbn13="9780767915052">
+<Title>A girl named Zippy</Title>
+<TitleLong>A girl named Zippy: growing up small in Mooreland, Indiana</TitleLong>
+<AuthorsText>Haven Kimmel</AuthorsText>
+<PublisherText publisher_id="broadway_books">New York, NY : Broadway Books, 2002, c2001.</PublisherText>
+<Details change_time="2007-05-18T17:22:14Z" price_time="2012-12-31T08:16:27Z" edition_info="" language="eng" physical_description_text="282 p. : ill. ; 21 cm." lcc_number="F534" dewey_decimal_normalized="977.264" dewey_decimal="977.2/64" />
+</BookData>
+</BookList>
+</ISBNdb>

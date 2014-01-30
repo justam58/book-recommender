@@ -1,0 +1,4 @@
+frame:|hard-edged*5|,|popular*1|,|romantic*1|,|descriptive*1|,|exotic*1|,
+storyline:|linear*7|,|complex*3|,|gentle*3|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|folksy*2|,
+pptopic:|illustration*11|,|baby*1|,
+lang_style:|complex*4|,|simple*8|,|dramatic*1|,

@@ -1,0 +1,7 @@
+Title ===Stranger in a Strange Land===
+Author ===Robert A. Heinlein===
+PublicationDate ===2005===
+Description ===Science fiction-roman.===
+PageCount ===655===
+Type ===BOOK===
+LCSH ===Fiction===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:20:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="ramona_the_pest" isbn="0380709546" isbn13="9780380709540">
+<Title>Ramona the pest</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Beverly Cleary, Tracy Dockray</AuthorsText>
+<PublisherText publisher_id="harper_trophy">New York, NY : Harper Trophy, 2006.</PublisherText>
+<Details change_time="2007-05-29T16:35:02Z" price_time="2012-08-09T04:52:23Z" edition_info="(pbk.)" language="eng" physical_description_text="p. cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

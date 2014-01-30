@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:24:13Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_keeping_quilt_a09" isbn="0153052120" isbn13="9780153052125">
+<Title>The Keeping Quilt</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Patricia Polacco, </AuthorsText>
+<PublisherText publisher_id="aladdin">Aladdin</PublisherText>
+<Details change_time="2012-10-11T20:27:16Z" price_time="2013-10-16T00:24:13Z" edition_info="Paperback; 2001-05-01" language="" physical_description_text="8.2&quot;x10.3&quot;x0.2&quot;; 0.3 lb; 32 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:51:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="spy_dog" isbn="0141318848" isbn13="9780141318844">
+<Title>Spy dog</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Andrew Cope; illustrated by Chris Mould</AuthorsText>
+<PublisherText publisher_id="puffin">London : Puffin, 2005.</PublisherText>
+<Details change_time="2009-09-10T23:48:09Z" price_time="2012-04-09T08:56:01Z" edition_info="(pbk.) :3.99(GBP)" language="eng" physical_description_text="164 p. : ill. ; 21 cm." lcc_number="" dewey_decimal_normalized="823.92" dewey_decimal="823.92" />
+</BookData>
+</BookList>
+</ISBNdb>

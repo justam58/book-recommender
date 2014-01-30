@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:50:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="classic_starts_a_little_princess" isbn="1402712758" isbn13="9781402712753">
+<Title>Classic Starts: A Little Princess</Title>
+<TitleLong>Classic Starts: A Little Princess (Classic Starts Series)</TitleLong>
+<AuthorsText>Frances Hodgson Burnett, Tania Zamorsky, Arthur Pober (Afterword), Lucy Corvino (Illustrator)</AuthorsText>
+<PublisherText publisher_id="sterling">Sterling</PublisherText>
+<Details change_time="2007-06-08T15:09:51Z" price_time="2012-09-14T04:48:40Z" edition_info="Hardcover; 2005-03-01" language="" physical_description_text="160 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

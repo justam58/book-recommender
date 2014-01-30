@@ -1,0 +1,7 @@
+Title ===There's a Wocket in My Pocket!===
+PublicationDate ===1974===
+Description ===A household of unusual creatures help beginning readers recognize common "household" words.===
+PageCount ===28===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:50:49Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_old_willis_place_a01" isbn="0618897410" isbn13="9780618897414">
+<Title>The Old Willis Place</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Mary Downing Hahn, </AuthorsText>
+<PublisherText publisher_id="clarion_books">Clarion Books</PublisherText>
+<Details change_time="2007-09-04T13:38:09Z" price_time="2012-06-04T05:21:20Z" edition_info="Paperback; 2007-08-20" language="" physical_description_text="208 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

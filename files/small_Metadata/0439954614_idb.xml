@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:57:38Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="northern_lights_his_dark_materials_i_tenth_anniversary_1995_" isbn="0439954614" isbn13="9780439954617">
+<Title>Northern lights</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Philip Pullman</AuthorsText>
+<PublisherText publisher_id="scholastic">London : Scholastic, 2005, c1995.</PublisherText>
+<Details change_time="2008-02-10T04:47:01Z" price_time="2011-05-28T04:23:01Z" edition_info="" language="eng" physical_description_text="403 p. : ill. ; 21 cm." lcc_number="" dewey_decimal_normalized="823.914" dewey_decimal="823.914" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,8 @@
+Title ===The Secret Garden===
+Author ===Mary Seabag-Montefiore===
+Author ===Alan Marks===
+Author ===Frances Hodgson Burnett===
+PublicationDate ===2008-01-01===
+Description ===When Mary Lennox arrives in her uncle's gloomy house on the moors, she feels forlorn and lonely. But the house is filled with exciting secrets and behind an old ivy-covered wall is a garden, waiting to be discovered ...===
+PageCount ===63===
+Type ===BOOK===

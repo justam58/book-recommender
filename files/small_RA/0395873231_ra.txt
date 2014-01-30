@@ -1,0 +1,4 @@
+frame:|suspenseful*1|,
+pptone:|serious*1|,
+storyline:|open-ended*1|,|humorous*13|,|tragic*9|,
+lang_style:|simple*1|,|candid*1|,|natural*2|,

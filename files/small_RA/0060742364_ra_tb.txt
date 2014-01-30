@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,
+storyline:|gentle*1|,
+pptopic:|illustration*2|,
+characterization:|believable*1|,

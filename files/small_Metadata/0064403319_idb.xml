@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:38:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harriet_the_spy_a07" isbn="0064403319" isbn13="9780064403313">
+<Title>Harriet, the spy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Written and illustrated by Louise Fitzhugh</AuthorsText>
+<PublisherText publisher_id="harper_row">New York, Harper &amp; Row [1964]</PublisherText>
+<Details change_time="2006-04-15T07:25:09Z" price_time="2012-09-20T04:34:15Z" edition_info="" language="eng" physical_description_text="298 p. illus. 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

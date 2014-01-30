@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:47:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="amazing_story_of_adolphus_tips" isbn="043979661X" isbn13="9780439796613">
+<Title>The amazing story of Adolphus Tips</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Michael Morpurgo</AuthorsText>
+<PublisherText publisher_id="scholastic_press">New York : Scholastic Press, 2006.</PublisherText>
+<Details change_time="2008-11-29T23:29:25Z" price_time="2012-04-24T07:10:31Z" edition_info="" language="eng" physical_description_text="140 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

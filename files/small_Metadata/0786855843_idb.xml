@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:33:57Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="runaway_dolls_the" isbn="0786855843" isbn13="9780786855841">
+<Title>The runaway dolls</Title>
+<TitleLong></TitleLong>
+<AuthorsText>[by Ann M. Martin and Laura Godwin; illustrations by Brian Selznick]</AuthorsText>
+<PublisherText publisher_id="hyperion_books_for_children">New York, N.Y. : Hyperion Books for Children, c2008.</PublisherText>
+<Details change_time="2011-06-16T09:15:53Z" price_time="2012-02-10T00:02:29Z" edition_info="(reinforced) :$16.99" language="eng" physical_description_text="323 p. : ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

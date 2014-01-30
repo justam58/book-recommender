@@ -1,0 +1,8 @@
+Title ===Hello, Mrs. Piggle-Wiggle===
+Author ===Betty MacDonald===
+PublicationDate ===1994-06-03===
+Description ===The incomparable Mrs. Piggle-Wiggle loves children good or bad and never scolds but has positive cures for Answer-Backers, Never-Want-to-Go-to-Bedders, and other boys and girls with strange habits. ‘[Now] in paperback . . . for a new generation of children to enjoy.’ —San Francisco Examiner Chronicle.===
+PageCount ===176===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

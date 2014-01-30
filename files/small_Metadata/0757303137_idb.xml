@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:36:24Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="chicken_soup_for_the_girls_soul_real_stories_by_real_girls_a" isbn="0757303137" isbn13="9780757303135">
+<Title>Chicken soup for the girl's soul</Title>
+<TitleLong>Chicken soup for the girl's soul: real stories by real girls about real stuff</TitleLong>
+<AuthorsText>[compiled by] Jack Canfield... [et al.]</AuthorsText>
+<PublisherText publisher_id="health_communications">Deerfield Beach, Fla. : Health Communications, c2005.</PublisherText>
+<Details change_time="2008-10-19T02:35:52Z" price_time="2012-05-23T14:18:42Z" edition_info="(pbk.)" language="eng" physical_description_text="xix, 345 p. : ill. ; 22 cm." lcc_number="HQ777" dewey_decimal_normalized="305.23082" dewey_decimal="305.23/082" />
+</BookData>
+</BookList>
+</ISBNdb>

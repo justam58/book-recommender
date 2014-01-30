@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:05:37Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_goose_girl" isbn="158234843X" isbn13="9781582348438">
+<Title>The Goose Girl</Title>
+<TitleLong>The Goose Girl (Bank Street College of Education Josette Frank Award (Awards))</TitleLong>
+<AuthorsText>Shannon Hale</AuthorsText>
+<PublisherText publisher_id="bloomsbury_childrens_books">Bloomsbury Children's Books</PublisherText>
+<Details change_time="2004-12-22T23:13:35Z" price_time="2012-07-02T00:07:41Z" edition_info="Hardcover; 2003-08-08" language="" physical_description_text="5.5&quot;x7.9&quot;x1.4&quot;; 300 pages; 1.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

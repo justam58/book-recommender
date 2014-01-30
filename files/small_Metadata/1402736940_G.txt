@@ -1,0 +1,8 @@
+Title ===The Swiss Family Robinson===
+Author ===Johann David Wyss===
+PublicationDate ===2007-01-01===
+Description ===An abridged version of the story that relates the fortunes of a shipwrecked family as they imaginatively adapt to life on an island with abundant animal and plant life.===
+PageCount ===151===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.0===

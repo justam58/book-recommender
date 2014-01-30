@@ -1,0 +1,7 @@
+frame:|hard-edged*2|,|school*1|,|small-town*3|,|evocative*1|,|romantic*1|,|descriptive*2|,|historical*2|,
+pptone:|happy*1|,|serious*1|,
+storyline:|issue-oriented*1|,|complex*4|,|linear*3|,|gentle*2|,|racy*1|,|violent*2|,|action-oriented*1|,
+pptopic:|sex*1|,|violent*3|,|war*10|,
+characterization:|well-developed*16|,|distant*1|,|evocative*1|,|believable*2|,|sympathetic*6|,
+lang_style:|complex*3|,|simple*2|,|unusual*2|,
+pacing:|slow*1|,|fast*4|,

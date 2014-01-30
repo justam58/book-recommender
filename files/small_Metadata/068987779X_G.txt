@@ -1,0 +1,8 @@
+Title ===The Recruit===
+Author ===Robert Muchamore===
+PublicationDate ===2005-08-30===
+Description ===When James is recently orphaned, he is recruited by a secret agency for his math skills and must undergo one hundred days of grueling training.===
+PageCount ===352===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

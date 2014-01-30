@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:15:04Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="fablehaven_a02" isbn="1416947205" isbn13="9781416947202">
+<Title>Fablehaven</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Brandon Mull, Brandon Dorman (Illustrator)</AuthorsText>
+<PublisherText publisher_id="aladdin">Aladdin</PublisherText>
+<Details change_time="2007-06-08T15:15:20Z" price_time="2012-07-23T02:52:40Z" edition_info="Paperback; 2007-04-24" language="" physical_description_text="368 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

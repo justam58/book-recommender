@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|melodramatic*7|,|humorous*7|,
+storyline:|thought-provoking*1|,|humorous*5|,
+pptopic:|bullying*1|,|death*2|,|illustration*3|,|violent*1|,
+characterization:|well-developed*1|,|sympathetic*1|,
+lang_style:|passionate*1|,|unusual*6|,
+pacing:|fast*1|,

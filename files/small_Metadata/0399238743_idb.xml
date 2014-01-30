@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:03:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="my_lucky_day_a02" isbn="0439701058" isbn13="9780439701051">
+<Title>My lucky day</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Keiko Kasza</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, c2003.</PublisherText>
+<Details change_time="2011-06-09T20:54:12Z" price_time="2012-12-16T02:18:59Z" edition_info="(pbk.)" language="" physical_description_text="1 v. (unpaged) : col. ill. ; 26 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

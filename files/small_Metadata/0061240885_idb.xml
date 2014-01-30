@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:16:33Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="skulduggery_pleasant_playing_with_fire" isbn="0061240885" isbn13="9780061240881">
+<Title>Playing with fire</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Derek Landy</AuthorsText>
+<PublisherText publisher_id="harpercollins">New York : HarperCollins, c2008.</PublisherText>
+<Details change_time="2009-08-10T22:56:57Z" price_time="2012-04-27T11:19:53Z" edition_info="(trade bdg.)" language="eng" physical_description_text="389 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

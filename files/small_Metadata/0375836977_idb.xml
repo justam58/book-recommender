@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:06:57Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="a_color_of_his_own_a09" isbn="0375836977" isbn13="9780375836978">
+<Title>A color of his own</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Leo Lionni</AuthorsText>
+<PublisherText publisher_id="pantheon_books">New York : Pantheon Books, c1975.</PublisherText>
+<Details change_time="2011-01-12T18:07:10Z" price_time="2011-01-12T18:40:04Z" edition_info="$12.95" language="eng" physical_description_text="[32] p. : col. ill. ; 20 x 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

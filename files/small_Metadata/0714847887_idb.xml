@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:18:14Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="nicholas_and_the_gang_a01" isbn="0714847887" isbn13="9780714847887">
+<Title>Nicholas and the gang</Title>
+<TitleLong></TitleLong>
+<AuthorsText>René Goscinny &amp; Jean-Jacques Sempé; translated [from the French] by Anthea Bell</AuthorsText>
+<PublisherText publisher_id="phaidon_press">New York : Phaidon Press, c2007.</PublisherText>
+<Details change_time="2011-04-20T03:01:12Z" price_time="2012-04-12T02:22:31Z" edition_info="" language="eng" physical_description_text="112 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

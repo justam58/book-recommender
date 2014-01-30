@@ -1,0 +1,6 @@
+Title ===Now We Are Six===
+Author ===A. A. Milne===
+PublicationDate ===1992-08-07===
+Description ===A collection of poems reflecting the experiences of a little English boy growing up in the early part of the twentieth century.===
+PageCount ===101===
+Type ===BOOK===

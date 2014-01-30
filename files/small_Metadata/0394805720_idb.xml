@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:59:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="theres_a_boy_in_the_girls_bathroom_a02" isbn="0394805720" isbn13="9780394805726">
+<Title>There's a boy in the girls bathroom</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Louis Sachar</AuthorsText>
+<PublisherText publisher_id="knopf">New York : Knopf : c1987.</PublisherText>
+<Details change_time="2006-04-17T02:55:37Z" price_time="2012-03-25T22:28:33Z" edition_info="" language="eng" physical_description_text="195 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

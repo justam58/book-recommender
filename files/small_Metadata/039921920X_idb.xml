@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:29:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_mitten" isbn="039921920X" isbn13="9780399219207">
+<Title>The mitten</Title>
+<TitleLong>The mitten: a Ukrainian folktale</TitleLong>
+<AuthorsText>adapted and illustrated by Jan Brett</AuthorsText>
+<PublisherText publisher_id="putnam">New York : Putnam, 1989.</PublisherText>
+<Details change_time="2003-11-04T13:26:40Z" price_time="2013-01-12T22:30:21Z" edition_info="" language="eng" physical_description_text="[32] p. : col. ill. ; 22 x 27 cm." lcc_number="PZ8.1" dewey_decimal_normalized="398.2094771" dewey_decimal="398.2/0947/71" />
+</BookData>
+</BookList>
+</ISBNdb>

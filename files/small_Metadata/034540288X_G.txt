@@ -1,0 +1,8 @@
+Title ===The Lost World===
+Author ===Michael Crichton===
+PublicationDate ===1996===
+Description ===Six years after the secret disaster at Jurassic Park and the destruction of the dinosaurs, the dismantling of the park, and the closing of the island, rumors persist that some form of life has survived, in the sequel to Jurassic Park. Reissue.===
+PageCount ===430===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.5===

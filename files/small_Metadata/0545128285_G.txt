@@ -1,0 +1,7 @@
+Title ===The Tales of Beedle the Bard===
+Author ===J.K. Rowling===
+PublicationDate ===2012-07-24===
+Description ===The Tales of Beedle the Bard, contains five richly diverse fairy tales, each with its own magical character, that will variously bring delight, laughter and the thrill of mortal peril. Additional notes for each story penned by Professor Albus Dumbledore will be enjoyed by Muggles and wizards alike, as the Professor muses on the morals illuminated by the tales, and revealed snippets of information about life at Hogwarts. A uniquely magical volume, with illustrations by the author J.K. Rowling, that will be treasured for years to come.===
+PageCount ===111===
+Type ===BOOK===
+AvgRate ===3.5===

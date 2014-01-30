@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|humorous*1|,|historical*1|,
+pptone:|serious*2|,
+storyline:|gentle*2|,|humorous*6|,|tragic*10|,
+pptopic:|death*8|,|illustration*1|,

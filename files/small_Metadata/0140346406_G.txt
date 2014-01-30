@@ -1,0 +1,7 @@
+Title ===The Twits===
+Author ===Roald Dahl===
+PublicationDate ===1991-04===
+Description ===Originally published: London: J. Cape, 1980.===
+PageCount ===96===
+Type ===BOOK===
+AvgRate ===4.0===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:45:19Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_tale_of_despereaux" isbn="0763617229" isbn13="9780763617226">
+<Title>The tale of Despereaux</Title>
+<TitleLong>The tale of Despereaux: being the story of a mouse, a princess, some soup, and a spool of thread</TitleLong>
+<AuthorsText>Kate DiCamillo; illustrated by Timothy Basil Ering</AuthorsText>
+<PublisherText publisher_id="candlewick_press">Cambridge, Mass. : Candlewick Press, 2003.</PublisherText>
+<Details change_time="2005-01-06T14:29:54Z" price_time="2012-04-23T04:05:21Z" edition_info="(alk. paper)" language="eng" physical_description_text="267 p. : ill. ; 22 cm." lcc_number="PZ8" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

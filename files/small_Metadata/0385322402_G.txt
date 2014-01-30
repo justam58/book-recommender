@@ -1,0 +1,8 @@
+Title ===Accidents May Happen===
+Author ===Charlotte Foltz Jones===
+PublicationDate ===1998-03-09===
+Description ===Describes how a wide variety of things such as nursery rhymes, the national anthem, anesthesia, cellophane, raisins, and dynamite came into being.===
+PageCount ===96===
+Type ===BOOK===
+LCSH ===History===
+AvgRate ===3.0===

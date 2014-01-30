@@ -1,0 +1,8 @@
+Title ===The Phantom Tollbooth===
+Author ===Norton Juster===
+PublicationDate ===1961===
+Description ===A journey through a land where Milo learns the importance of words and numbers provides a cure for his boredom.===
+PageCount ===256===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

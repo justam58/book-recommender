@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:32:08Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="click_clack_moo" isbn="0689832133" isbn13="9780689832130">
+<Title>Click, clack, moo</Title>
+<TitleLong>Click, clack, moo: cows that type</TitleLong>
+<AuthorsText>by Doreen Cronin; pictures by Betsy Lewin</AuthorsText>
+<PublisherText publisher_id="simon_schuster_books_for_young">New York : Simon &amp; Schuster Books for Young Readers, c2000.</PublisherText>
+<Details change_time="2008-08-26T17:44:11Z" price_time="2012-07-15T22:06:30Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 27 cm." lcc_number="PS3553" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

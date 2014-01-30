@@ -1,0 +1,6 @@
+frame:|hard-edged*2|,|small-town*2|,|romantic*1|,|gritty*1|,|bittersweet*1|,
+pptone:|serious*1|,
+storyline:|issue-oriented*1|,|linear*1|,|complex*1|,|mystical*1|,|gentle*4|,|humorous*1|,|racy*1|,|violent*1|,|action-oriented*1|,|episodic*2|,
+pptopic:|illustration*2|,
+characterization:|well-developed*8|,|evocative*1|,|believable*4|,|sympathetic*2|,
+lang_style:|complex*3|,|passionate*2|,|unusual*5|,|thoughtful*1|,

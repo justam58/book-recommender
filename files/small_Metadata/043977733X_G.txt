@@ -1,0 +1,7 @@
+Title ===Henry's Freedom Box===
+Author ===Ellen Levine===
+PublicationDate ===2007===
+Description ===A fictionalized account of how in 1849 a Virginia slave, Henry "Box" Brown, escapes to freedom by shipping himself in a wooden crate from Richmond to Philadelphia.===
+PageCount ===40===
+Type ===BOOK===
+AvgRate ===4.0===

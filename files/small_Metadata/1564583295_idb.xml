@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:59:18Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="animal_go_round" isbn="1564583295" isbn13="9781564583291">
+<Title>Animal Go-Round</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Johnny Morris, Mary Ling, </AuthorsText>
+<PublisherText publisher_id="dk_preschool">DK Preschool</PublisherText>
+<Details change_time="2007-04-26T21:35:23Z" price_time="2012-04-14T14:13:22Z" edition_info="Hardcover; 2001-02-01" language="" physical_description_text="18 pages" lcc_number="" dewey_decimal_normalized="591" dewey_decimal="591" />
+</BookData>
+</BookList>
+</ISBNdb>

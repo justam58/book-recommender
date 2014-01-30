@@ -1,0 +1,8 @@
+Title ===The Stonekeeper===
+Author ===Kazu Kibuishi===
+PublicationDate ===2008-01-01===
+Description ===After chasing the monster that kidnapped their mother, Emily and Navin find themselves in a magical world of man-eating demons and shadowy enemies, where they must learn to control an amulet given to them by their grandfather.===
+PageCount ===185===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

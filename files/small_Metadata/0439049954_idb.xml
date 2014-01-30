@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:18:26Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="captain_underpants_and_the_invasion_of_the_incredibly_na_a01" isbn="0439049954" isbn13="9780439049955">
+<Title>Captain Underpants and the invasion of the incredibly naughty cafeteria ladies from outer space</Title>
+<TitleLong>Captain Underpants and the invasion of the incredibly naughty cafeteria ladies from outer space...: the third epic novel</TitleLong>
+<AuthorsText>by Dav Pilkey</AuthorsText>
+<PublisherText publisher_id="blue_sky_press">New York : Blue Sky Press, c1999.</PublisherText>
+<Details change_time="2006-03-27T21:49:51Z" price_time="2011-06-05T20:23:58Z" edition_info="" language="eng" physical_description_text="134 p. : ill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

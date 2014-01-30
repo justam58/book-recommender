@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:21:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="who_was_anne_frank" isbn="0448444828" isbn13="9780448444826">
+<Title>Who was Anne Frank?</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Ann Abramson; illustrated by Nancy Harrison</AuthorsText>
+<PublisherText publisher_id="grosset_dunlap">New York : Grosset &amp; Dunlap, c2007.</PublisherText>
+<Details change_time="2009-06-19T04:54:19Z" price_time="2012-09-07T15:33:04Z" edition_info="(pbk)" language="eng" physical_description_text="103 p. : ill., maps ; 20 cm." lcc_number="DS135" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

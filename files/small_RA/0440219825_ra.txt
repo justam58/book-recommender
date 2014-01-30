@@ -1,0 +1,7 @@
+frame:|historical*1|,
+pptone:|old-fashioned*1|,
+storyline:|issue-oriented*2|,|linear*2|,|complex*1|,|humorous*1|,|action-oriented*2|,
+pptopic:|death*3|,
+characterization:|well-developed*2|,|believable*2|,
+lang_style:|passionate*2|,|simple*4|,
+pacing:|fast*1|,

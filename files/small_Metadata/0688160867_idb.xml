@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:44:20Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="sideways_stories_from_wayside_school_a03" isbn="0688160867" isbn13="9780688160869">
+<Title>Sideways stories from Wayside School</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Louis Sachar; illustrated by Julie Brinckloe</AuthorsText>
+<PublisherText publisher_id="morrow_junior_books">New York : Morrow Junior Books, 1998.</PublisherText>
+<Details change_time="2004-08-05T19:31:47Z" price_time="2010-10-25T01:11:24Z" edition_info="" language="eng" physical_description_text="124 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

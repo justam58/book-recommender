@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:16:50Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_hobbit_a08" isbn="0345339681" isbn13="9780345339683">
+<Title>The Hobbit, or, There and back again</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by J. R. R. Tolkien</AuthorsText>
+<PublisherText publisher_id="ballantine_books">New York : Ballantine Books, 1982.</PublisherText>
+<Details change_time="2009-01-11T07:51:06Z" price_time="2013-02-08T16:54:33Z" edition_info="(pbk.) :$4.95" language="eng" physical_description_text="304 p. : maps ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:07:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="johnny_boo_book_1" isbn="1603090134" isbn13="9781603090131">
+<Title>Johnny Boo Book 1</Title>
+<TitleLong>Johnny Boo Book 1: The Best Little Ghost In The World</TitleLong>
+<AuthorsText>James Kochalka, </AuthorsText>
+<PublisherText publisher_id="top_shelf_productions">Top Shelf Productions</PublisherText>
+<Details change_time="2008-09-20T18:06:04Z" price_time="2010-12-09T08:36:01Z" edition_info="Hardcover; 2008-06-29" language="" physical_description_text="6.0&quot;x9.1&quot;x0.3&quot;; 0.5 lb; 40 pages" lcc_number="" dewey_decimal_normalized="741" dewey_decimal="741" />
+</BookData>
+</BookList>
+</ISBNdb>

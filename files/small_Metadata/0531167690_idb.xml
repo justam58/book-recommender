@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:51:55Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="rainy_weather_days" isbn="0531167690" isbn13="9780531167694">
+<Title>Rainy weather days</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Pam Rosenberg</AuthorsText>
+<PublisherText publisher_id="childrens_press_a01">New York : Children's Press, c2007.</PublisherText>
+<Details change_time="2011-01-26T16:05:50Z" price_time="2011-03-23T23:14:39Z" edition_info="" language="eng" physical_description_text="24 p. : ill. ; 23 cm." lcc_number="QC924.7" dewey_decimal_normalized="551.577" dewey_decimal="551.57/7" />
+</BookData>
+</BookList>
+</ISBNdb>

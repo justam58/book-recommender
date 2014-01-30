@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:48:31Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_house_on_hackmans_hill_a01" isbn="0590423703" isbn13="9780590423700">
+<Title>The house on Hackman's Hill</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Joan Lowery Nixon</AuthorsText>
+<PublisherText publisher_id="scholastic_inc">New York : Scholastic Inc., c1985.</PublisherText>
+<Details change_time="2004-09-24T17:03:02Z" price_time="2012-09-16T02:24:42Z" edition_info="(pbk.)" language="eng" physical_description_text="126 p. ; 19 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:56:40Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="divine_madness_a06" isbn="0340894342" isbn13="9780340894347">
+<Title>Divine Madness</Title>
+<TitleLong>Divine Madness (CHERUB S.)</TitleLong>
+<AuthorsText>Robert Muchamore, </AuthorsText>
+<PublisherText publisher_id="hodder_childrens_books">Hodder Children's Books</PublisherText>
+<Details change_time="2006-08-31T13:04:10Z" price_time="2012-10-22T05:52:54Z" edition_info="Paperback; 2006-04-06" language="" physical_description_text="320 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

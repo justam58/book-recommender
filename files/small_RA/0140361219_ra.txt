@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|small-town*4|,
+storyline:|linear*5|,|issue-oriented*3|,|humorous*2|,|action-oriented*3|,|episodic*27|,
+pptopic:|illustration*17|,|baby*3|,|war*1|,
+characterization:|sympathetic*1|,

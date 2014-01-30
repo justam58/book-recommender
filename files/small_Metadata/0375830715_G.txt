@@ -1,0 +1,8 @@
+Title ===Tiger===
+Author ===Jeff Stone===
+PublicationDate ===2005===
+Description ===Five young warrior-monk brothers survive an insurrection and must use the ancient arts to avenge their Grandmaster.===
+PageCount ===196===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

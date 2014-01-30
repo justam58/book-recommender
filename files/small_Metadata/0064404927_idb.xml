@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:21:24Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_best_school_year_ever" isbn="0064404927" isbn13="9780064404921">
+<Title>The Best School Year Ever</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Barbara Robinson</AuthorsText>
+<PublisherText publisher_id="harpertrophy">HarperTrophy</PublisherText>
+<Details change_time="2004-12-23T01:55:30Z" price_time="2012-03-10T21:27:02Z" edition_info="Paperback; 1997-08-30" language="" physical_description_text="5.2&quot;x7.6&quot;x0.3&quot;; 128 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

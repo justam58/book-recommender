@@ -1,0 +1,8 @@
+Title ===Harry Potter and the Sorcerer's Stone===
+Author ===J. K. Rowling===
+PublicationDate ===1998===
+Description ===Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Witchcraft and Wizardry.===
+PageCount ===309===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

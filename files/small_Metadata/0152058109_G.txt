@@ -1,0 +1,8 @@
+Title ===Mary Poppins===
+Author ===Pamela Lyndon Travers===
+PublicationDate ===2006-06-01===
+Description ===An extraordinary English nanny blows in on the East Wind with her parrot-headed umbrella and magic carpetbag and introduces her charges, Jane and Michael, to some delightful people and experiences.===
+PageCount ===209===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===3.5===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:38:32Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="monster_a21" isbn="0439202183" isbn13="9780439202183">
+<Title>Monster</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Walter Dean Myers, </AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2007-01-01T06:27:11Z" price_time="2011-06-18T01:10:42Z" edition_info="Hardcover; 2000" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

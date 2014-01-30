@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|heart-warming*1|,|small-town*2|,|popular*2|,
+storyline:|linear*7|,|open-ended*3|,|gentle*1|,|humorous*5|,|tragic*9|,|inspirational*1|,
+pptopic:|adoption*1|,|illustration*4|,|baby*1|,
+characterization:|quirky*3|,|well-developed*5|,|dramatic*1|,|believable*5|,|sympathetic*1|,
+lang_style:|complex*2|,|passionate*1|,|simple*4|,|unusual*2|,|candid*1|,
+pacing:|slow*1|,

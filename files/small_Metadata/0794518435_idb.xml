@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:01:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="survival_a48" isbn="0794518435" isbn13="9780794518431">
+<Title>Survival</Title>
+<TitleLong>Survival (Usborne True Stories)</TitleLong>
+<AuthorsText>Paul Dowswell, </AuthorsText>
+<PublisherText publisher_id="usborne_books">Usborne Books</PublisherText>
+<Details change_time="2009-02-22T15:40:49Z" price_time="2011-07-17T07:36:41Z" edition_info="Paperback; 2008-01" language="" physical_description_text="5.1&quot;x7.6&quot;x0.6&quot;; 0.3 lb; 141 pages" lcc_number="" dewey_decimal_normalized="613.69" dewey_decimal="613.69" />
+</BookData>
+</BookList>
+</ISBNdb>

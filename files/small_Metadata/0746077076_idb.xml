@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:00:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="oliver_twist_a93" isbn="0746077076" isbn13="9780746077078">
+<Title>Oliver Twist</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Charles Dickens; retold by Mary Sebag-Montefiore; illustrated by Barry Ablett; reading consultant: Alison Kelly</AuthorsText>
+<PublisherText publisher_id="usborne_publishing">London : Usborne Publishing, 2006.</PublisherText>
+<Details change_time="2011-03-28T08:31:49Z" price_time="2011-03-28T08:32:05Z" edition_info="" language="eng" physical_description_text="58 p. : col. ill. ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

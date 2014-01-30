@@ -1,0 +1,3 @@
+frame:|romantic*2|,
+pptone:|serious*1|,
+lang_style:|passionate*1|,

@@ -1,0 +1,8 @@
+Title ===A Child Called "It"===
+Author ===David J. Pelzer===
+PublicationDate ===1993===
+Description ===Tells the story of a child's abuse at the hands of his alcoholic mother===
+PageCount ===184===
+Type ===BOOK===
+LCSH ===Biography & Autobiography===
+AvgRate ===4.0===

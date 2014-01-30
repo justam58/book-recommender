@@ -1,0 +1,5 @@
+frame:|descriptive*1|,
+pptone:|sentimental*1|,|dark*1|,|relaxing*1|,
+storyline:|issue-oriented*2|,|mystical*1|,|conclusive*2|,|racy*1|,|folksy*1|,|action-oriented*2|,|tragic*17|,|inspirational*5|,
+pptopic:|death*1|,|illustration*2|,|addiction*1|,|violent*1|,|baby*1|,|war*1|,
+lang_style:|complex*2|,|extravagant*1|,|simple*2|,

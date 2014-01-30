@@ -1,0 +1,4 @@
+frame:|rural*1|,
+storyline:|linear*6|,|gentle*1|,|humorous*26|,
+pptopic:|politics*1|,|illustration*23|,|baby*2|,|war*2|,
+lang_style:|complex*3|,|passionate*2|,|simple*6|,|unusual*1|,

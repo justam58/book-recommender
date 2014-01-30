@@ -1,0 +1,7 @@
+Title ===Peanut===
+PublicationDate ===2007===
+Description ===A lonely, elderly woman adopts a stray animal that she thinks is a dog but is actually an elephant.===
+PageCount ===32===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

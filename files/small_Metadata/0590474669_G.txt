@@ -1,0 +1,7 @@
+Title ===Dog Breath===
+Author ===Dav Pilkey===
+PublicationDate ===1994===
+Description ===Hally, the Tosis family dog, has such bad breath that Mr. and Mrs. Tosis plan to give her away, until she proves to be an invaluable watchdog.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===3.5===

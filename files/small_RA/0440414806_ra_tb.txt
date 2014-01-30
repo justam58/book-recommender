@@ -1,0 +1,4 @@
+frame:|humorous*1|,
+storyline:|linear*1|,
+pptopic:|curse*2|,
+characterization:|sympathetic*1|,

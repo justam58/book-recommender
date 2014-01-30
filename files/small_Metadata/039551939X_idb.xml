@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:24:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="curious_george_goes_to_school_a01" isbn="039551939X" isbn13="9780395519394">
+<Title>Curious George Goes to School</Title>
+<TitleLong>Curious George Goes to School (Curious George, No 21)</TitleLong>
+<AuthorsText>Margret Rey</AuthorsText>
+<PublisherText publisher_id="houghton_mifflin">Houghton Mifflin</PublisherText>
+<Details change_time="2004-12-28T03:32:28Z" price_time="2012-04-15T07:54:24Z" edition_info="Paperback; 1989-10-30" language="" physical_description_text="7.9&quot;x8.1&quot;x0.1&quot;; 32 pages; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

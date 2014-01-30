@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:49:36Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_first_grader_aloha_ha_ha" isbn="0375834036" isbn13="9780375834035">
+<Title>Junie B., first grader</Title>
+<TitleLong>Junie B., first grader: aloha-ha-ha!</TitleLong>
+<AuthorsText>Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2006.</PublisherText>
+<Details change_time="2008-12-27T21:23:52Z" price_time="2012-07-20T04:43:55Z" edition_info="(hardcover)" language="eng" physical_description_text="119 p. : cill. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,7 @@
+frame:|humorous*12|,|historical*1|,|bittersweet*1|,
+pptone:|quirky*1|,|happy*1|,|dark*1|,
+storyline:|linear*3|,|humorous*6|,|tragic*6|,
+pptopic:|death*5|,|illustration*1|,|violent*1|,
+characterization:|well-developed*1|,|believable*1|,
+lang_style:|complex*10|,|passionate*2|,|unusual*6|,
+pacing:|slow*1|,

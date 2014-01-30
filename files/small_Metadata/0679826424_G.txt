@@ -1,0 +1,6 @@
+Title ===Stupid Smelly Bus===
+Author ===Barbara Park===
+PublicationDate ===1993===
+PageCount ===69===
+Type ===BOOK===
+AvgRate ===4.0===

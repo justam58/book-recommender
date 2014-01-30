@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:52:39Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="henrys_freedom_box" isbn="043977733X" isbn13="9780439777339">
+<Title>Henry's freedom box</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Ellen Levine; illustrated by Kadir Nelson</AuthorsText>
+<PublisherText publisher_id="scholastic_press">New York : Scholastic Press, c2007.</PublisherText>
+<Details change_time="2008-07-21T02:13:59Z" price_time="2012-10-10T16:05:56Z" edition_info="(reinforced)" language="eng" physical_description_text="[40] p. : col. ill. ; 29 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

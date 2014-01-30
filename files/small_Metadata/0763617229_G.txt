@@ -1,0 +1,8 @@
+Title ===The Tale of Despereaux===
+Author ===Kate DiCamillo===
+PublicationDate ===2003===
+Description ===The adventures of Desperaux Tilling, a small mouse of unusual talents, the princess that he loves, the servant girl who longs to be a princess, and a devious rat determined to bring them all to ruin.===
+PageCount ===267===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

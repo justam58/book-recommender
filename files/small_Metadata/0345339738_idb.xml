@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:17:58Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_return_of_the_king_a04" isbn="0345339738" isbn13="9780345339737">
+<Title>The return of the king</Title>
+<TitleLong>The return of the king: being the third part of The Lord of the rings</TitleLong>
+<AuthorsText>J. R. R. Tolkien</AuthorsText>
+<PublisherText publisher_id="ballantine_books">New York : Ballantine Books, c1983.</PublisherText>
+<Details change_time="2010-04-22T02:19:35Z" price_time="2013-02-08T17:04:28Z" edition_info="(pbk.)" language="eng" physical_description_text="507 p. : maps ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

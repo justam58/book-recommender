@@ -1,0 +1,5 @@
+Title ===Percy Jackson===
+Author ===Rick Riordan===
+PublicationDate ===2011===
+PageCount ===407===
+Type ===BOOK===

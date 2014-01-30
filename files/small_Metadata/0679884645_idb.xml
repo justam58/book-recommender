@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:43:13Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="arthur_tricks_the_tooth_fairy" isbn="0679884645" isbn13="9780679884644">
+<Title>Arthur tricks the tooth fairy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Marc Brown</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1997.</PublisherText>
+<Details change_time="2007-12-08T21:08:22Z" price_time="2012-12-13T03:23:40Z" edition_info="(trade)" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

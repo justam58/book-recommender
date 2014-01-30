@@ -1,0 +1,5 @@
+frame:|evocative*1|,|romantic*2|,|gritty*1|,|historical*3|,
+storyline:|linear*3|,|gentle*2|,|conclusive*2|,|folksy*1|,|tragic*6|,|inspirational*7|,
+pptopic:|death*2|,|illustration*3|,|violent*1|,|war*28|,
+characterization:|well-developed*2|,|believable*6|,|sympathetic*1|,
+lang_style:|extravagant*1|,|unusual*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:55:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="dead_letter_a01" isbn="0140381384" isbn13="9780140381382">
+<Title>Dead letter</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Betsy Byars</AuthorsText>
+<PublisherText publisher_id="puffin_books">New York, N.Y. : Puffin Books, 1998.</PublisherText>
+<Details change_time="2004-02-22T19:25:23Z" price_time="2010-11-11T02:18:26Z" edition_info="" language="eng" physical_description_text="147 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

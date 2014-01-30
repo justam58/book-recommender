@@ -1,0 +1,7 @@
+Title ===Chicken Soup for the Girl's Soul===
+PublicationDate ===2005===
+Description ===Provides inspirational stories from girls on the topics of peer pressure, crushes, body changes, and friendship.===
+PageCount ===345===
+Type ===BOOK===
+LCSH ===Juvenile Nonfiction===
+AvgRate ===4.0===

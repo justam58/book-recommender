@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:22:53Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="harry_potter_and_the_prisoner_of_azkaban_a03" isbn="0439136350" isbn13="9780439136358">
+<Title>Harry Potter and the prisoner of Azkaban</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by J. K. Rowling</AuthorsText>
+<PublisherText publisher_id="arthur_a_levine_books">New York : Arthur A. Levine Books, 1999.</PublisherText>
+<Details change_time="2004-08-11T01:03:03Z" price_time="2013-01-28T06:13:20Z" edition_info="(hc)" language="eng" physical_description_text="ix, 435 p. : ill. ; 24 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

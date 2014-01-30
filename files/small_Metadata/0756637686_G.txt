@@ -1,0 +1,7 @@
+Title ===Bird===
+Author ===David Burnie===
+PublicationDate ===2008-05-01===
+Description ===A photo-essay on the world of birds examines such topics as body construction, feathers and flight, the adaptation of beaks and feet, feeding habits, courtship, nests and eggs, and bird watching.===
+PageCount ===72===
+Type ===BOOK===
+AvgRate ===4.0===

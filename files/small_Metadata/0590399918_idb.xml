@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:43:03Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="invasion_of_the_body_squeezers" isbn="0590399918" isbn13="9780590399913">
+<Title>Invasion of the body squeezers</Title>
+<TitleLong>Invasion of the body squeezers: part 1</TitleLong>
+<AuthorsText>R. L. Stine</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, 1998.</PublisherText>
+<Details change_time="2008-07-20T03:28:53Z" price_time="2010-11-25T04:55:12Z" edition_info="" language="eng" physical_description_text="120 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,3 @@
+storyline:|complex*1|,
+characterization:|stereotypes*1|,|well-developed*1|,|sympathetic*1|,
+lang_style:|passionate*1|,

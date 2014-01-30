@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:37:16Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="ugly_guide_to_things_that_go_and_things_that_should_go_but_d" isbn="0375843701" isbn13="9780375843709">
+<Title>The ugly guide to things that go and things that should go but don't</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by David Horvath and Sun-Min Kim</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2008.</PublisherText>
+<Details change_time="2009-01-21T19:47:24Z" price_time="2012-04-25T18:32:13Z" edition_info="(trade)" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

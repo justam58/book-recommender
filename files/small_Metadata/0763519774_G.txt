@@ -1,0 +1,7 @@
+Title ===Cats===
+Author ===Clive Harper===
+Author ===Beverley Randell===
+PublicationDate ===1997-10-17===
+PageCount ===17===
+Type ===BOOK===
+LCSH ===Juvenile Nonfiction===

@@ -1,0 +1,7 @@
+Title ===Paper Boy===
+Author ===Dav Pilkey===
+PublicationDate ===1996===
+Description ===A boy and his dog savour the silence of the early morning as they deliver papers.===
+PageCount ===32===
+Type ===BOOK===
+AvgRate ===3.5===

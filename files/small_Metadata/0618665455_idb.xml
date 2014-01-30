@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:50:30Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="deep_and_dark_and_dangerous" isbn="0618665455" isbn13="9780618665457">
+<Title>Deep and dark and dangerous</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Mary Downing Hahn</AuthorsText>
+<PublisherText publisher_id="clarion_books">New York : Clarion Books, c2007.</PublisherText>
+<Details change_time="2008-10-06T06:43:12Z" price_time="2012-08-01T17:14:37Z" edition_info="" language="eng" physical_description_text="187 p. ; 23 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

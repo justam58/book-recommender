@@ -1,0 +1,7 @@
+Title ===Harriet Tubman===
+Author ===Wil Mara===
+PublicationDate ===2002-09-01===
+Description ===Presents a brief look at the life of Harriet Tubman===
+PageCount ===31===
+Type ===BOOK===
+AvgRate ===5.0===

@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|humorous*1|,
+storyline:|thought-provoking*1|,|humorous*1|,
+characterization:|distant*1|,
+lang_style:|unusual*1|,

@@ -1,0 +1,9 @@
+Title ===Stone Fox===
+Author ===John Reynolds Gardiner===
+Author ===Marcia Sewall===
+PublicationDate ===2003===
+Description ===In spite of tremendous odds, a ten-year-old boy and his dog are determined to win a dogsled race and the five-hundred-dollar prize.===
+PageCount ===96===
+Type ===BOOK===
+LCSH ===Pets===
+AvgRate ===4.0===

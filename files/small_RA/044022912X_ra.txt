@@ -1,0 +1,7 @@
+frame:|hard-edged*2|,|small-town*1|,|melodramatic*2|,|romantic*1|,|humorous*1|,|historical*2|,|descriptive*1|,|bittersweet*1|,
+pptone:|serious*2|,
+storyline:|complex*1|,|open-ended*1|,|conclusive*1|,|gentle*2|,|violent*1|,|tragic*4|,|inspirational*1|,
+pptopic:|death*2|,|illustration*3|,|war*16|,
+characterization:|well-developed*2|,|evocative*1|,
+lang_style:|complex*2|,|extravagant*1|,|simple*1|,|unusual*1|,
+pacing:|fast*1|,

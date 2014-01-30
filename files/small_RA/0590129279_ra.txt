@@ -1,0 +1,5 @@
+frame:|heart-warming*1|,|timeless*1|,
+storyline:|thought-provoking*1|,|linear*2|,|gentle*3|,|humorous*1|,|inspirational*1|,
+pptopic:|politics*1|,|cynical*1|,|illustration*12|,|war*1|,
+characterization:|believable*1|,
+lang_style:|passionate*1|,|simple*3|,|poetic*1|,

@@ -1,0 +1,4 @@
+storyline:|mystical*2|,|humorous*35|,
+pptopic:|illustration*2|,
+characterization:|linear*1|,
+lang_style:|thoughtful*1|,|natural*1|,

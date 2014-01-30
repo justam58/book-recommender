@@ -1,0 +1,8 @@
+Title ===The Witches===
+Author ===Roald Dahl===
+PublicationDate ===1998-06-01===
+Description ===A young boy and his Norwegian grandmother, who is an expert on witches, together foil a witches' plot to destroy the world's children by turning them into mice.===
+PageCount ===206===
+Type ===BOOK===
+LCSH ===Family & Relationships===
+AvgRate ===4.0===

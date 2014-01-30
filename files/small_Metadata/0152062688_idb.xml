@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:54:07Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="peak_a01" isbn="0152062688" isbn13="9780152062682">
+<Title>Peak</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Roland Smith</AuthorsText>
+<PublisherText publisher_id="harcourt">Orlando, FL : Harcourt, c2008.</PublisherText>
+<Details change_time="2009-07-21T00:25:11Z" price_time="2012-08-14T13:56:45Z" edition_info="(pbk.)" language="eng" physical_description_text="246 p. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

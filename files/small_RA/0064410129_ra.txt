@@ -1,0 +1,6 @@
+frame:|romantic*1|,
+storyline:|issue-oriented*1|,|linear*1|,|character-centered*6|,|family-centered*6|,|plot-centered*6|,|racy*2|,|humorous*3|,|action-oriented*1|,|mythic*2|,|tragic*3|,|episodic*1|,
+pptopic:|death*2|,|illustration*4|,|baby*7|,|violent*2|,
+characterization:|quirky*1|,|believable*1|,|sympathetic*1|,
+lang_style:|passionate*2|,|dramatic*1|,|unusual*4|,
+pacing:|engrossing*1|,|fast*3|,

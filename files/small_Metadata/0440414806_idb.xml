@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:41:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="holes_yearling_newbery" isbn="0440414806" isbn13="9780440414803">
+<Title>Holes</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Louis Sachar</AuthorsText>
+<PublisherText publisher_id="farrar_straus_and_giroux">New York : Farrar, Straus and Giroux, 1998.</PublisherText>
+<Details change_time="2011-05-09T03:16:26Z" price_time="2012-12-28T06:11:08Z" edition_info="(pbk.)" language="eng" physical_description_text="233 p. ; 20 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

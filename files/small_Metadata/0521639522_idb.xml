@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:42:49Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="oscar_wilde_the_importance_of_being_earnest" isbn="0521639522" isbn13="9780521639521">
+<Title>The importance of being Earnest</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Oscar Wilde; edited by John Lancaster; series editor, Judith Baxter</AuthorsText>
+<PublisherText publisher_id="cambridge_university_press">Cambridge, U.K. ; Cambridge University Press, 1999.</PublisherText>
+<Details change_time="2011-05-29T04:51:04Z" price_time="2011-05-29T04:56:34Z" edition_info="(pbk.)" language="eng" physical_description_text="126 p. ; 20 cm." lcc_number="PR5818" dewey_decimal_normalized="822.8" dewey_decimal="822/.8" />
+</BookData>
+</BookList>
+</ISBNdb>

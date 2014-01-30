@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|romantic*1|,|historical*1|,
+storyline:|thought-provoking*1|,
+characterization:|well-developed*2|,
+lang_style:|passionate*1|,|unusual*1|,

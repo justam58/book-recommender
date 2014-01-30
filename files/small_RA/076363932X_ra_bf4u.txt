@@ -1,0 +1,4 @@
+pptone:|realistic*1|,
+storyline:|gentle*1|,|racy*1|,|violent*1|,
+pptopic:|bullying*1|,|illustration*1|,
+characterization:|believable*1|,

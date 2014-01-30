@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:32:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="sarah_plain_and_tall_a03" isbn="0064402053" isbn13="9780064402057">
+<Title>Sarah, plain and tall</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Patricia MacLachlan</AuthorsText>
+<PublisherText publisher_id="harper_row">New York : Harper &amp; Row, 1987, c1985.</PublisherText>
+<Details change_time="2004-11-24T13:17:21Z" price_time="2012-11-30T11:21:20Z" edition_info="(pbk.)" language="eng" physical_description_text="58 p. ; 21 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,4 @@
+storyline:|tragic*2|,
+pptopic:|death*6|,
+characterization:|believable*1|,
+lang_style:|passionate*1|,|unusual*1|,

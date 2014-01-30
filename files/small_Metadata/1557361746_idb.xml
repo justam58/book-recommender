@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:03:25Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="theres_a_boy_in_the_girls_bathroom_large_print" isbn="1557361746" isbn13="9781557361745">
+<Title>There's a Boy in the Girls' Bathroom/Large Print</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Louis Sachar, </AuthorsText>
+<PublisherText publisher_id="cornerstone_books">Cornerstone Books</PublisherText>
+<Details change_time="2006-01-10T20:15:45Z" price_time="2010-04-20T04:11:00Z" edition_info="Hardcover; 1990-10" language="" physical_description_text="261 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

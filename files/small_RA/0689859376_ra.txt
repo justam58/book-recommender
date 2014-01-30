@@ -1,0 +1,5 @@
+frame:|hard-edged*1|,|sensual*1|,
+storyline:|mystical*1|,
+pptopic:|illustration*3|,
+characterization:|believable*1|,
+lang_style:|unusual*1|,

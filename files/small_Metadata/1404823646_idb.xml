@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:34:47Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="whats_in_a_name_a_book_of_name_jokes" isbn="1404823646" isbn13="9781404823648">
+<Title>What's in a Name?: A Book of Name Jokes</Title>
+<TitleLong>What's in a Name?: A Book of Name Jokes (Read-It! Joke Books) (Read-It! Joke Books)</TitleLong>
+<AuthorsText>Jill L. Donahue, Zachary Trover (Illustrator)</AuthorsText>
+<PublisherText publisher_id="picture_window_books">Picture Window Books</PublisherText>
+<Details change_time="2008-08-20T13:04:58Z" price_time="2011-08-17T06:41:32Z" edition_info="Library Binding; 2006-08" language="" physical_description_text="5.8&quot;x8.3&quot;x0.3&quot;; 0.3 lb; 24 pages" lcc_number="" dewey_decimal_normalized="818.602" dewey_decimal="818.602" />
+</BookData>
+</BookList>
+</ISBNdb>

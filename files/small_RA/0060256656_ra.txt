@@ -1,0 +1,5 @@
+frame:|romantic*1|,
+pptone:|realistic*1|,
+storyline:|thought-provoking*1|,|open-ended*1|,|linear*13|,|gentle*3|,|racy*1|,|humorous*1|,|mythic*1|,|tragic*12|,|inspirational*1|,
+pptopic:|death*1|,|illustration*16|,|baby*4|,
+lang_style:|passionate*1|,|simple*6|,|dramatic*1|,

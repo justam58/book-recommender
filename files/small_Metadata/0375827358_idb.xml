@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:45:45Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="summer_of_the_sea_serpent_a01" isbn="0375827358" isbn13="9780375827358">
+<Title>Summer of the sea serpent</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Mary Pope Osborne; illustrated by Sal Murdocca</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c2004.</PublisherText>
+<Details change_time="2004-10-11T00:37:17Z" price_time="2012-03-13T15:05:44Z" edition_info="(trade)" language="eng" physical_description_text="111 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

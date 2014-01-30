@@ -1,0 +1,3 @@
+pptopic:|illustration*3|,
+characterization:|believable*1|,
+lang_style:|thoughtful*1|,

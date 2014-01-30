@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:47:23Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="penny_from_heaven_a01" isbn="0375836896" isbn13="9780375836893">
+<Title>Penny from heaven</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Jennifer L. Holm</AuthorsText>
+<PublisherText publisher_id="random_house_childrens_books">New York : Random House Children's Books, c2006.</PublisherText>
+<Details change_time="2008-01-01T16:52:44Z" price_time="2011-07-15T18:40:22Z" edition_info="(pbk.)" language="eng" physical_description_text="274 p. : ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

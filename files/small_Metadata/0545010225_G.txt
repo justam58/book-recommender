@@ -1,0 +1,7 @@
+Title ===Harry Potter and the deathly hallows===
+Author ===J. K. Rowling===
+PublicationDate ===2007===
+Description ===The seventh and final book of the blockbuster Harry Potter series follows the wizard's last year at Hogwarts School of Witchcraft and Wizardry. 12,000,000 first printing.===
+PageCount ===759===
+Type ===BOOK===
+AvgRate ===4.0===

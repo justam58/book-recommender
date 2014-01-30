@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:25:54Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="three_up_a_tree" isbn="014037003X" isbn13="9780140370034">
+<Title>Three up a tree</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by James Marshall</AuthorsText>
+<PublisherText publisher_id="dial_books_for_young_readers">New York : Dial Books for Young Readers, c1986.</PublisherText>
+<Details change_time="2010-01-28T21:27:26Z" price_time="2013-01-07T05:41:13Z" edition_info="(pbk.) :$3.99" language="eng" physical_description_text="48 p. : col. ill. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

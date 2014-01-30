@@ -1,0 +1,4 @@
+frame:|small-town*1|,
+storyline:|thought-provoking*1|,|conclusive*1|,|character-centered*1|,|family-centered*1|,|plot-centered*1|,|tragic*2|,|inspirational*17|,
+pptopic:|religion*2|,|illustration*1|,|disease*1|,
+lang_style:|complex*1|,|simple*1|,

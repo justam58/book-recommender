@@ -1,0 +1,6 @@
+Title ===The Borrowers===
+Author ===Mary Norton===
+PublicationDate ===1964===
+PageCount ===159===
+Type ===BOOK===
+AvgRate ===4.0===

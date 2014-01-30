@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:49:48Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_is_party_animal" isbn="0679986634" isbn13="9780679986638">
+<Title>Junie B. Jones is a party animal</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, 1997.</PublisherText>
+<Details change_time="2006-02-06T04:17:18Z" price_time="2011-04-14T06:09:29Z" edition_info="(lib. bdg.)" language="eng" physical_description_text="71 p. : ill. ; 20 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

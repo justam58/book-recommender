@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:39:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="hatchet_a19" isbn="1416936467" isbn13="9781416936466">
+<Title>Hatchet</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Gary Paulsen, </AuthorsText>
+<PublisherText publisher_id="simon_pulse">Simon Pulse</PublisherText>
+<Details change_time="2007-04-03T23:43:52Z" price_time="2012-11-26T23:32:36Z" edition_info="Mass Market Paperback; 2006-12-26" language="" physical_description_text="208 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

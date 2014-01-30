@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:33:01Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="henry_and_the_clubhouse_a01" isbn="0380709155" isbn13="9780380709151">
+<Title>Henry and the clubhouse</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Beverly Cleary; illustrated by Louis Darling</AuthorsText>
+<PublisherText publisher_id="avon_books">New York : Avon Books, [1990?]</PublisherText>
+<Details change_time="2007-05-29T16:33:51Z" price_time="2012-05-05T21:22:18Z" edition_info="" language="eng" physical_description_text="192 p. : ill. ; 19 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

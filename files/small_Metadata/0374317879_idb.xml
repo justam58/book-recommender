@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:36:27Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_ghost_of_fossil_glen" isbn="0374317879" isbn13="9780374317874">
+<Title>The ghost of Fossil Glen</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Cynthia DeFelice</AuthorsText>
+<PublisherText publisher_id="farrar_straus_and_giroux">New York : Farrar, Straus and Giroux, c1998.</PublisherText>
+<Details change_time="2003-11-05T23:30:55Z" price_time="2012-03-01T15:19:10Z" edition_info="" language="eng" physical_description_text="167 p. ; 22 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

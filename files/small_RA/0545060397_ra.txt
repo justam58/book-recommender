@@ -1,0 +1,6 @@
+frame:|romantic*1|,|gritty*1|,
+storyline:|conclusive*1|,|humorous*2|,
+pptopic:|illustration*2|,|addiction*1|,|violent*1|,
+characterization:|well-developed*3|,|believable*1|,|sympathetic*8|,
+lang_style:|complex*1|,|passionate*1|,|unusual*27|,
+pacing:|fast*2|,

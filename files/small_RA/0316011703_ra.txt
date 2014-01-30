@@ -1,0 +1,4 @@
+frame:|heart-warming*1|,|bittersweet*1|,
+storyline:|open-ended*1|,|complex*1|,|gentle*4|,|tragic*2|,|inspirational*1|,
+characterization:|well-developed*1|,|believable*5|,
+lang_style:|simple*2|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T02:11:30Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_subtle_knife_a05" isbn="0345413369" isbn13="9780345413369">
+<Title>The subtle knife</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Philip Pullman</AuthorsText>
+<PublisherText publisher_id="ballantine_books">New York : Ballantine Books, 1998, c1997.</PublisherText>
+<Details change_time="2010-08-12T21:33:52Z" price_time="2013-01-15T07:25:44Z" edition_info="" language="eng" physical_description_text="[10], 288 p. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

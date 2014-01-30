@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:26:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="junie_b_jones_and_the_stupid_smelly_bus" isbn="0679826424" isbn13="9780679826422">
+<Title>Junie B. Jones and the stupid smelly bus</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Barbara Park; illustrated by Denise Brunkus</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1992.</PublisherText>
+<Details change_time="2004-07-27T03:35:51Z" price_time="2013-01-31T20:31:27Z" edition_info="" language="eng" physical_description_text="69 p. : ill. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[E]" />
+</BookData>
+</BookList>
+</ISBNdb>

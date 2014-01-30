@@ -1,0 +1,7 @@
+Title ===Hatchet===
+Author ===Gary Paulsen===
+PublicationDate ===1996-10-01===
+Description ===After a plane crash, thirteen-year-old Brian spends fifty-four days in the wilderness, learning to survive initially with only the aid of a hatchet given him by his mother, and learning also to survive his parents' divorce.===
+PageCount ===195===
+Type ===BOOK===
+AvgRate ===3.5===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:42:08Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_picture_of_dorian_gray_a24" isbn="014043187X" isbn13="9780140431872">
+<Title>The picture of Dorian Gray</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Oscar Wilde; edited by Peter Ackroyd</AuthorsText>
+<PublisherText publisher_id="penguin">London ; Penguin, c1985.</PublisherText>
+<Details change_time="2008-07-17T07:34:02Z" price_time="2012-09-23T20:49:15Z" edition_info="(pbk.)" language="eng" physical_description_text="xv, 251 p. ; 20 cm." lcc_number="PR5819" dewey_decimal_normalized="823.8" dewey_decimal="823.8" />
+</BookData>
+</BookList>
+</ISBNdb>

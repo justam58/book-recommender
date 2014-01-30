@@ -1,0 +1,8 @@
+Title ===Eagle Strike===
+Author ===Anthony Horowitz===
+PublicationDate ===2004-04-12===
+Description ===When the world-famous Damian Cray goes mad and decides that he should be in control of launching nuclear missiles, Alex Rider takes on the task of tracking him down and putting a stop to his crazed plan that is certain to cause the death of millions.===
+PageCount ===256===
+Type ===BOOK===
+LCSH ===True Crime===
+AvgRate ===4.0===

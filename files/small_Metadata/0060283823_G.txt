@@ -1,0 +1,7 @@
+Title ===Inspector Hopper===
+Author ===Doug Cushman===
+PublicationDate ===2000-04-01===
+Description ===Inspector Hopper and his perpetually hungry assistant McBugg solve three mysteries for their insect friends.===
+PageCount ===64===
+Type ===BOOK===
+AvgRate ===4.0===

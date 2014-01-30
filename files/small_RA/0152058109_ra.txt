@@ -1,0 +1,5 @@
+frame:|popular*1|,
+storyline:|gentle*1|,
+pptopic:|illustration*4|,|baby*1|,
+characterization:|well-developed*1|,
+lang_style:|simple*1|,|unusual*1|,

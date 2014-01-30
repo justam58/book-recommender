@@ -1,0 +1,2 @@
+storyline:|character-centered*2|,|family-centered*2|,|plot-centered*2|,
+characterization:|believable*3|,

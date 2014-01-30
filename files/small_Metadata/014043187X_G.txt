@@ -1,0 +1,7 @@
+Title ===The Picture of Dorian Gray===
+Author ===Oscar Wilde===
+PublicationDate ===1997-01===
+Description ===With an Introduction and Notes by John M.L. Drew, University of Buckingham.===
+PageCount ===234===
+Type ===BOOK===
+AvgRate ===3.5===

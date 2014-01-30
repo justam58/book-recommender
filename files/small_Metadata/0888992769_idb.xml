@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:12:52Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="a_salmon_for_simon_a04" isbn="0888992769" isbn13="9780888992765">
+<Title>A salmon for Simon</Title>
+<TitleLong></TitleLong>
+<AuthorsText>story by Betty Waterton; pictures by Ann Blades</AuthorsText>
+<PublisherText publisher_id="groundwood_books">Toronto : Groundwood Books, 1996, c1978.</PublisherText>
+<Details change_time="2010-06-19T04:43:18Z" price_time="2012-07-24T20:04:13Z" edition_info="$4.95" language="eng" physical_description_text="[28] p. : col. ill. ; 23 cm." lcc_number="" dewey_decimal_normalized="813.54" dewey_decimal="jC813/.54" />
+</BookData>
+</BookList>
+</ISBNdb>

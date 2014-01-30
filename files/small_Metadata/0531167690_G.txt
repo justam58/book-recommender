@@ -1,0 +1,6 @@
+Title ===Rainy Weather Days===
+Author ===Pam Rosenberg===
+PublicationDate ===2006-09-01===
+Description ===Simple text and colorful pictures describe what rain is, when it can fall, and the good things rain can do.===
+PageCount ===24===
+Type ===BOOK===

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:54:53Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="mrs_mike" isbn="0425103285" isbn13="9780425103289">
+<Title>Mrs. Mike</Title>
+<TitleLong>Mrs. Mike: the story of Katherine Mary Flannigan</TitleLong>
+<AuthorsText>Benedict &amp; Nancy Freedman</AuthorsText>
+<PublisherText publisher_id="berkley_books">New York : Berkley Books, c1975, c1947.</PublisherText>
+<Details change_time="2004-07-26T10:46:52Z" price_time="2013-01-27T02:40:55Z" edition_info="" language="eng" physical_description_text="284 p. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

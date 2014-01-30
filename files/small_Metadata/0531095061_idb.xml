@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:31:56Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_paperboy_a01" isbn="0531095061" isbn13="9780531095065">
+<Title>The paperboy</Title>
+<TitleLong></TitleLong>
+<AuthorsText>story and paintings by Dav Pilkey</AuthorsText>
+<PublisherText publisher_id="orchard_books">New York : Orchard Books, c1996.</PublisherText>
+<Details change_time="2003-10-31T22:27:59Z" price_time="2012-03-23T12:25:21Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 27 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

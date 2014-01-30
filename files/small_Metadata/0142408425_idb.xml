@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:18:40Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_burning_bridge" isbn="0142408425" isbn13="9780142408421">
+<Title>The Burning Bridge</Title>
+<TitleLong>The Burning Bridge (The Ranger's Apprentice, Book 2)</TitleLong>
+<AuthorsText>John Flanagan, </AuthorsText>
+<PublisherText publisher_id="puffin">Puffin</PublisherText>
+<Details change_time="2007-07-22T15:16:47Z" price_time="2013-01-29T17:09:44Z" edition_info="Paperback; 2007-06-26" language="" physical_description_text="288 pages" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

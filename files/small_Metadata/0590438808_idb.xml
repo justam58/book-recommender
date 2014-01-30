@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:35:15Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="aesops_fables_a19" isbn="0590438808" isbn13="9780590438803">
+<Title>Aesop's Fables</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Ann McGovern</AuthorsText>
+<PublisherText publisher_id="scholastic">Scholastic</PublisherText>
+<Details change_time="2004-12-22T23:02:59Z" price_time="2012-03-06T16:23:00Z" edition_info="Paperback; 1963" language="" physical_description_text="5.3&quot;x7.7&quot;x0.3&quot;; 0.2 lb" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

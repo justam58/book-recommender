@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:29:29Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_random_house_book_of_greek_myths_a01" isbn="0679823778" isbn13="9780679823773">
+<Title>The Random House book of Greek myths</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Joan D. Vinge; illustrated by Oren Sherman</AuthorsText>
+<PublisherText publisher_id="random_house">New York : Random House, c1999.</PublisherText>
+<Details change_time="2004-11-11T20:43:02Z" price_time="2010-11-16T04:31:40Z" edition_info="(trade)" language="eng" physical_description_text="152 p. : col. ill. ; 28 cm." lcc_number="BL782" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

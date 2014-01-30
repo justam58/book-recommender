@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|heart-warming*1|,|historical*5|,
+storyline:|open-ended*1|,
+pptopic:|war*5|,
+lang_style:|simple*4|,|conversational*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:45:11Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="inkheart" isbn="0439531640" isbn13="9780439531641">
+<Title>Inkheart</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Cornelia Funke; translated from the German by Anthea Bell</AuthorsText>
+<PublisherText publisher_id="scholastic">New York : Scholastic, 2003.</PublisherText>
+<Details change_time="2011-01-09T14:54:35Z" price_time="2012-07-20T18:11:49Z" edition_info="" language="eng" physical_description_text="534 p. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

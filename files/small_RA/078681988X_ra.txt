@@ -1,0 +1,5 @@
+pptone:|happy*1|,
+storyline:|linear*3|,|complex*2|,|humorous*9|,
+pptopic:|illustration*13|,|baby*1|,
+characterization:|well-developed*1|,
+lang_style:|passionate*2|,|simple*6|,|unusual*2|,|thoughtful*1|,

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:34:09Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="gods_demigods_and_demons" isbn="0590414488" isbn13="9780590414487">
+<Title>Gods demigods &amp; demons</Title>
+<TitleLong>Gods demigods &amp; demons: an encyclopedia of Greek mythology</TitleLong>
+<AuthorsText>Bernard Evslin</AuthorsText>
+<PublisherText publisher_id="scholastic">New York, NY : Scholastic, c1975.</PublisherText>
+<Details change_time="2005-06-05T04:58:44Z" price_time="2012-12-12T20:00:28Z" edition_info="" language="eng" physical_description_text="234 p. ; 18 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

@@ -1,0 +1,6 @@
+frame:|hard-edged*2|,|heart-warming*2|,|small-town*1|,|melodramatic*1|,|bittersweet*1|,
+pptone:|uplifting*1|,|dark*1|,|old-fashioned*1|,|relaxing*1|,
+storyline:|thought-provoking*2|,|linear*6|,|complex*3|,|gentle*1|,|racy*1|,|violent*1|,|mythic*1|,|tragic*5|,
+pptopic:|death*2|,|illustration*20|,|curse*1|,|violent*3|,
+characterization:|well-developed*1|,|believable*1|,
+lang_style:|complex*2|,|passionate*7|,|dramatic*2|,|unusual*3|,|candid*1|,|classic*1|,

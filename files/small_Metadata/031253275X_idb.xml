@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:38:06Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="evermore_a02" isbn="031253275X" isbn13="9780312532758">
+<Title>Evermore</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Alyson Noël</AuthorsText>
+<PublisherText publisher_id="st_martins_griffin">New York : St. Martin's Griffin, c2009.</PublisherText>
+<Details change_time="2011-07-04T22:58:54Z" price_time="2012-09-22T07:40:37Z" edition_info="" language="eng" physical_description_text="306 p. ; 21 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="[Fic]" />
+</BookData>
+</BookList>
+</ISBNdb>

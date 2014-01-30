@@ -1,0 +1,9 @@
+Title ===Aesop's Fables===
+Author ===Aesop===
+Author ===Arthur Geisert===
+PublicationDate ===1990-10-01===
+Description ===Sixty-seven familiar and not so familiar fables from Aesop, including the tortoise and the hare, the frogs who wanted a king, the lion who fell in love, and the donkey who danced on the roof.===
+PageCount ===80===
+Type ===BOOK===
+LCSH ===Juvenile Fiction===
+AvgRate ===4.0===

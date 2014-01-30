@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:52:08Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="snowy_weather_days" isbn="0531167739" isbn13="9780531167731">
+<Title>Snowy weather days</Title>
+<TitleLong></TitleLong>
+<AuthorsText>by Katie Marsico</AuthorsText>
+<PublisherText publisher_id="childrens_press_a01">New York : Children's Press, c2007.</PublisherText>
+<Details change_time="2011-01-26T16:06:09Z" price_time="2011-01-26T17:17:09Z" edition_info="" language="eng" physical_description_text="24 p. : col. ill. ; 22 cm." lcc_number="QC929" dewey_decimal_normalized="551.5784" dewey_decimal="551.5784" />
+</BookData>
+</BookList>
+</ISBNdb>

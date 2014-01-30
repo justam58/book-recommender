@@ -1,0 +1,6 @@
+frame:|hard-edged*3|,|humorous*1|,
+storyline:|linear*2|,
+pptopic:|sex*1|,|war*2|,
+characterization:|well-developed*2|,|believable*1|,|sympathetic*2|,
+lang_style:|complex*2|,|passionate*3|,
+pacing:|fast*1|,

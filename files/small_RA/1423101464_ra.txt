@@ -1,0 +1,6 @@
+frame:|hard-edged*1|,|school*2|,|timeless*1|,|humorous*1|,
+storyline:|linear*1|,|gentle*1|,
+pptopic:|addiction*2|,|curse*1|,|violent*1|,
+characterization:|linear*1|,|well-developed*2|,|believable*1|,|sympathetic*1|,
+lang_style:|passionate*3|,|unusual*2|,
+pacing:|fast*4|,

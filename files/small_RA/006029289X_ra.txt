@@ -1,0 +1,5 @@
+frame:|romantic*2|,|historical*1|,
+pptone:|uplifting*1|,
+storyline:|linear*8|,
+pptopic:|death*2|,|illustration*2|,
+lang_style:|passionate*8|,|simple*1|,|poetic*1|,|unusual*2|,|candid*1|,|thoughtful*2|,

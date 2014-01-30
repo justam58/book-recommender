@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:13:59Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="spy_cat_a02" isbn="0142412198" isbn13="9780142412190">
+<Title>Spy cat</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Peg Kehret and Pete the Cat</AuthorsText>
+<PublisherText publisher_id="dutton_childrens_books">New York : Dutton Children's Books, c2003.</PublisherText>
+<Details change_time="2008-11-22T17:10:59Z" price_time="2010-09-26T22:39:08Z" edition_info="(pbk. : Puffin Sleuth)" language="eng" physical_description_text="181 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

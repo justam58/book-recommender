@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:01:13Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="jack_and_the_beanstalk_a17" isbn="0688152813" isbn13="9780688152819">
+<Title>Jack and the beanstalk</Title>
+<TitleLong></TitleLong>
+<AuthorsText>retold and illustrated by Steven Kellogg</AuthorsText>
+<PublisherText publisher_id="mulberry_books">New York : Mulberry Books, 1997, c1991.</PublisherText>
+<Details change_time="2011-08-29T16:58:31Z" price_time="2012-10-29T08:49:08Z" edition_info="(lib. bdg.)" language="eng" physical_description_text="ca. 32 p. : col. ill. ; 29 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

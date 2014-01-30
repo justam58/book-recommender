@@ -1,0 +1,4 @@
+frame:|hard-edged*1|,|school*1|,|popular*1|,
+pptopic:|bullying*1|,|death*2|,|illustration*1|,
+characterization:|well-developed*1|,
+lang_style:|passionate*1|,|dramatic*1|,|unusual*1|,|thoughtful*1|,

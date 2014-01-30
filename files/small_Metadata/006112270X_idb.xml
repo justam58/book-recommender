@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:00:18Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="football_genius" isbn="006112270X" isbn13="9780061122705">
+<Title>Football genius</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Tim Green</AuthorsText>
+<PublisherText publisher_id="harpercollinspublishers">New York : HarperCollinsPublishers, c2007.</PublisherText>
+<Details change_time="2008-09-28T05:54:54Z" price_time="2011-10-13T06:49:52Z" edition_info="(trade bdg.)" language="eng" physical_description_text="244 p. ; 24 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

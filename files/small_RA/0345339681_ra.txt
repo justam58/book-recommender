@@ -1,0 +1,6 @@
+frame:|hard-edged*3|,|suspenseful*1|,|popular*1|,|romantic*2|,|literary*1|,
+storyline:|issue-oriented*4|,|complex*2|,|gentle*2|,|humorous*1|,|violent*2|,|action-oriented*4|,|mythic*1|,
+pptopic:|illustration*18|,|violent*1|,
+characterization:|multiple points of view*1|,|linear*1|,|well-developed*3|,|dramatic*1|,|believable*6|,
+lang_style:|complex*1|,|passionate*2|,|simple*3|,|unusual*7|,|thoughtful*1|,|conversational*1|,
+pacing:|slow*1|,|fast*1|,

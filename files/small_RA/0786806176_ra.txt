@@ -1,0 +1,5 @@
+frame:|suspenseful*2|,|contemporary*1|,|descriptive*1|,
+storyline:|racy*1|,|tragic*1|,
+pptopic:|bullying*6|,
+characterization:|well-developed*1|,|sympathetic*1|,
+lang_style:|passionate*1|,|unusual*2|,

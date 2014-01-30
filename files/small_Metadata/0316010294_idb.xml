@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:41:24Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="and_nobody_got_hurt" isbn="0316010294" isbn13="9780316010290">
+<Title>And nobody got hurt!</Title>
+<TitleLong>And nobody got hurt!: the world's weirdest, wackiest true sports stories</TitleLong>
+<AuthorsText>Len Berman; illustrated by Kent Gamble</AuthorsText>
+<PublisherText publisher_id="little_brown_and_co_a01">New York : Little, Brown, and Co., 2005.</PublisherText>
+<Details change_time="2009-01-25T20:42:56Z" price_time="2012-12-11T08:53:56Z" edition_info="" language="eng" physical_description_text="116 p. : ill. ; 20 cm." lcc_number="" dewey_decimal_normalized="796" dewey_decimal="796" />
+</BookData>
+</BookList>
+</ISBNdb>

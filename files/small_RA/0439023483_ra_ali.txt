@@ -1,0 +1,2 @@
+frame:|hard-edged*1|,|small-town*1|,|gritty*1|,
+pptone:|serious*1|,

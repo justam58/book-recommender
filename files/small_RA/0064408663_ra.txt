@@ -1,0 +1,7 @@
+frame:|humorous*1|,|historical*1|,
+pptone:|quirky*1|,
+storyline:|complex*2|,|gentle*1|,|humorous*3|,|racy*1|,|folksy*1|,|tragic*1|,
+pptopic:|death*1|,|illustration*2|,|addiction*1|,|baby*2|,|disease*12|,
+characterization:|well-developed*2|,
+lang_style:|complex*1|,|passionate*2|,|simple*1|,|unusual*4|,
+pacing:|slow*1|,

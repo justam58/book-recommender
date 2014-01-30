@@ -1,0 +1,7 @@
+Title ===Sasquatch===
+Author ===Roland Smith===
+PublicationDate ===1999-09-25===
+Description ===A compelling action-adventure novel for young readers.===
+PageCount ===188===
+Type ===BOOK===
+AvgRate ===3.5===

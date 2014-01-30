@@ -1,0 +1,3 @@
+frame:|evocative*1|,
+storyline:|humorous*2|,|violent*1|,
+pptopic:|illustration*1|,

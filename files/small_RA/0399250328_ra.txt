@@ -1,0 +1,4 @@
+storyline:|humorous*1|,
+pptopic:|curse*1|,
+characterization:|well-developed*1|,|believable*3|,|sympathetic*2|,
+pacing:|fast*1|,

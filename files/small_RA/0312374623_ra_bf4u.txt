@@ -1,0 +1,4 @@
+frame:|historical*1|,
+pptone:|serious*1|,
+storyline:|issue-oriented*1|,|violent*1|,|action-oriented*1|,
+lang_style:|complex*1|,|unusual*1|,

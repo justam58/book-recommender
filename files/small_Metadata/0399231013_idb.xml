@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T00:29:37Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_hat_a01" isbn="0399231013" isbn13="9780399231018">
+<Title>The hat</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Jan Brett</AuthorsText>
+<PublisherText publisher_id="g_p_putnams_sons_a01">New York : G.P. Putnam's Sons, c1997.</PublisherText>
+<Details change_time="2004-07-14T15:46:47Z" price_time="2013-01-12T21:27:45Z" edition_info="" language="eng" physical_description_text="1 v. (unpaged) : col. ill. ; 23 x 27 cm." lcc_number="PZ7" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

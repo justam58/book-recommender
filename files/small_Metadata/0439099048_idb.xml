@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:44:58Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="katarina" isbn="0439099048" isbn13="9780439099042">
+<Title>Katarína</Title>
+<TitleLong>Katarína: a novel</TitleLong>
+<AuthorsText>Kathryn Winter</AuthorsText>
+<PublisherText publisher_id="farrar_straus_giroux_a01">New York : Farrar Straus Giroux, 1998.</PublisherText>
+<Details change_time="2008-01-11T03:18:15Z" price_time="2010-10-06T15:56:46Z" edition_info="(pbk. : Scholastic)" language="eng" physical_description_text="257 p. ; 22 cm." lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

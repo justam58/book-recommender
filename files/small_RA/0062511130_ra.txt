@@ -1,0 +1,4 @@
+frame:|urban*1|,
+pptopic:|illustration*1|,
+lang_style:|passionate*2|,|unusual*1|,|natural*1|,|classic*1|,
+pacing:|easy*1|,|slow*1|,

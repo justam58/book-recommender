@@ -1,0 +1,5 @@
+frame:|heart-warming*1|,
+storyline:|issue-oriented*1|,|linear*4|,|open-ended*1|,|gentle*1|,|action-oriented*1|,
+pptopic:|illustration*15|,
+characterization:|well-developed*1|,
+lang_style:|passionate*2|,|simple*4|,

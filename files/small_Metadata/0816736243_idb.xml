@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2013-10-16T01:48:59Z">
+<BookList total_results="1" page_size="10" page_number="1" shown_results="1">
+<BookData book_id="the_peanut_butter_trap" isbn="0816736243" isbn13="9780816736249">
+<Title>The Peanut Butter Trap</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Elaine Moore, Meredith Johnson (Illustrator)</AuthorsText>
+<PublisherText publisher_id="troll_communications">Troll Communications</PublisherText>
+<Details change_time="2007-01-20T01:50:42Z" price_time="2012-07-06T21:07:33Z" edition_info="Paperback; 1996-03" language="" physical_description_text="" lcc_number="" dewey_decimal_normalized="" dewey_decimal="" />
+</BookData>
+</BookList>
+</ISBNdb>

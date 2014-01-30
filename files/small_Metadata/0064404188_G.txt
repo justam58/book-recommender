@@ -1,0 +1,9 @@
+Title ===Scary Stories 3===
+Author ===Alvin Schwartz===
+Author ===Stephen Gammell===
+PublicationDate ===1991-08-15===
+Description ===More traditional and modern-day stories of ghosts, haunts, superstitions, monsters, and horrible scary things.===
+PageCount ===128===
+Type ===BOOK===
+LCSH ===Fiction===
+AvgRate ===3.0===

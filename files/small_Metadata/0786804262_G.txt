@@ -1,0 +1,7 @@
+Title ===Petey===
+Author ===Ben Mikaelsen===
+PublicationDate ===1998-09-15===
+Description ===In 1922 Petey, who has cerebral palsy, is misdiagnosed as an idiot and institutionalized; sixty years later, still in the institution, he befriends a boy and shares with him the joy of life.===
+PageCount ===256===
+Type ===BOOK===
+AvgRate ===4.0===
